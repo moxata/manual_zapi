@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Болнични при сумирано отчитане</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Болнични при сумирано отчитане</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Болничните за лица на сумирано отчитане на труда се изчиславт на база часове, а не дни. Това са часове, които лицето е трябвало да работи по график. Т.е. ако не сте въвели графика за това лице, не ви излезне 0 часа болнични. В такъв случай трябва да влезнете във въвеждане на график, да отбележите, кога е трябвало да работи. След това се връщате във въвеждането на данни за ведомостта и натискате дясно копче и &quot;Преизчисляване&quot;.</text></para>
+  </body>
+</topic>

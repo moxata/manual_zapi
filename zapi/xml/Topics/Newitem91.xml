@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Файл за масови плащания</title>
   <body>
     <header>
@@ -11,5 +11,8 @@
     <para styleclass="Normal"></para>
     <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка</text><text styleclass="Comment" translate="true">: Ако не искате да изплащате суми по карта на някое лице просто не му въвеждайте банкова сметка или му пишете сума 0 лв.</text></para>
     <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">ПОДДЪРЖАНИ БАНКИ</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">За да разберете, дали вашата банка се поддържа от програмата просто вижте дали BIC кода й се съдържа в падащия списък на полето &quot;BIC на банката на наредителя&quot;.</text></para>
   </body>
 </topic>

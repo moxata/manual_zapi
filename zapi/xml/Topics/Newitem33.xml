@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Какви менюта се извеждат на екран с десен бутон?</title>
   <body>
     <header>
@@ -12,6 +12,7 @@
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_fish" styleclass="Normal" style="font-weight:normal;" translate="true">Справка фиш за маркирания служител</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_nazna4" styleclass="Normal" style="font-weight:normal;" translate="true">Назначаване, освобождаване, уведомления</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_prenazna4" styleclass="Normal" style="font-weight:normal;" translate="true">Преназначаване</link></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-weight:normal;" translate="true">Клониране - създава идентичен на избрания запис. Най-често се използва за лесно създаване на запис за чл. 222(1).</text></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_klas" styleclass="Normal" style="font-weight:normal;" translate="true">Трудов стаж, процент за клас, клас </link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_dobr" styleclass="Normal" style="font-weight:normal;" translate="true">Вноски за доброволно осигуряване или застраховане</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_dopl" styleclass="Normal" style="font-weight:normal;" translate="true">Доплащания по КТ</link></li>

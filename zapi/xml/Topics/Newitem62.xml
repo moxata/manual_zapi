@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Прехвърляне на данни между месеци</title>
   <body>
     <header>
@@ -20,6 +20,13 @@
       <li styleclass="List" style="text-align:justify;"><text styleclass="List" translate="true">Препоръчително е да изберете &quot;Начин: Изтрий всичко преди копиране&quot;. Тази опция ще елиминира възможността в месеца, в който прехвърляте, да останат данни за служители, които са освободени.</text></li>
     </list>
     <para styleclass="List"></para>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Ако желаете да прехвърлите информация само за едни конкретен служител, въведете неговото &quot;ЕГН&quot; в полето най-долу и махнете отметката пред &quot;Собственик&quot;, за да не се прехвърлят данните за него.</text></para>
+    <para styleclass="List"><table styleclass="Default" rowcount="1" colcount="1" style="cell-padding:5px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:#ffff99;">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">ЛЮБОПИТНО</text><text styleclass="Normal" translate="true">&#32;</text><text styleclass="NormalFirstIdent" translate="true">Ако желаете да прехвърлите информация само за едни конкретен служител, въведете неговото &quot;ЕГН&quot; в полето най-долу и махнете отметката пред &quot;Собственик&quot;, за да не се прехвърлят данните за него.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"></para>
   </body>
 </topic>

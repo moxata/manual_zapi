@@ -121,6 +121,9 @@
       <topicref type="topic" id="411084792182056" build="ALL" modified="2012-07-18T13:24:02.982Z" icon="0" href="smeni">
         <caption translate="true">Работни смени</caption>
       </topicref>
+      <topicref type="topic" id="417686789312351" build="ALL" modified="2014-05-09T11:40:10.430Z" icon="0" href="___5">
+        <caption translate="true">Болнични при сумирано отчитане</caption>
+      </topicref>
     </topicref>
   </topicref>
   <topicref type="topic" id="411038249234574" build="ALL" modified="2012-07-13T16:56:41.074Z" icon="0">
@@ -190,6 +193,12 @@
     </topicref>
     <topicref type="topic" id="411036400317287" build="ALL" modified="2012-07-13T16:56:41.074Z" icon="0" href="Newitem32">
       <caption translate="true">Печат на необходимите документи за граждански договори</caption>
+    </topicref>
+    <topicref type="topic" id="417684916885935" build="ALL" modified="2014-05-09T11:53:18.552Z" icon="0" href="____._55">
+      <caption translate="true">Попълване на Декларация по чл. 55</caption>
+    </topicref>
+    <topicref type="topic" id="417685125432493" build="ALL" modified="2014-05-09T12:05:09.660Z" icon="0" href="___._73">
+      <caption translate="true">Справка/декларация по чл. 73</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="417667074281565" build="ALL" modified="2014-05-07T16:54:08.859Z" icon="0" href="chap_dekl_1_6">

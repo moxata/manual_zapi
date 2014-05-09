@@ -102,7 +102,7 @@
       <config-value name="charset" translate="true">RUSSIAN_CHARSET</config-value>
       <config-value name="deffont">font-family:Tahoma; font-size:11pt; color:#000000;</config-value>
       <config-value name="topicprefix"></config-value>
-      <config-value name="autohelpstart">760</config-value>
+      <config-value name="autohelpstart">790</config-value>
       <config-value name="autohelpincrement">10</config-value>
       <config-value name="autohelpanchor">0</config-value>
       <config-value name="searchpath">..\</config-value>
@@ -318,7 +318,7 @@ document.write('</frameset>');
       <config-value name="skin">..\..\..\..\..\..\Program Files\EC Software\HelpAndManual6\Templates\HTML Skins\Twoframe_Classic_Skin_Silver.hmskin</config-value>
     </config-group>
     <config-group name="pdf">
-      <config-value name="template">..\zapi.mnl</config-value>
+      <config-value name="template">zapi.mnl</config-value>
       <config-value name="style">0</config-value>
       <config-value name="createoutline">1</config-value>
       <config-value name="createhotspots">1</config-value>
@@ -426,8 +426,10 @@ document.write('</frameset>');
     <helpcontext-numbers>
       <helpcontext-number href="__" value="500"/>
       <helpcontext-number href="___" value="590"/>
+      <helpcontext-number href="___._73" value="790"/>
       <helpcontext-number href="___._73__" value="580"/>
       <helpcontext-number href="____" value="550"/>
+      <helpcontext-number href="____._55" value="780"/>
       <helpcontext-number href="______" value="480"/>
       <helpcontext-number href="_____1" value="690"/>
       <helpcontext-number href="_____12" value="720"/>
@@ -438,6 +440,7 @@ document.write('</frameset>');
       <helpcontext-number href="___2" value="670"/>
       <helpcontext-number href="___3" value="680"/>
       <helpcontext-number href="___4" value="730"/>
+      <helpcontext-number href="___5" value="770"/>
       <helpcontext-number href="__2" value="510"/>
       <helpcontext-number href="__3" value="530"/>
       <helpcontext-number href="__4" value="570"/>
