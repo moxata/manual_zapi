@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="user" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Needs Review">
-  <title translate="true">Пропускане на подаванена определена Декларация 1</title>
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Пропускане подаването на определена Декларация 1</title>
   <body>
     <header>
-      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Пропускане на подаванена определена Декларация 1</text></para>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Пропускане подаването на определена Декларация 1</text></para>
     </header>
     <para styleclass="NormalFirstIdent"><text styleclass="Font Style" style="font-family:Tahoma; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Понякога може да искате да не подавате определен запис за Д1, който се генерира от програмата. Можете да го скриете, чрез натискане на дясно копче върху този запис в &quot;</text><text styleclass="Font Style" style="font-family:Tahoma; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#ff0000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">СПИСЪК С ДЕКЛАРАЦИИТЕ 1</text><text styleclass="Font Style" style="font-family:Tahoma; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">&quot; и избор на &quot;Скриване на избрания запис&quot;.</text></para>
   </body>

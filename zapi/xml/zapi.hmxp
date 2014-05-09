@@ -52,42 +52,44 @@
     </helpwindows>
     <styleclasses>
       <styleclass name="Code Example" shortcut="0">
-        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid;</style-set>
-        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt;</style-set>
+        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid; </style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt; </style-set>
       </styleclass>
       <styleclass name="Courier Fixed" shortcut="116">
-        <style-set media="screen" type="text">font-family:'Courier New'; font-size:9pt; color:#000000;</style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:9pt; color:#000000; </style-set>
       </styleclass>
       <styleclass name="Normal" shortcut="115">
-        <style-set media="screen" type="para">text-align:left; text-indent:0px; margin-right:0px; margin-left:0px;</style-set>
-        <style-set media="screen" type="text">font-family:Tahoma; font-size:11pt; color:#000000;</style-set>
+        <style-set media="screen" type="para">text-align:left; text-indent:0px; margin-right:0px; margin-left:0px; </style-set>
+        <style-set media="screen" type="text">font-family:Tahoma; font-size:11pt; color:#000000; </style-set>
       </styleclass>
       <styleclass name="Comment" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">margin-top:5px; margin-right:14px; margin-bottom:5px; margin-left:19px; background-color:#ffff99; padding:5px; border-style:single; border-width:1px;</style-set>
+        <style-set media="screen" type="para">margin-top:5px; margin-right:14px; margin-bottom:5px; margin-left:19px; background-color:#ffff99; padding:5px; border-style:single; border-width:1px; </style-set>
       </styleclass>
       <styleclass name="Heading1" parentclass="Normal" shortcut="114">
-        <style-set media="screen" type="text">font-family:Arial; font-size:12pt; font-weight:bold;</style-set>
+        <style-set media="screen" type="text">font-family:Arial; font-size:12pt; font-weight:bold; </style-set>
       </styleclass>
       <styleclass name="Image Caption" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="text">font-size:8pt; font-weight:bold;</style-set>
+        <style-set media="screen" type="text">font-size:8pt; font-weight:bold; </style-set>
       </styleclass>
       <styleclass name="List" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">text-indent:-24px; margin-left:43px;</style-set>
+        <style-set media="screen" type="para">text-indent:-24px; margin-left:43px; </style-set>
       </styleclass>
       <styleclass name="ListL2" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">text-indent:-38px; margin-left:96px;</style-set>
+        <style-set media="screen" type="para">text-indent:-38px; margin-left:96px; </style-set>
       </styleclass>
       <styleclass name="NormalFirstIdent" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">text-indent:19px;</style-set>
+        <style-set media="screen" type="para">text-indent:19px; </style-set>
       </styleclass>
       <styleclass name="Notes" parentclass="Normal" shortcut="0"/>
       <styleclass name="Zakon" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">margin-left:29px;</style-set>
-        <style-set media="screen" type="text">font-size:10pt; font-style:italic;</style-set>
+        <style-set media="screen" type="para">margin-left:29px; </style-set>
+        <style-set media="screen" type="text">font-size:10pt; font-style:italic; </style-set>
       </styleclass>
-      <styleclass name="висящ до картинка" parentclass="Normal" shortcut="0"/>
+      <styleclass name="висящ до картинка" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">margin-top:6px; margin-left:6px; </style-set>
+      </styleclass>
       <tablestyleclass name="Default">
-        <style-set media="screen">width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;</style-set>
+        <style-set media="screen">width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none; </style-set>
       </tablestyleclass>
     </styleclasses>
     <config-group name="project">
