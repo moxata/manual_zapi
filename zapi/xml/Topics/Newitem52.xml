@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Служебна бележка на изпълнител по ГД</title>
   <body>
     <header>
@@ -14,10 +14,6 @@
       <li styleclass="List"><text styleclass="List" translate="true">Изберете име на служителя, за когото ще е справката</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Избор&quot;</text></li>
     </list>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><tab /></para>
-    <para style="margin-left:19px;"></para>
-    <para style="margin-left:19px;"></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>

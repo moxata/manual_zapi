@@ -16,14 +16,16 @@
     <list id="3" level="2" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Wingdings; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;" translate="true">подават се данни само за самоосигуряващи се лица</text></li>
       <li styleclass="List"><text styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;" translate="true">извършва се корекция, която не засяга сумите в декларацията (пр. промяна на объркано име)</text></li>
-      <li styleclass="List"><text styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;" translate="true">организацията е държавна и др.</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;" translate="true">организацията е държавна</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;" translate="true">имате предписание за корекция от НАП</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;" translate="true">и други</text></li>
     </list>
     <para styleclass="List"></para>
     <para styleclass="List"><image src="d6_prev.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="List"></para>
     <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Ако все още не сте подали декларация 6 за ДОД (код 8), можете да я подадете заедно с осигуровките чрез натискането на бутона &quot;Добавяне на декларация за ДОД&quot;. След натискането му ще се появи форма, в която можете да отбележите в кой месец са изплатени възнагражденията (ако са изплатени). След като потвърдите формата, ще се появи още един ред, който ще съдържа данъка дължим, за възнагражденията изплатени в текущия месец.</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">За да запишете декларацията във формат подходящ за предаване в НАП, използвайте бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Запис на файлове&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За да запишете декларацията във формат подходящ за подаване в НАП, използвайте бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Запис на файлове&quot;</text></li>
       <li styleclass="List"><text styleclass="List" style="font-weight:normal;" translate="true">Появява се форма, в която можете да посочите къде да запишете декларациите както и техните имена. Ако е необходима декларация 6, се появява и името на файла за декларация 6. </text></li>
     </list>
     <para styleclass="List"></para>
