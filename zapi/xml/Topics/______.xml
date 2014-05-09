@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="user" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Декларации за НОИ (болнични листове и заявления)</title>
+  <body>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чрез този бутон можете да създадете декларация с опис на болнични листове и приложения 15 или декларации за НОИ. Документите трябва да са въведени предварително в списъка с болнични листове на всяко лице.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="boln_list.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В появилата се форма можете да маркирате кои документи ще експортирате. По подразбиране в списъка излизат само неекспортираните документи, но можете да маркирате друг филтър чрез контролите в долната част на прозореца. </text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В дясно, в жълтото каре излиза броя избрани документи по видове. Тези бройки влизат в придружителното писмо за НОИ. </text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Долу в дясно можете да попълните информация за приносителя. Програмата дава възможност за въвеждане на 7 приносителя чрез избор на лице вдясно от приносител.</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:center;"><image src="izbor_prinositel.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" style="font-weight:normal;" translate="true">Появява се форма, чрез която можете да изберете папка, в която да експортирате. Изберете папка ако желаете и натиснете &quot;Избор&quot;. Декларацията е готова за предаване в НОИ.</text></para>
+  </body>
+</topic>

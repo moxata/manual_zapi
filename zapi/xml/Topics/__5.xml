@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Настройка на програмата за сумирано отчитане</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Настройка на програмата за сумирано отчитане</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Сумираното отчитане се активира от </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="Normal" translate="true"> -&gt; </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Сумирано отчитане на труда&quot;</text><text styleclass="Normal" translate="true">. Задава се месец, в който се въвежда в употреба и интервала, на който се извършва сумиране. След това се натиска </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Запис&quot;</text><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">След активирането на опцията се появява нов елемент в менюто </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="Normal" translate="true"> - </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;... на работни графици&quot;</text><text styleclass="Normal" translate="true">. От тук съставяте предварителния график за лицата на сумирано отчитане.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Настройка на категорията труд</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За лице, което е на сумирано отчитане, трябва да се избере </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Служител (сумирано)&quot;</text><text styleclass="NormalFirstIdent" translate="true"> в </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">колона 4</text><text styleclass="NormalFirstIdent" translate="true"> на таблицата за въвеждане на персонал. Ако липсва такъв вид можете да го създадете от </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="NormalFirstIdent" translate="true"> -&gt; </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Категории служители&quot;,</text><text styleclass="NormalFirstIdent" translate="true"> като за новата категория трябва да е маркирана отметката </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Сумирано отчитане на работното време&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Редовете на лицата, които са отбелязани правилно стават в светлосин цвят.</text></para>
+  </body>
+</topic>

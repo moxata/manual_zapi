@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Как да създадем Граждански договор?</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Как да създадем Граждански договор?</text></para>
+    </header>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За да създадете граждански договор, трябва да изберете от меню</text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true"> &quot;Въвеждане&quot; -&gt; &quot;...на граждански договори&quot;</text><text styleclass="NormalFirstIdent" translate="true">. </text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">За да започнете попълването на гражданския договор:</text></para>
+    <para style="margin-left:19px;"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Нов Договор&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Номерът на първия договор по подразбиране е 1 и всеки следващ се увеличава с единица. Вие можете да променяте този номер по желание</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете дата на начало и дата на край на договора</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете населеното място, където се сключва договорът в &quot;Град/село&quot;.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете бутона &quot;Избор&quot; срещу полето &quot;Изпълнител №&quot;, за да изберете изпълнител от прозореца, който се отваря. Ако желаното лице не фигурира в този списък, трябва да въведете съответните данни за него. </text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">По подразбиране процентът на нормативните признати разходи е 25. Ако желаете да го промените, щракнете върху стрелкичката вдясно от това поле и от падащото меню изберете желания процент</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За месеците, за които гражданският договор е в сила, въведете сумата по него в колонка сума на реда на месеца</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Ако изпълнителят има и други правоотношения: трудови, служебни, по договор за управление и на свободна професия, в графа &quot;Др.Правоотн.&quot; изберете &quot;ИМА&quot;,след което в колона &quot;ДРУГ ОСИГУРИТЕЛЕН ДОХОД&quot; напишете дохода, на който се осигурява даденият служител по втория договор</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху етикета &quot;Предмет и условия&quot;, за да въведете предмет на договора и задължения на Възложителя и на Изпълнителя</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете &quot;Запис&quot;, за да запаметите договора</text></li>
+    </list>
+  </body>
+</topic>

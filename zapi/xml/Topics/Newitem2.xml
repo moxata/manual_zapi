@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Категории служители</title>
+  <body>
+    <header>
+      <para style="margin-left:19px;"><tab /></para>
+      <para style="text-align:center; margin-left:19px;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">КАТЕГОРИИ СЛУЖИТЕЛИ</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">По принцип по подразбиране в програмата са създадени най-използваните категории служители като: работник І,работник ІІ, работник/служител ІІІ категория труд, служител инвалид, управител по договор за управление и др. Въпреки това, програмата предоставя възможност да създавате и редактирате вече създадени категории служители по много лесен и удобен начин.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ЗА ДА СЪЗДАДЕТЕ КАТЕГОРИЯ</text></para>
+    <para styleclass="Normal"><tab /></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Настройки&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Категории служители&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона &quot;Нова категория&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Задайте категория труд</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Задайте законоустановеното работно време за дадената категория</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете желаните опции</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона &quot;Запис&quot;</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ЗА ДА РЕДАКТИРАТЕ КАТЕГОРИЯ</text></para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Настройки&quot;.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Категории служители&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте желаната категория</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете необходимата корекция в съответното поле</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона &quot;Запис&quot;</text></li>
+    </list>
+  </body>
+</topic>

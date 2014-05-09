@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="user" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Ръчна корекция на скрита Декларация 1</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Ръчна корекция на скрита Декларация 1</text></para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="висящ до картинка"><image src="show_hidden_d1.jpg" align="left" scale="100.00%" styleclass="Image Caption"></image><text styleclass="висящ до картинка" translate="true">Можете да правите ръчни корекции в Декларации 1, които са скрити (понеже програмата ги счита за подадени). Това става чрез десен бутон върху таблицата с декларациите 1 и избор на &quot;Показване на скрити декларации&quot;.</text></para>
+    <para styleclass="висящ до картинка"></para>
+    <para styleclass="висящ до картинка"><text styleclass="висящ до картинка" translate="true">След като извършите корекциите задължително трябва да потвърдите чрез зелената отметка от дясно на надписа &quot;Декларации 1: Текущи&quot;.</text></para>
+    <para styleclass="висящ до картинка"></para>
+  </body>
+</topic>

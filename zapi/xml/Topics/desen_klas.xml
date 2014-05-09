@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Трудов стаж и процент за клас</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Трудов стаж и процент за клас</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Освен чрез ръчно въвеждане на процент за клас в колона 16 на таблицата, програмата предоставя възможност за изчисление на този процент, след като се въведе дата на назначаване на работещото лице и трудов стаж към постъпване на работа в дадената фирма. </text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">За да зададете трудов стаж и съответно начин на изчисляване на процента за клас:</text></para>
+    <para style="margin-left:58px;"><tab /></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете с десния бутон на мишката върху името на желан работник или служител от таблицата</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">От появилото се меню изберете</text><text styleclass="List" style="font-weight:bold;" translate="true"> &quot;Трудов стаж, процент за клас, клас&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За да зададете дата, към която е известен стажа, щракнете върху бутона &quot;15&quot; вдясно от полето за дата и в появилия се календар се придвижете до желан месец и година. Движението в календара става чрез стрелките в горната му част. Единичната стрелка е за смяна на месец, а двойната - за смяна на година. Друг начин за въвеждане на дата е чрез клавиатурата</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Вдясно от датата на назчаване се въвежда трудов стаж към датата, която сте въвели. Желателно е да въведете стажа към датата на постъпване на лицето на работа</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Дефинирайте начин на пресмятане на процент за клас. Ако изберете опцията &quot;Ръчно въведен процент&quot;, процентът ще бъде числото, което трябва да зададете в полето най-долу на този процорец, без да се влияе от стажа. Другата предоставена възможност е процентът да се получава чрез умножаването на годишния коефициент по годините трудов стаж. По подразбиране коефициентът е 0.6%, но можете да го промените в зависимост от условията в трудовия договора, който е подписан </text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В случай, че сте избрали опцията за автоматично изчисляване и сте задали дата на назначаване и предишен стаж (ако има такъв), щракнете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Преизчисли&quot;</text><text styleclass="List" translate="true">, за да бъде изчислен трудовият стаж, както и процентът за клас</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щом щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text><text styleclass="List" translate="true">, стойността от полето </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Процент за клас&quot;</text><text styleclass="List" translate="true"> ще се изкопира в &quot;колона 16&quot; от таблицата, в реда на съответния служител</text></li>
+    </list>
+  </body>
+</topic>

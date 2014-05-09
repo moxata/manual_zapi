@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Статистика</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Статистика</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Програмата предоствя възможност за автоматично извеждане на голяма част от статистическите показатели, които се изискват от НСИ. Извеждат се справки на тримесечие и годишна. При прехвърлянето на данните в официалните формуляри на НСИ може да се наложат леки корекции. Това се налага често за по-малки фирми, за които може да няма 1 лице по средносписъчен брой (&lt;= 0.50 лица) в някои точки, но пък да има възнаграждение. В такива случаи справката се наглася по усмотрение на счетоводителя.</text></para>
+  </body>
+</topic>

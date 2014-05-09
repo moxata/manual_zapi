@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Платежни</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Платежни</text></para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА НАПРАВИМ ПЛАТЕЖНО НАРЕЖДАНЕ?</text></para>
+    <para styleclass="Heading1"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Платежни&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Задайте от клавиатурата желания месец и година</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Задайте данните на наредителя</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Появява се прозорец, в който може да настроите различните видове плащания. Това Ви се налага само, ако не е попълнена банковата сметка на някои от тях, т.е. най-често за сметките за авансов данък, защото те не се попълват автоматично от програмата Попълването става по следния начин:</text></li>
+      <list id="1" level="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+        <li styleclass="List"><text styleclass="List" translate="true">Изберете параграфа, който ще настройвате и щракнете &#160;</text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Настройка на избрания параграф&quot;</text></li>
+        <li styleclass="List"><text styleclass="List" translate="true">Задайте получател и IBAN</text></li>
+        <li styleclass="List"><text styleclass="List" translate="true">Ако искате да смените банката, изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Смяна на банка&quot;</text><text styleclass="List" translate="true"> и изберете желаната от списъка или задайте нова</text></li>
+        <li styleclass="List"><text styleclass="List" translate="true">Когато преключите с настойката щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+      </list>
+    </list>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Ако желаете да настроите и други параграфи, повторете това, което направихте, ако не желаете - изберете</text><text styleclass="List" style="font-weight:bold;" translate="true"> &quot;Добре&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">От отворилия се прозорец избирате платежни за аванс, за заплата след аванс или ако не се изплащат аванси </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Заплати за пълен месец&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Избор&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Появява се прозорец, в който можете да разгледате, и редактирате ако има нужда, платежните нареждания. Разглеждането става с бутоните със стрелките отгоре. Можете също да попълните и напълно ново платежно чрез бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;+&quot;</text></li>
+    </list>
+    <para styleclass="List"><text styleclass="List" translate="true">&#32;</text></para>
+    <para styleclass="Comment" style="text-align:justify;"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка: </text><text styleclass="Comment" translate="true">Ръчно въведените платежни автоматично се прехвърлят в следващия месец, като от вас се иска само да промените сумите по тях ако има нужда.</text></para>
+  </body>
+</topic>

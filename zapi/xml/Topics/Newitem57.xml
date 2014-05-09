@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Суми по видове плащане</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Суми по видове плащане</text></para>
+    </header>
+    <para styleclass="Normal"><text style="font-family:Arial; font-size:12pt; color:#000000;" translate="true">&#32;</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Справката показва суми, които трябва да бъдат удържани от собственика и служителя по различни параграфи (здравно осигуряване, социално осигуряване и др.). </text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА НАПРАВИМ СПРАВКАТА?</text></para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху &#160;</text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Суми по видове плащане&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете желания месец и година</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете вида на договора (трудов или граждански). Ако изберете трудов договор, можете да изберете &quot;обезщетения&quot;, ако желаете да ви се изведат сумите по обезщетенията. Ако желаете информацията за самоосигуряващите се да е отделена от наетите лица, можете да отбележите опцията </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Отделно за самоосигуряващи се&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+    </list>
+    <para styleclass="List"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Извеждане на справката, ако фирмата изплаща аванси:</text></para>
+    <para styleclass="Heading1"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Ако се изплащат аванси, върху тях трябва да се платят осигуровки към тяхното изплащане. Към края на месеца, когато стане време за заплати, сумите за осигуровки, изплатени за авансите трябва да се приспаднат от окончателните суми и да се доплатят оставащите осигуровки.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Осигуровките върху авансите се поделят по аналогичен начин между служители и работодател, но ако не се очаква изплащането на заплата към края на месеца (предприятието няма пари), трябва да се отбележи опцията </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Този месец ще се изплащат само аванси&quot;</text><text styleclass="Normal" translate="true">, което прави осигуровките само за сметка на предприятието. Така е по закон.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">За граждански договори:</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-weight:normal;" translate="true">Справката вкючва само осигуровки и данъци върху граждански договори.</text></para>
+  </body>
+</topic>

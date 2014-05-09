@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Назначен по чл.114</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Назначен по чл.114</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Според чл.114 трудов договор може да се сключва и за работа през определени дни от месеца. Когато работникът или служителят работи при един работодател общо не повече от 5 работни дни на 8 часа или общо 40 часа в месеца последователно или разпокъсано, времето се признава за трудов стаж. За да отбележите, че даден служител е назначен по чл. 114, сложете отметка в колона 29 на таблицата за въвеждане на данни за служителите. </text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Особено е въвеждането на броя отработени часове. Въвеждат се часовете за един работен ден (поле 7) и броят на работните дни (поле 8), така че произведението им да е по-малко или равно на 40 часа. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка: </text><text styleclass="Comment" translate="true">Когато има назначен служител по чл.114, следва че за него не се дължи фонд ГВРС.</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

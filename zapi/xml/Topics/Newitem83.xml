@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Документи</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Документи</text></para>
+    </header>
+    <para styleclass="Normal"><image src="docs.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Документите или т.нар. Личен състав са важна част от програмния продукт. Готовите шаблони на различните документни форми улесняват потребителя и същевременно позволяват редакция за по-специфичните случаи.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Натиснете бутона </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Документи&quot;</text><text styleclass="NormalFirstIdent" translate="true"> (от лентата с инструменти). На екрана в ляво ще видите пълния списък на служителите. В дясно се намира списъкът със създадените документи за избраното лице в ляво.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За създаването на документ (трудов договор, молба, допълнително споразумение и т.н) е необходимо преди всичко да попълните Данни за служителя (долу в дясно), за да бъдат те автоматично нанесени в документите ви.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Данните за служителя се попълват еднократно в програмния продукт и се запаметяват автоматично</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">От списъка със служители вляво изберете този, за когото ще създавате документ. Изберете бутона </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Нов документ&quot;</text><text styleclass="NormalFirstIdent" translate="true"> и типа на документа. За нов трудов &#160;договор е нужно да изберете (маркирате с мишката) уведомление по чл. 62 ал. 2, по което е назначен работникът и след това кликнете върху бутона </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Избор&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В новопоявилия се прозорец попълнете основните данни за новия трудов договор и изберете </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Създаване&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">На екран се появява попълненият трудов договор. Ако е необходимо да направите някакви допълнителни корекции, изберете </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Редактиране на документа&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Бутонът </text><text styleclass="Comment" style="font-weight:bold;" translate="true">„Свойства&quot;</text><text styleclass="Comment" translate="true"> се отнася към свойствата на самия файл на документа, който ще бъде запаметен на компютъра ви.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">По аналогичен начин се създават и останалите видове документи – попълват се основните необходими данни и документът излиза на екран. След това бива редактиран, разпечатан и запаметен.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Вече създаден документ може да бъде редактиран и разпечатан чрез бутона </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Редактиране и печат&quot;</text><text styleclass="NormalFirstIdent" translate="true"> или изтрит от бутона </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Изтриване&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За улеснение за добавени и две ленти </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">„Търсене&quot;</text><text styleclass="NormalFirstIdent" translate="true">. Вляво е организирана лентата за търсене на работник/служител, докато вдясно е лентата за търсене на документ.</text></para>
+  </body>
+</topic>

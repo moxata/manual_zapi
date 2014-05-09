@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Как да зададем дата на назначаване или освобождаване?</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Как да зададем дата на назначаване или освобождаване?</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Често срещана е ситуацията, при която даден служител трябва да бъде назначен, преназначен или освободен от длъжност в произволен ден от месеца. </text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Ако желаете да преназначите или освободите служител:</text></para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете с &#160;мишката върху бутона &quot;Изглед&quot; и изберете &quot;Уведомление по чл.62 ал.5 от КТ&quot;.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В дясно от него ще се появят три жълто оцветени бутона &quot;Освобождаване&quot;, &quot;Преназначаване&quot;, &quot;Преглед уведомление&quot; - изберете желаната опция.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Пред Вас ще се отвори прозорец &quot;Уведомление по чл.62 ал.5 от КТ&quot;. Попълнете необходимите клетки, за да преназначите или да осбоводите даден служител.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">След като въведете нужната информация, изберете бутона &quot;Запис&quot;, за да запаметите направените промени.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Ако желаете да промените първия или последия работен ден на текущия служител можете да щракнете с десен бутон върху неговия ред в таблицата и да изберете &quot;Назначаване, освобождаване, уведомления&quot;. В показалия се прозорец изберете отметката &quot;Ръчно задаване на първи и/или последен работен ден&quot; и след това отбележете съответния ден в горните полета</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Файл за масови плащания</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Файл за масови плащания</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">За да генерирате файл за масови плащания, преди всичко трябва да въведете месеца, чийто данни ще влизат в този файл. Датата на съставяне е зададена по подразбиране, а BIC и IBAN на наредителя са съответно тези, които сте въвели при платежните.</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Запишете файла, като изберете бутона &quot;Запис на дискета&quot;.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка</text><text styleclass="Comment" translate="true">: Ако не искате да изплащате суми по карта на някое лице просто не му въвеждайте банкова сметка или му пишете сума 0 лв.</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

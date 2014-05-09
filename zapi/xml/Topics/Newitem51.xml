@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Служебна бележка</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Служебна бележка</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Справката дава информация за доходи, данъци, задължителни осигурителни вноски, внесени от служител или работодател, както и рекапитулация по месеци.</text></para>
+    <para styleclass="Heading1"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ЗА ДА ИЗДАДЕТЕ СЛУЖЕБНА БЕЛЕЖКА:</text></para>
+    <para style="margin-left:19px;"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете</text><text styleclass="List" style="font-weight:bold;" translate="true"> &quot;Справки&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Служебна бележка&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете ПЕРИОД за служебната бележка</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете име на служителя, за когото ще е справката</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Ако е необходимо, въведете името на предходен работодател и съответните доходи</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Ако е необходимо, изберете съкратен вариант на Служебна бележка. Съкратеният вариант е за лица, които не са на втори трудов договор при този работодател или напускат по време на годината</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+    </list>
+  </body>
+</topic>

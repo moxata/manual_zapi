@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Преизчисляване на служители</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Преизчисляване на служители</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Ако са направени някакви промени по информацията, която влиза във ведомостта за даден човек, необходимо е промените да бъдат актуализирани с текущата информация, т.е. да се извърши преизчисляване за служителя. </text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ПРЕИЗЧИСЛИМ ДАННИТЕ ЗА ЕДИН СЛУЖИТЕЛ?</text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Можете да направите това по два начина:</text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">І. От меню </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Опции за месеца&quot;</text><text styleclass="Normal" translate="true">:</text></para>
+    <para style="margin-left:19px;"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции за месеца&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Преизчисляване на избрания човек&quot;</text></li>
+    </list>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">ІІ. С десен бутон на мишката:</text></para>
+    <para style="margin-left:54px;"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете служителя, за когото ще преизчислявате</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">С десен бутон на мишката изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Преизчисляване&quot;</text></li>
+    </list>
+    <para style="margin-left:24px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Ако са направени промени в опциите за месеца или други промени, касаещи всички служители, необходимо е те да бъдат преизчислени според новите данни.</text></para>
+    <para styleclass="Normal"></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ПРЕИЗЧИСЛИМ ЗА ВСИЧКИ ЛИЦА?</text></para>
+    <para style="margin-left:19px;"></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции за месеца&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Преизчисляване за всички&quot;</text></li>
+    </list>
+    <para style="margin-left:19px;"></para>
+    <para style="margin-left:19px;"></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

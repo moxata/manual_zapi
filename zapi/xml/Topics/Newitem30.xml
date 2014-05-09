@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Как да въведем данни за лицата по Граждански договор</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Как да въведем данни за лицата по Граждански договор</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">След като веднъж въведете данни за човек по граждански договор тези данни се запомнят във Вашата база. Така ще можете да ги използвате във всеки следващ период, когато отново въвеждате граждански договори. Данните ще се пазят до момента, в който изтриете човека от списъка с изпълнители.</text></para>
+    <para style="margin-left:38px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">За да въведете данни за изпълнител по граждански договор:</text></para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; font-weight:bold; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">От менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="List" translate="true"> изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;... на Граждански договор&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете период и от появилия се прозорец щракнете &quot;Нов&quot;.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Отваря се прозорец. В него щракнете &quot;Избор&quot; срещу полето &quot;Изпълнител №&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете бутона &quot;Нов&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В прозореца, който се отваря трябва да въведете данните за лицето</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Особено е въвеждането на информация в полетата &quot;Дата на издаване&quot; на лична карта и &quot;Област&quot;, но те се въвеждат по вече познатия начин. Датата се въвежда или като щракнете в началото на полето и от клавиатурата въведете цифрите (без да въвеждате точка като разделител), или като щракнете върху бутона &quot;15&quot; и от появилия се календар изберете желаната дата. За да зададете област, щракнете върху жълтия бутон вдясно от това поле и от списъка изберете желаната</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За да въведете &quot;Вид осигурен&quot; щракнете върху стрелката вдясно и от падащото меню изберете желания вид.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Когато въведете цялата необходима информация, щракнете &quot;Добре&quot;, за да запаметите въведеното.</text></li>
+    </list>
+    <para style="margin-left:96px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">За да редактирате данни за вече въведен изпълнител по граждански договор в прозореца </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Избор на изпълнител&quot;</text><text styleclass="Normal" translate="true">, щракнете бутона </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Редакция&quot;</text><text styleclass="Normal" translate="true">, а за да изтриете въведен изпълнител в същия прозорец, щракнете </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Изтриване&quot;</text><text styleclass="Normal" translate="true"> (&quot;-&quot;).</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

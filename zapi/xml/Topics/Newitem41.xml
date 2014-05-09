@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Как да променим минималната раб. заплата?</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Как да променим минималната раб. заплата?</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">Промяната на минималната работна заплата се отразява върху някои удръжки и надбавки, затова винаги след нейната промяна избирайте </text><link displaytype="text" defaultstyle="true" type="topiclink" href="recalc" styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">преизчисляване</link><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true"> на данните.</text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ИЗВЪРШИМ ПРОМЯНАТА?</text></para>
+    <para style="margin-left:19px;"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции за месеца&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">От него изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Промяна на минимална раб. заплата&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В появилия се прозорец задайте желаната стойност</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+    </list>
+    <para styleclass="List"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Друг начин за промяна на минималната работна заплата е:</text></para>
+    <para style="margin-left:19px;"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Над таблицата, в която въвеждате информация за работниците, има надпис </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;МРЗ&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху горепосочения надпис</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В появилия се прозорец, въведете актуалната минимална работна заплата</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+    </list>
+  </body>
+</topic>

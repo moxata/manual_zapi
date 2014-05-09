@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Годишна Декларация 6 за самоосигуряващи се</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Годишна Декларация 6 за самоосигуряващи се</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Тази функция Ви позволява да генерирате годишната декларация за самоосигуряващите се лица, като изберете единствено годината, за която ще бъде съставена декларацията. Тази декларация се попълва автоматично с месец 13, което е по изискванията на НАП и съдържа дължимия данък за цялата година. </text></para>
+  </body>
+</topic>

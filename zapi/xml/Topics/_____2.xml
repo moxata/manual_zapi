@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Как да въведем платен отпуск?</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Как да въведем платен отпуск?</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Платен отпуск се въвежда от колона 17 - брой дни в платен отпуск. Програмата извършва изчисленията автоматично.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Ако няма информация за минал месец, в който лицето има 10 или повече отработени дни, програмата няма как да изчисли платения отпуск. Това става най-често при новоназначени лица или при започване на работа с програмата в текущия месец. Това ограничение е преодоляно като е дадена възможност сами да въведете сумата на платения отпуск в колона 18 - </text><text styleclass="Comment" style="font-weight:bold;" translate="true">ръчно пресметнат платен отпуск</text><text styleclass="Comment" translate="true">.</text></para>
+  </body>
+</topic>

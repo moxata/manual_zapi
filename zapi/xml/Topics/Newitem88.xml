@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Удостоверение за осигурителен доход</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Удостоверение за осигурителен доход</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Справката генерира удостоверение за осигурителен доход за всеки от работниците/служителите поотделно. Задава се конкретен период, на базата на който да се изчисли доходът. Въведени са и два варианта на справката - да показва колона, съдържаща осигурителния доход или колона, съдържаща брутното трудово възнаграждение.</text></para>
+  </body>
+</topic>

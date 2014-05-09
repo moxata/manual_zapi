@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Удръжки</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Удръжки</text></para>
+    </header>
+    <para styleclass="Normal"><image src="udruj.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Програмата предоставя много лесен и удобен начин за създаване на нови видове удръжки от потребителя. Това можете да направите от съответния бутон &quot;Удръжки&quot;.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА СЪЗДАДЕМ НОВА УДРЪЖКА?</text></para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте служителя, за когото ще въвеждате удръжка</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Удръжки&quot;</text><text styleclass="List" translate="true"> и след това изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Нова удръжка&quot; </text><text styleclass="List" style="font-weight:normal;" translate="true">(оцветен е жълто)</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В полето за вид удръжка изберете желаната. Ако тя не съществува, можете да я създадете по следния начин:</text></li>
+      <list id="3" level="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+        <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Нов вид&quot;</text></li>
+        <li styleclass="List"><text styleclass="List" translate="true">Изпишете името на удръжката в полето &quot;Наименование&quot; и изберете модела на удръжката от списъка &quot;Модел&quot;</text></li>
+        <li styleclass="List"><text styleclass="List" translate="true">Задайте дали тази удръжка е данъчно облекчение или не е, или ако не е свързана с осигуряването, а само с лицето, задайте лична. Личната удръжка се изважда от сумата за получаване, но не се изважда от нетното възнаграждение на лицето, т.е. не се намаля базата за болничните</text></li>
+        <li styleclass="List"><text styleclass="List" translate="true">Щракнете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Запис&quot;</text></li>
+      </list>
+    </list>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">След като сте избрали вида удръжка, натиснете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Създай&quot;</text><text styleclass="List" translate="true"> и в появилата се форма попълнете дните и сумите в съответните полета</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК &#160;ДА РЕДАКТИРАМЕ УДРЪЖКА?</text></para>
+    <para styleclass="Heading1"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте служителя, чиято удръжка ще редактирате</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Удръжки&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:normal;" translate="true">Изберете удръжката от списъка</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете жълтооцветения бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Редактиране&quot; </text><text styleclass="List" style="font-weight:normal;" translate="true">(оцветен в жълто)</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Нанесете новата сума и щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА ИЗТРИЕМ УДРЪЖКА?</text></para>
+    <para styleclass="Heading1"></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте служителя, чиято удръжка ще изтривате</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Удръжки&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:normal;" translate="true">Изберете удръжката от списъка</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Изтриване&quot; </text><text styleclass="List" translate="true">(оцветен в жълто)</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Потвърдете операцията</text></li>
+    </list>
+  </body>
+</topic>

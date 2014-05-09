@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="vlad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Помощник за настройване</title>
+  <body>
+    <header>
+      <para style="margin-left:19px;"><tab /><tab /></para>
+      <para style="text-align:center; margin-left:19px;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">ПОМОЩНИК ЗА НАСТРОЙВАНЕ</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">При първоначално започване на работа с </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">КомБайт Работна Заплата</text><text styleclass="NormalFirstIdent" translate="true"> е необходимо да въведете информация за фирмата като БУЛСТАТ, НКИД, адрес, МОЛ и други. Тази информация ще се използва в последствие при изготвяне на справки и декларации.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">При стартиране на програмата с нови данни се отваря прозорец, който с подробни указания показва на потребителя как да настрои програмата. Този прозорец е идентичен с този, който се отваря от менюто </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="NormalFirstIdent" translate="true"> -&gt; </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Помощник за първоначално настройване&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para style="margin-left:19px;"></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА ИЗВЪРШИМ НАСТРОЙКАТА?</text></para>
+    <para style="margin-left:19px;"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">От менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="List" translate="true"> изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Помощник за първоначално настройване&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">На втория прозорец щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;тук&quot;</text><text styleclass="List" translate="true"> и ще се отвори форма за попълване на информация за фирмата</text></li>
+      <li styleclass="List"><link displaytype="text" defaultstyle="true" type="topiclink" href="CompanyInfo" styleclass="List" translate="true">Попълнете цялата информация за фирмата</link></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Натиснете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Банкови сметки&quot;</text><text styleclass="List" translate="true"> и изберете града, в който е регистрирана фирмата. След това </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Промяна&quot;</text><text styleclass="List" translate="true">. Тази функция ще въведе банковите сметки на НАП, които се отнасят за избрания град. Единствено по-нататък ще ви се наложи да въведете сметката за авансов данък, защото тя е по квартали/малки населени места</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Потвърдете информацията за фирмата със </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Запис&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Следващ&quot;</text><text styleclass="List" translate="true"> отново</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Тук&quot;</text><text styleclass="List" translate="true"> пак и попълнете за 6 месеца назад календара на работните дни и минималната работна заплата</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text><text styleclass="List" translate="true"> и после </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Следващ&quot;</text><text styleclass="List" translate="true"> два пъти</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Край&quot;</text></li>
+    </list>
+  </body>
+</topic>

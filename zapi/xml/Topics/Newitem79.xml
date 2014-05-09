@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="user" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Декларация 6 - за ДОД</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Декларация 6 - за ДОД</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Това е декларация, която съдържа авансовия данък, който се дължи за възнагражденията изплатени в съответния месец. В повечето случаи тази декларация се подава едновременно с декларирането на осигуровките.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Вижте главата </text><link displaytype="text" defaultstyle="true" type="topiclink" href="chap_dekl_1_6" styleclass="Normal" translate="true">ЕДНОВРЕМЕННИ ДЕКЛАРАЦИИ 1 и 6</link><text styleclass="Normal" translate="true">.</text></para>
+  </body>
+</topic>

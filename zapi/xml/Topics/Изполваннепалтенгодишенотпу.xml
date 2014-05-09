@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Изполвани неплатени отпуски</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Изполвани неплатени отпуски</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Справката </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Използвани неплатени отпуски&quot;</text><text styleclass="NormalFirstIdent" translate="true"> извежда на екрана информацията за всички служители по месеци. Изберете периода (годината), за която ще пускате справката и разпечатайте. &#160;</text></para>
+  </body>
+</topic>

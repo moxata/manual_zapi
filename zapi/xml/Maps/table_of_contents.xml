@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="411035386511433" build="ALL" modified="2012-07-18T13:44:47.939Z" icon="0">
+    <caption translate="true">ВЪВЕДЕНИЕ</caption>
+    <topicref type="topic" id="411037297134925" build="ALL" modified="2012-07-13T18:07:03.305Z" icon="0" href="GettingStarted">
+      <caption translate="true">Помощник за настройване</caption>
+    </topicref>
+    <topicref type="topic" id="411036708877134" build="ALL" modified="2012-07-13T18:08:50.000Z" icon="0" href="CompanyInfo">
+      <caption translate="true">Настройка на фирмата</caption>
+    </topicref>
+    <topicref type="topic" id="411085544893299" build="ALL" modified="2012-07-18T13:44:58.873Z" icon="0" href="topic3">
+      <caption translate="true">Основен екран</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411038051006295" build="ALL" modified="2012-07-18T13:56:15.187Z" icon="0" href="buttons">
+    <caption translate="true">БУТОНИ</caption>
+    <topicref type="topic" id="411078259631447" build="ALL" modified="2012-07-17T18:56:30.250Z" icon="0" href="__">
+      <caption translate="true">Край на въвеждане</caption>
+    </topicref>
+    <topicref type="topic" id="411076728895367" build="ALL" modified="2012-07-17T18:58:21.504Z" icon="0" href="__2">
+      <caption translate="true">Навигация между месеците</caption>
+    </topicref>
+    <topicref type="topic" id="411077604665028" build="ALL" modified="2012-07-17T19:57:11.506Z" icon="0" href="btn_Vedom">
+      <caption translate="true">Операции с редовете на ведомостта</caption>
+    </topicref>
+    <topicref type="topic" id="411080093371445" build="ALL" modified="2012-07-17T19:05:49.636Z" icon="0" href="__3">
+      <caption translate="true">Търсене във ведомостта</caption>
+    </topicref>
+    <topicref type="topic" id="411037448195827" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem83">
+      <caption translate="true">Документи</caption>
+    </topicref>
+    <topicref type="topic" id="411037627504832" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem69">
+      <caption translate="true">Обезщетения</caption>
+    </topicref>
+    <topicref type="topic" id="411036795649090" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem70">
+      <caption translate="true">Удръжки</caption>
+    </topicref>
+    <topicref type="topic" id="411038205226081" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem71">
+      <caption translate="true">Майчинство</caption>
+    </topicref>
+    <topicref type="topic" id="411038973019597" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem72">
+      <caption translate="true">Уведомления</caption>
+    </topicref>
+    <topicref type="topic" id="411078085021980" build="ALL" modified="2012-07-17T19:19:53.589Z" icon="0" href="btn_Disk">
+      <caption translate="true">Дискета</caption>
+    </topicref>
+    <topicref type="topic" id="411034959096287" build="ALL" modified="2012-07-17T16:49:17.390Z" icon="0" href="Newitem74">
+      <caption translate="true">Меню &quot;Изглед&quot;</caption>
+    </topicref>
+    <topicref type="topic" id="411038435105210" build="ALL" modified="2012-07-17T19:36:21.051Z" icon="0" href="btn_Lock">
+      <caption translate="true">Заключване на месеца</caption>
+    </topicref>
+    <topicref type="topic" id="411036603806896" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem68">
+      <caption translate="true">Легенда</caption>
+    </topicref>
+    <topicref type="topic" id="411035908728119" build="ALL" modified="2012-07-17T19:23:40.573Z" icon="0" href="btn_Copy">
+      <caption translate="true">Копиране</caption>
+      <topicref type="topic" id="411038645554762" build="ALL" modified="2014-05-07T16:51:09.718Z" icon="0" href="Newitem78">
+        <caption translate="true">Декларации 1 и 6 - за служители, управители и собственици</caption>
+      </topicref>
+      <topicref type="topic" id="417668594549132" build="ALL" modified="2014-05-07T16:51:58.843Z" icon="0" href="_1__6_-___">
+        <caption translate="true">Декларации 1 и 6 - за граждански договори</caption>
+      </topicref>
+      <topicref type="topic" id="411038099347305" build="ALL" modified="2014-05-07T16:52:15.796Z" icon="0" href="Newitem79">
+        <caption translate="true">Декларация 6 - за ДОД</caption>
+      </topicref>
+      <topicref type="topic" id="411079052160347" build="ALL" modified="2012-07-17T18:27:33.067Z" icon="0" href="______">
+        <caption translate="true">Декларации за НОИ (болнични листове и заявления)</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411036726201807" build="ALL" modified="2012-07-17T20:19:46.100Z" icon="0" href="_____">
+    <caption translate="true">ЛИЦА НА ТРУДОВИ ДОГОВОРИ</caption>
+    <topicref type="topic" id="411080306847880" build="ALL" modified="2012-07-17T20:24:05.349Z" icon="0" href="____">
+      <caption translate="true">Оцветяване на редовете на таблицата</caption>
+    </topicref>
+    <topicref type="topic" id="411037660021083" build="ALL" modified="2012-07-13T16:56:41.073Z" icon="0" href="Newitem2">
+      <caption translate="true">Категории служители</caption>
+    </topicref>
+    <topicref type="topic" id="411037469347966" build="ALL" modified="2012-07-13T16:56:41.073Z" icon="0" href="Newitem12">
+      <caption translate="true">Как да зададем дата на назначаване или освобождаване?</caption>
+    </topicref>
+    <topicref type="topic" id="41107674884459" build="ALL" modified="2012-07-17T20:15:36.835Z" icon="0" href="_____2">
+      <caption translate="true">Как да въведем платен отпуск?</caption>
+    </topicref>
+    <topicref type="topic" id="411037128571046" build="ALL" modified="2012-07-17T20:15:42.812Z" icon="0" href="Какдавъведемнеплатенотпуск">
+      <caption translate="true">Как да въведем неплатен отпуск?</caption>
+    </topicref>
+    <topicref type="topic" id="411037769445652" build="ALL" modified="2012-07-17T20:13:47.487Z" icon="0" href="NewBoln">
+      <caption translate="true">Създаване на болнични/приложение 15</caption>
+    </topicref>
+    <topicref type="topic" id="411037692330496" build="ALL" modified="2012-07-13T16:56:41.073Z" icon="0" href="Newitem15">
+      <caption translate="true">Договор за управление и контрол</caption>
+    </topicref>
+    <topicref type="topic" id="411038046647266" build="ALL" modified="2012-07-13T16:56:41.073Z" icon="0" href="Newitem16">
+      <caption translate="true">Учителски пенсионен фонд</caption>
+    </topicref>
+    <topicref type="topic" id="411035093123031" build="ALL" modified="2012-07-17T20:11:21.417Z" icon="0" href="Newitem9">
+      <caption translate="true">Как да премахнем ред за служител?</caption>
+    </topicref>
+    <topicref type="topic" id="411035865625499" build="ALL" modified="2012-07-13T16:56:41.072Z" icon="0" href="Newitem8">
+      <caption translate="true">Как да зададем минимален осигурителен праг?</caption>
+    </topicref>
+    <topicref type="topic" id="411036991935891" build="ALL" modified="2012-07-13T16:56:41.073Z" icon="0" href="Newitem13">
+      <caption translate="true">Назначен по чл.114</caption>
+    </topicref>
+    <topicref type="topic" id="411035402993690" build="ALL" modified="2012-07-13T16:56:41.073Z" icon="0" href="Newitem14">
+      <caption translate="true">Дължи ли по ГВРС</caption>
+    </topicref>
+    <topicref type="topic" id="41107530734565" build="ALL" modified="2012-07-18T11:57:49.414Z" icon="0" href="___">
+      <caption translate="true">Сумирано отчитане на труда</caption>
+      <topicref type="topic" id="411084274627763" build="ALL" modified="2012-07-18T12:51:45.441Z" icon="0" href="__5">
+        <caption translate="true">Настройка на програмата за сумирано отчитане</caption>
+      </topicref>
+      <topicref type="topic" id="411087138313255" build="ALL" modified="2012-07-18T13:17:36.917Z" icon="0" href="____2">
+        <caption translate="true">Работни графици и присъствена форма</caption>
+      </topicref>
+      <topicref type="topic" id="411084792182056" build="ALL" modified="2012-07-18T13:24:02.982Z" icon="0" href="smeni">
+        <caption translate="true">Работни смени</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411038249234574" build="ALL" modified="2012-07-13T16:56:41.074Z" icon="0">
+    <caption translate="true">ОПЦИИ НА ДЕСНИЯ БУТОН</caption>
+    <topicref type="topic" id="411036156543924" build="ALL" modified="2012-07-13T16:56:41.074Z" icon="0" href="Newitem33">
+      <caption translate="true">Какви менюта се извеждат на екран с десен бутон?</caption>
+    </topicref>
+    <topicref type="topic" id="411038863436521" build="ALL" modified="2012-07-17T11:03:51.329Z" icon="0" href="desen_fish">
+      <caption translate="true">Извеждане на справка фиш на екран</caption>
+    </topicref>
+    <topicref type="topic" id="411037136427682" build="ALL" modified="2012-07-17T11:04:50.349Z" icon="0" href="desen_nazna4">
+      <caption translate="true">Назначаване, освобождаване, уведомления</caption>
+    </topicref>
+    <topicref type="topic" id="411038298110845" build="ALL" modified="2012-07-17T11:05:17.230Z" icon="0" href="desen_prenazna4">
+      <caption translate="true">Преназначаване</caption>
+    </topicref>
+    <topicref type="topic" id="411037261365907" build="ALL" modified="2012-07-17T11:12:41.133Z" icon="0" href="desen_klas">
+      <caption translate="true">Трудов стаж и процент за клас</caption>
+    </topicref>
+    <topicref type="topic" id="411038426401951" build="ALL" modified="2012-07-17T11:21:33.286Z" icon="0" href="desen_dobr">
+      <caption translate="true">Вноски за доброволно осигуряване или застраховка</caption>
+    </topicref>
+    <topicref type="topic" id="411036476244796" build="ALL" modified="2012-07-17T11:21:53.390Z" icon="0" href="desen_dopl">
+      <caption translate="true">Доплащания по КТ</caption>
+    </topicref>
+    <topicref type="topic" id="411036818238444" build="ALL" modified="2012-07-17T11:29:37.529Z" icon="0" href="desen_recalc">
+      <caption translate="true">Преизчисляване</caption>
+    </topicref>
+    <topicref type="topic" id="411036680238934" build="ALL" modified="2012-07-17T11:33:32.510Z" icon="0" href="desen_sobst">
+      <caption translate="true">Опции за собствениците</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411038975974996" build="ALL" modified="2012-07-13T16:56:41.075Z" icon="0">
+    <caption translate="true">ОПЦИИ ЗА МЕСЕЦА</caption>
+    <topicref type="topic" id="411037313339526" build="ALL" modified="2012-07-13T16:56:41.075Z" icon="0" href="Newitem40">
+      <caption translate="true">Как да променим броя работни дни?</caption>
+    </topicref>
+    <topicref type="topic" id="411036531228824" build="ALL" modified="2012-07-13T16:56:41.075Z" icon="0" href="Newitem41">
+      <caption translate="true">Как да променим минималната раб. заплата?</caption>
+    </topicref>
+    <topicref type="topic" id="411039132202815" build="ALL" modified="2012-07-17T11:43:16.627Z" icon="0" href="Newitem43">
+      <caption translate="true">Опции за собственика/самоосигуряващите се</caption>
+    </topicref>
+    <topicref type="topic" id="411035049108622" build="ALL" modified="2012-07-17T19:19:19.612Z" icon="0" href="PrisForm">
+      <caption translate="true">Присъствени форми</caption>
+    </topicref>
+    <topicref type="topic" id="411035124378042" build="ALL" modified="2012-07-13T16:56:41.075Z" icon="0" href="Newitem44">
+      <caption translate="true">Годишно изравняване</caption>
+    </topicref>
+    <topicref type="topic" id="411035821461705" build="ALL" modified="2012-07-17T11:35:01.275Z" icon="0" href="recalc">
+      <caption translate="true">Преизчисляване на служители</caption>
+    </topicref>
+    <topicref type="topic" id="411036312144423" build="ALL" modified="2012-07-13T16:56:41.075Z" icon="0" href="Newitem47">
+      <caption translate="true">Как да преномерираме?</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411037353198615" build="ALL" modified="2012-07-17T20:19:53.456Z" icon="0">
+    <caption translate="true">ЛИЦА НА ГРАЖДАНСКИ ДОГОВОРИ</caption>
+    <topicref type="topic" id="411084806334055" build="ALL" modified="2012-07-18T12:14:27.748Z" icon="0" href="__6">
+      <caption translate="true">Осигуряване според закона</caption>
+    </topicref>
+    <topicref type="topic" id="411039133840418" build="ALL" modified="2012-07-18T11:52:42.301Z" icon="0" href="Newitem27">
+      <caption translate="true">Как да създадем Граждански договор?</caption>
+    </topicref>
+    <topicref type="topic" id="411036303033151" build="ALL" modified="2012-07-13T16:56:41.074Z" icon="0" href="Newitem30">
+      <caption translate="true">Как да въведем данни за лицата по Граждански договор</caption>
+    </topicref>
+    <topicref type="topic" id="411036400317287" build="ALL" modified="2012-07-13T16:56:41.074Z" icon="0" href="Newitem32">
+      <caption translate="true">Печат на необходимите документи за граждански договори</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="417667074281565" build="ALL" modified="2014-05-07T16:54:08.859Z" icon="0" href="chap_dekl_1_6">
+    <caption translate="true">ЕДНОВРЕМЕННИ ДЕКЛАРАЦИИ 1 и 6</caption>
+    <topicref type="topic" id="417667573760524" build="ALL" modified="2014-05-07T16:36:19.625Z" icon="0" href="___2">
+      <caption translate="true">Текущи декларации за подаване</caption>
+    </topicref>
+    <topicref type="topic" id="417664943797539" build="ALL" modified="2014-05-07T16:38:18.343Z" icon="0" href="dekl_1_6">
+      <caption translate="true">Генериране на файлове с Декларации обр. 1 и 6</caption>
+    </topicref>
+    <topicref type="topic" id="417667715989217" build="ALL" modified="2014-05-07T16:39:30.140Z" icon="0" href="___3">
+      <caption translate="true">Коригиращи и заличаващи декларации</caption>
+    </topicref>
+    <topicref type="topic" id="417665187602578" build="ALL" modified="2014-05-07T16:46:50.515Z" icon="0" href="_____1">
+      <caption translate="true">Пропускане на подаванена определена Декларация 1</caption>
+    </topicref>
+    <topicref type="topic" id="417668255031553" build="ALL" modified="2014-05-07T17:10:10.921Z" icon="0" href="_____12">
+      <caption translate="true">Ръчна корекция на скрита Декларация 1</caption>
+    </topicref>
+    <topicref type="topic" id="417665298330586" build="ALL" modified="2014-05-07T16:47:34.218Z" icon="0" href="___1__">
+      <caption translate="true">Проверка на Декларация 1 преди подаване</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="417667703399582" build="ALL" modified="2014-05-07T17:39:20.046Z" icon="0" href="confirm">
+    <caption translate="true">ПОТВЪРЖДАВАНЕ НА ДЕКЛАРАЦИИ</caption>
+  </topicref>
+  <topicref type="topic" id="411035853699945" build="ALL" modified="2012-07-17T20:14:36.299Z" icon="0">
+    <caption translate="true">СПРАВКИ</caption>
+    <topicref type="topic" id="411038414242222" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem53">
+      <caption translate="true">Ведомост за трудови договори</caption>
+    </topicref>
+    <topicref type="topic" id="411035244596337" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem54">
+      <caption translate="true">Ведомост за граждански договори</caption>
+    </topicref>
+    <topicref type="topic" id="411037169459609" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem50">
+      <caption translate="true">Фиш</caption>
+    </topicref>
+    <topicref type="topic" id="411039068523046" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem57">
+      <caption translate="true">Суми по видове плащане</caption>
+    </topicref>
+    <topicref type="topic" id="411037873365125" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem88">
+      <caption translate="true">Удостоверение за осигурителен доход</caption>
+    </topicref>
+    <topicref type="topic" id="411039013448468" build="ALL" modified="2012-07-17T14:57:19.340Z" icon="0" href="Newitem89">
+      <caption translate="true">Използвани платени отпуски</caption>
+    </topicref>
+    <topicref type="topic" id="411036753748713" build="ALL" modified="2012-07-24T20:10:33.313Z" icon="0" href="Изполваннепалтенгодишенотпу">
+      <caption translate="true">Изполвани неплатени отпуски</caption>
+    </topicref>
+    <topicref type="topic" id="411084231862425" build="ALL" modified="2012-07-18T11:38:48.535Z" icon="0" href="topic">
+      <caption translate="true">Статистика</caption>
+    </topicref>
+    <topicref type="topic" id="411084515363834" build="ALL" modified="2012-07-18T11:44:13.205Z" icon="0" href="__4">
+      <caption translate="true">Удръжки по видове</caption>
+    </topicref>
+    <topicref type="topic" id="417666315506913" build="ALL" modified="2014-05-07T17:27:02.843Z" icon="0" href="___4">
+      <caption translate="true">История на подадените декларации</caption>
+    </topicref>
+    <topicref type="topic" id="411035762079883" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem55">
+      <caption translate="true">Годишна ведомост</caption>
+    </topicref>
+    <topicref type="topic" id="411035924892813" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem51">
+      <caption translate="true">Служебна бележка</caption>
+    </topicref>
+    <topicref type="topic" id="411036117862095" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem52">
+      <caption translate="true">Служебна бележка на изпълнител по ГД</caption>
+    </topicref>
+    <topicref type="topic" id="411038692688212" build="ALL" modified="2012-07-17T15:38:40.841Z" icon="0" href="UP2">
+      <caption translate="true">УП2 - удостоверение за осигурителен доход</caption>
+    </topicref>
+    <topicref type="topic" id="411035056155876" build="ALL" modified="2012-07-17T15:38:35.522Z" icon="0" href="UP3">
+      <caption translate="true">УП3 - удостоверение за осигурителен/трудов стаж</caption>
+    </topicref>
+    <topicref type="topic" id="411038922905842" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem90">
+      <caption translate="true">Годишна Декларация 6 за самоосигуряващи се</caption>
+    </topicref>
+    <topicref type="topic" id="411086181609704" build="ALL" modified="2012-07-18T11:47:10.371Z" icon="0" href="___._73__">
+      <caption translate="true">Справка/декларация по чл. 73 от ЗДДФЛ</caption>
+    </topicref>
+    <topicref type="topic" id="411036223933332" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem58">
+      <caption translate="true">Платежни</caption>
+    </topicref>
+    <topicref type="topic" id="411036590597173" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem91">
+      <caption translate="true">Файл за масови плащания</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411038910699041" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0">
+    <caption translate="true">СЕРВИЗ</caption>
+    <topicref type="topic" id="411037826258930" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem59">
+      <caption translate="true">Смяна на данните</caption>
+    </topicref>
+    <topicref type="topic" id="411036200576556" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem60">
+      <caption translate="true">Архивиране</caption>
+    </topicref>
+    <topicref type="topic" id="411035183784598" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem61">
+      <caption translate="true">Проверка на данните</caption>
+    </topicref>
+    <topicref type="topic" id="411037159794891" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem64">
+      <caption translate="true">Смяна на устройството за архивиране и запис на декларации</caption>
+    </topicref>
+    <topicref type="topic" id="411038127605161" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem62">
+      <caption translate="true">Прехвърляне на данни между месеци</caption>
+    </topicref>
+    <topicref type="topic" id="411036251697279" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0">
+      <caption translate="true">СЛУЖЕБНИ КОРЕКЦИИ</caption>
+      <topicref type="topic" id="411037896411687" build="ALL" modified="2012-07-17T13:24:33.790Z" icon="0" href="Newitem63">
+        <caption translate="true">Задаване на парола за вход в програмата</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="411035857652929" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem66">
+      <caption translate="true">Изпращане на данни за проверка през интернет</caption>
+    </topicref>
+    <topicref type="topic" id="411035385533308" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem65">
+      <caption translate="true">Актуализация през Интернет</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411035787009828" build="ALL" modified="2012-07-13T16:56:41.079Z" icon="0">
+    <caption translate="true">ЧЕСТО ЗАДАВАНИ ВЪПРОСИ</caption>
+    <topicref type="topic" id="411038033520882" build="ALL" modified="2012-07-13T16:56:41.079Z" icon="0" href="Newitem81">
+      <caption translate="true">Най-често задаваните въпроси?</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="411038520150078" build="ALL" modified="2012-07-13T16:56:41.079Z" icon="0">
+    <caption translate="true">ИЗХОД ОТ ПРОГРАМАТА</caption>
+    <topicref type="topic" id="411034942884138" build="ALL" modified="2012-07-13T16:56:41.079Z" icon="0" href="Newitem82">
+      <caption translate="true">Как да излезем от програмата?</caption>
+    </topicref>
+  </topicref>
+</map>

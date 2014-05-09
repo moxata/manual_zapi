@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Създаване на болнични/приложение 15</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Създаване на болнични/приложение 15</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Болничните се въвеждат в списъка горе в ляво.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para style="text-align:center; margin-left:19px;"><image src="boln_list.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Избира се лицето, за което се отнася болничният лист. Натиска се </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Нов болничен лист&quot;</text><text styleclass="NormalFirstIdent" translate="true"> и в появилата се форма се попълва информацията за болничния.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para style="text-align:center; margin-left:19px;"><image src="new_boln.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Когато болничния лист е за раждане трябва задължително да маркирате отметката </text><text styleclass="Comment" style="font-weight:bold;" translate="true">&quot;Болничен за бременност и раждане&quot;</text><text styleclass="Comment" translate="true">.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">След като сте попълнили формата натиснете бутона &quot;Приложение 15&quot;. Ако са открити грешки в попълването се появява форма, която Ви дава възможност да допопълните приложение 15. Ако лицето работи на два трудови договора, във фирмата се генерират две приложения 15.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">След като сте попълнили и приложенията 15 и болничния, го запишете с </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Запис&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> След като се експортира записа за болничния, се активира отметката &quot;</text><text styleclass="Comment" style="font-weight:bold;" translate="true">Предадено в НОИ</text><text styleclass="Comment" translate="true">&quot;. Ако не сте успели да предадете болничния можете спокойно да редактирате болничния и да махнете тази отметка.</text></para>
+  </body>
+</topic>

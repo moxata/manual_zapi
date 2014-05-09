@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Справка/декларация по чл. 73 от ЗДДФЛ</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Справка/декларация по чл. 73 от ЗДДФЛ</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Тази справка се предава веднъж годишно. В нея се декларират изплатените по извънтрудови правоотношения доходи. След като я попълните можете да я разпечатате и да я запишете в електронен формат, подходящ за предаване в НАП.</text></para>
+  </body>
+</topic>

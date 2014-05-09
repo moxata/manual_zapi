@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Задаване на парола за вход в програмата</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Задаване на парола за вход в програмата</text></para>
+    </header>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Програмата позволява да сложите парола за вход в програмата, за да защитите данните си. Тази парола остава валидна и ако някои копира данните Ви и се опита да ги пусне на друг компютър. </text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Изберете &quot;</text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">Сервиз</text><text styleclass="NormalFirstIdent" translate="true">&quot; -&gt; &quot;</text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">Служебни корекции</text><text styleclass="NormalFirstIdent" translate="true">&quot; -&gt; &quot;</text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">Задаване на парола за вход в програмата</text><text styleclass="NormalFirstIdent" translate="true">&quot;. Ако в момента има зададена парола първо трябва да я въведете. Ако сте въвели правилна парола Ви се представя диалог, в който трябва да въведете новата парола 2 пъти.</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">За да махнете паролта за вход просто въведете празна парола.</text></para>
+  </body>
+</topic>

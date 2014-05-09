@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Смяна на устройството за архивиране и запис на декларации</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Смяна на устройството за архивиране и запис на декларации</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Изберете менюто &quot;Сервиз&quot; и след това кликнете с мишката върху „Смяна на устройството за архивиране и запис на декларации&quot;.</text></para>
+    <para style="text-indent:-12px; margin-left:48px;"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Кликнете върху най-горния бутон „...&quot;, за да изберете устройството за архивиране. Това устройство трябва задължително да е на външен носител, т.е. 2-ри хард диск, външен хард диск или флашка.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Кликнете върху най-долния бутон „...&quot;, за да изберете устройството за запис на декларации. Това най-често е флашка, дискета или работният плот на компютъра.</text></li>
+    </list>
+    <para styleclass="List"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Архивиране чрез DropBox.com:</text></para>
+    <para styleclass="Normal"><tab /></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">DropBox е програма, която Ви позволява да съхранявате своите файлове в Интернет по изключително лесен начин. Освен това е безплатна до определен лимит, което я прави идеална за съхраняване на архиви от нашата програма. Нужна ви е регистрация в </text><link displaytype="text" defaultstyle="true" type="weblink" href="http://dropbox.com" target="_blank" styleclass="NormalFirstIdent" translate="true">dropbox.com</link><text styleclass="NormalFirstIdent" translate="true">. Също трябва да изтеглите тяхната програма за Windows и да я инсталирате. След като сте го направили на компютъра Ви се появява папка &quot;My Documents\DropBox&quot;, която е специална папка, която автоматично се синхронизира с Интернет. Точно тази папка трябва да посочите в нашата програма във второто поле, за да се възползвате от Интернет архивирането.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="Comment" style="text-align:justify;"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Не забравяйте да си запишете името и паролата за DropBox на сигурно място в случай, че ви се наложи да търсите архивите си от Интернет.</text></para>
+  </body>
+</topic>

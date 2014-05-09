@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Настройка на фирмата</title>
+  <body>
+    <header>
+      <para style="margin-left:19px;"></para>
+      <para style="text-align:center; margin-left:19px;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">НАСТРОЙКА НА ФИРМАТА</text></para>
+    </header>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА НАПРАВИМ НАСТРОЙКАТА?</text></para>
+    <para style="margin-left:19px;"><tab /></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Данни за фирмата&quot;</text><text styleclass="List" translate="true">. За да влезете в това меню, задължително трябва да не сте в режим на въвеждане, т.е. трябва преди това да сте избрали </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Край на въвеждане&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете необходимите данни</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Особено е въвеждането на &quot;Код на основна икономическа дейност (НКИД)&quot;. Това става или като въведете 4-ри цифрен код в полето или изберете дейност от списъка, който се отваря след щракане върху жълтия бутон вдясно от това поле. Ако не сте сигурни каква е основната дейност можете да проверите в Търговския регистър или да видите кой е преобладаващия НКИД сред служителите/работниците. Важно е да зададете този код, защото според него се определя процентът на вноската за сметка на работодателя за всеки служител или работник във фонд &quot;Трудова злополука и професионална болест&quot; (ТЗПБ). Дължимата сума за Фонд &quot;ТЗПБ&quot; за работника поотделно може да се види от фиша му, включващ суми за сметка на собственика. Общо за всички работници от &quot;Суми по видове плащанане&quot; за месеца, тъй като ТЗПБ е изцяло за сметка на собственика и затова не присъства във ведомостта на предприятието.</text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="Normal" style="text-indent:-27px; margin-right:0px; margin-left:44px; tabstops:none;"><text styleclass="Normal" translate="true">4.</text><text styleclass="List" translate="true"> Щракнете върху бутона &quot;Запис&quot;</text></para>
+  </body>
+</topic>

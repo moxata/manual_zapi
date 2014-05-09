@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Осигуряване според закона</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Осигуряване според закона</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">При гражданските договори има няколко варианта, при които се дължат различни осигурителни вноски и данъци. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="5" colcount="3" style="cell-padding:4px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold;" translate="true">Вид изпълнител</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold;" translate="true">Под МРЗ</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold;" translate="true">Над МРЗ</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Общ случай</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ДОО, ако има други правоотношения, ЗОВ (мин. осиг. доход / 2) * 8% = 16.80 лв., които се внасят по ЕГН, ако не работи другаде</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ЗОВ, ДОО</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Пенсионер</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нищо</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ЗОВ</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Пенсионер, които е решил да внася ДОО</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ДОО, ако има други правоотношения, ЗОВ (мин. осиг. доход / 2) * 8% = 16.80 лв., които се внасят по ЕГН, ако не работи другаде</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ЗОВ, ДОО</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Самоосигуряващо се лице, което го е декларирало писмено</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нищо (и без ДОД)</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нищо (и без ДОД)</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">* </text><text styleclass="Normal" style="font-style:italic;" translate="true">Данните са актуални към 2012г.</text></para>
+  </body>
+</topic>

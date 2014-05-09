@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Архивиране</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Архивиране</text></para>
+    </header>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Въведената информация в базата данни, трябва да бъде защитена от повреждане в следствие на токови удари, вирусни атаки или хардуерни проблеми. За тази цел е предвиден автоматичен метод за архивиране на базата. Всеки път след въвеждане на нова информация, системата предлага сама архивиране на данните, на което трябва да се отговори с &quot;Да&quot;. Това предпазва от безвъзвратна загуба на информация. </text></para>
+    <para styleclass="Heading1"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА АРХИВИРАМЕ?</text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">По принцип програмният продукт прави автоматично архивиране веднъж на ден при опит за излизане от системата, но освен при излизане от програмата архивирането става и по следния начин:</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Сервиз&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Архивиране&quot;</text></li>
+      <li styleclass="List" style="text-align:justify;"><text styleclass="List" translate="true">На въпроса &quot;Желаете ли да архивирате данните?&quot; отговорете с &quot;Да&quot;. </text><text styleclass="Normal" translate="true">Ако устройството за архивиране не е подготвено или няма достатъчно свободно място излиза прозорец, който Ви позволява да посочите друго устройство. Имайте предвид, че </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">програмата няма да Ви позволи да изберете същото устройство като това, на което работите</text><text styleclass="Normal" translate="true">, т.е. трябва Ви Flash памет, дискета или 2-ри хард диск. За да предпазите данните си от загубване трябва да осигурите такъв външен носител!</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">При откриване на външен носител и достатъчно свободно място, програмата създава архив</text></li>
+    </list>
+  </body>
+</topic>

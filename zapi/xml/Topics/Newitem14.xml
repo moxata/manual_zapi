@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Дължи ли по ГВРС</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Дължи ли по ГВРС</text></para>
+    </header>
+    <para styleclass="Normal"><text style="font-family:Arial; font-size:12pt; color:#000000;" translate="true">&#32;</text><text styleclass="Zakon" translate="true">ЧЛ.7 от ЗГВРС - Гарантираният размер на вземанията, произтичащи от трудови правоотношения, не се изплаща на работници или служители, които към момента на началната дата на неплатежоспособността, съответно свръхзадължеността са:</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Zakon" style="text-indent:-19px; margin-right:0px; margin-left:48px; tabstops:none; font-family:Tahoma; font-size:10pt; font-style:italic; color:#000000;">
+      <li styleclass="Zakon" style="text-indent:-19px; margin-right:0px; margin-left:48px; tabstops:none;"><text styleclass="Zakon" translate="true">съдружници в търговското дружество.</text></li>
+      <li styleclass="Zakon" style="text-indent:-19px; margin-right:0px; margin-left:48px; tabstops:none;"><text styleclass="Zakon" translate="true">членове на органите за управление и контрол на търговеца.</text></li>
+      <li styleclass="Zakon" style="text-indent:-19px; margin-right:0px; margin-left:48px; tabstops:none;"><text styleclass="Zakon" translate="true">съпрузи и роднини по права линия на търговеца-физ.лице, или на лицата по т.1 и 2.</text></li>
+    </list>
+    <para styleclass="Zakon" style="text-indent:-23px; margin-right:0px; margin-left:52px; tabstops:none;"></para>
+    <para styleclass="Zakon" style="text-indent:-23px; margin-right:0px; margin-left:52px; tabstops:none;"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В програмата се отбелязват лицата, които учасват във фонд ГВРС като от &quot;ВЪВЕЖДАНЕ на персонал&quot; в позиция &quot;Дължи ли по ГВРС?&quot;, колона 30 се отбелязват лицата, участващи във фонда (чрез щракване с ляв бутон на мишката в тази колонка).</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Дължимата сума за участие на лицето във фонда може да се види от фиша му, включващ суми за сметка на собственика ,а общо за всички работници участващи в ГВРС от &quot;Сума по видове плащане&quot; за месеца, тъй като ГВРС е за сметка на собственика и не присъства във Ведомостта на предприятието.</text></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Печат на необходимите документи за граждански договори</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Печат на необходимите документи за граждански договори</text></para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За да разпечатате някой от документите, свързани с гражданските договори, които вече сте създали във формата, установена от законовите разпоредби, направете следното:</text><text style="font-family:&apos;Courier New&apos;; font-size:11pt; color:#000000;" translate="true">&#32;</text></para>
+    <para style="margin-left:58px;"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">От менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="List" translate="true"> изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;...на Граждански договор&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете период и от появилия се прозорец изберете договор от списъка с договори за въведения месец</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Печат&quot;</text><text styleclass="List" translate="true">. Системата Ви предлага възможност за печат на три вида документи: </text><text styleclass="List" style="font-weight:bold;" translate="true">Граждански договор</text><text styleclass="List" translate="true">, </text><text styleclass="List" style="font-weight:bold;" translate="true">Служебна бележка</text><text styleclass="List" translate="true">, </text><text styleclass="List" style="font-weight:bold;" translate="true">Сметка за изплатени суми</text><text styleclass="List" translate="true">. Всички те са съобразени с текущите изисквания за техния формат.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете желания тип документ.</text></li>
+    </list>
+    <para style="margin-left:58px;"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> И трите вида документи се отварят по по-особен начин. Те използват Вашия браузер, за да се появят на екран, т.е. приложението, което Вашият компютър използва по подразбиране, за да показва Интернет страници. В повечето случаи това е </text><text styleclass="Comment" style="font-weight:bold;" translate="true">Internet Explorer</text><text styleclass="Comment" translate="true">. За да разпечатате този документ, щракнете бутона за разпечатване от лентата с инструменти. Това може да бъде </text><text styleclass="Comment" style="font-weight:bold;" translate="true">&quot;Печат&quot;, &quot;Print&quot;</text><text styleclass="Comment" translate="true">, в зависимост от Вашия Windows и от програмата, която използвате. Ако не виждате такъв бутон, го потърсете в менюто File. </text></para>
+  </body>
+</topic>
