@@ -8,8 +8,11 @@
     <topicref type="topic" id="411036708877134" build="ALL" modified="2012-07-13T18:08:50.000Z" icon="0" href="CompanyInfo">
       <caption translate="true">Настройка на фирмата</caption>
     </topicref>
-    <topicref type="topic" id="411085544893299" build="ALL" modified="2012-07-18T13:44:58.873Z" icon="0" href="topic3">
-      <caption translate="true">Основен екран</caption>
+    <topicref type="topic" id="417684372829869" build="ALL" modified="2014-05-09T10:53:46.951Z" icon="0" href="start_screen">
+      <caption translate="true">Начален екран</caption>
+    </topicref>
+    <topicref type="topic" id="411085544893299" build="ALL" modified="2014-05-09T10:53:24.071Z" icon="0" href="topic3">
+      <caption translate="true">Екран за въвеждане</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="411038051006295" build="ALL" modified="2012-07-18T13:56:15.187Z" icon="0" href="buttons">
@@ -212,6 +215,9 @@
   </topicref>
   <topicref type="topic" id="417667703399582" build="ALL" modified="2014-05-07T17:39:20.046Z" icon="0" href="confirm">
     <caption translate="true">ПОТВЪРЖДАВАНЕ НА ДЕКЛАРАЦИИ</caption>
+    <topicref type="topic" id="417684337760729" build="ALL" modified="2014-05-09T10:37:49.552Z" icon="0" href="____3">
+      <caption translate="true">Изтриване на погрешно потвърдени декларации</caption>
+    </topicref>
   </topicref>
   <topicref type="topic" id="411035853699945" build="ALL" modified="2012-07-17T20:14:36.299Z" icon="0">
     <caption translate="true">СПРАВКИ</caption>

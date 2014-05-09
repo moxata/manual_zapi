@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Начален екран</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Начален екран</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="main.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:left;"></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">В лявата част има различни плочки: информация за въведените данни, подсещания, официални празници, напомняния за актуализация както и информация дали има непотвърдени декларации.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">В дясната част има таблица съдържаща всички фирми, които обработвате. Повече информация за съдържанието на таблицата можете да получите като натиснете малката питанка горе в ляво над таблицата. Можете да променяте текущата фирма, в която работете чрез двойно кликване върху фирма от списъка.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="d1_info.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:left;"><table styleclass="Default" rowcount="1" colcount="1" style="cell-padding:5px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:#ffff99;">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">ЛЮБОПИТНО</text><text styleclass="Normal" translate="true"> Можете да скривате фирми, които вече не обработвате от този списък както и да спирате някои напомняния чрез менюто, което се показва чрез натискане на десен бутон върху някоя фирма.</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

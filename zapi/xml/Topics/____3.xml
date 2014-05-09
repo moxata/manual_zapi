@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Изтриване на погрешно потвърдени декларации</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Изтриване на погрешно потвърдени декларации</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Понякога може до потвърдите някоя декларация по погрешка. В такъв случай можете да изтриете грешните декларации от &quot;Справки&quot; -&gt; &quot;История на подадените декларации&quot;. След това натиснете клавишната комбинация Ctrl+K, за да се появи бутон &quot;Изтриване&quot;. </text></para>
+  </body>
+</topic>

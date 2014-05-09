@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Основен екран</title>
+  <title translate="true">Екран за въвеждане</title>
   <body>
     <header>
-      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Основен екран</text></para>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Екран за въвеждане</text></para>
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Основният екран за въвеждане на персонал на трудови договори се отваря чрез </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="Normal" translate="true"> -&gt; </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;... на персонал&quot;</text><text styleclass="Normal" translate="true">.</text></para>
     <para styleclass="Normal"></para>

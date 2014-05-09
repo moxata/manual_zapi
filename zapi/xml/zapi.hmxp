@@ -102,7 +102,7 @@
       <config-value name="charset" translate="true">RUSSIAN_CHARSET</config-value>
       <config-value name="deffont">font-family:Tahoma; font-size:11pt; color:#000000;</config-value>
       <config-value name="topicprefix"></config-value>
-      <config-value name="autohelpstart">740</config-value>
+      <config-value name="autohelpstart">760</config-value>
       <config-value name="autohelpincrement">10</config-value>
       <config-value name="autohelpanchor">0</config-value>
       <config-value name="searchpath">..\</config-value>
@@ -433,6 +433,7 @@ document.write('</frameset>');
       <helpcontext-number href="_____12" value="720"/>
       <helpcontext-number href="_____2" value="540"/>
       <helpcontext-number href="____2" value="620"/>
+      <helpcontext-number href="____3" value="750"/>
       <helpcontext-number href="___1__" value="700"/>
       <helpcontext-number href="___2" value="670"/>
       <helpcontext-number href="___3" value="680"/>
@@ -457,6 +458,7 @@ document.write('</frameset>');
       <helpcontext-number href="Newitem91" value="390"/>
       <helpcontext-number href="PrisForm" value="410"/>
       <helpcontext-number href="smeni" value="630"/>
+      <helpcontext-number href="start_screen" value="760"/>
       <helpcontext-number href="topic" value="560"/>
       <helpcontext-number href="topic3" value="640"/>
       <helpcontext-number href="UP2" value="440"/>
