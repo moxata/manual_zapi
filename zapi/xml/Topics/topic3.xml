@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Основният екран за въвеждане на персонал на трудови договори се отваря чрез </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="Normal" translate="true"> -&gt; </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;... на персонал&quot;</text><text styleclass="Normal" translate="true">.</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><image src="mainWindow.jpg" scale="78.25%" width="747" height="464" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="mainWindow.jpg" scale="78.25%" width="747" height="464" styleclass="Image Caption"></image></para>
     <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption" translate="true">На схемата можете да видите основните региони от екрана. За повече информация разгледайте следващата глава</text></para>
   </body>
 </topic>
