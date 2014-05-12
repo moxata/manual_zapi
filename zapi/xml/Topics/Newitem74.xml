@@ -14,7 +14,7 @@
       <li styleclass="Normal"><text styleclass="Normal" translate="true">&quot;Обезщетения&quot; - въвеждане на обезщетения</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">&quot;Удръжки&quot; - въвеждане на удръжки</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">&quot;Допълнителна информация за декларация 1&quot; - дали лицето е чужденец, дата на раждане, пол и адрес</text></li>
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">&quot;Начин на плащане&quot; - </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">от тук отбелязване на кои лица се плаща по банков път</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">&quot;Начин на плащане&quot; - </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">от тук се отбелязва на кои лица се плаща по банков път</text></li>
     </list>
     <para styleclass="Normal"></para>
   </body>
