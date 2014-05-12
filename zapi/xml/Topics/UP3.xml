@@ -10,10 +10,10 @@
     <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">В нея се съдържат подпериоди, заедно с длъжности и най-важното - осигурителният стаж на лицето. Осигурителният стаж се представя в години, месеци, дни и часове. Изчислява се на база реално отработени дни, като за един месец се счита месец, в който е работено всички работни дни. Тази справка се вади само за лица, които са на по-малко от законоустановеното работно време за длъжността, т.е. в повечето случаи по-малко от 8 часа. {описание на начина на изчисляване}</text></para>
     <para styleclass="List"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">За да създадете уверение УП-3, трявба да сте в желания месец</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За да създадете уверение УП-3, трябва да сте в желания месец</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Избирате </text><text styleclass="List" style="font-weight:bold;" translate="true">„Справки&quot;</text><text styleclass="List" translate="true"> --&gt; </text><text styleclass="List" style="font-weight:bold;" translate="true">„УП-3 (Удостоверение за осигурителен/трудов стаж)&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Показва се прозорец, от който можете да изберете човек</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Показват Ви се полета „Осигурителен стаж&quot; и „Извънреден труд преди 31.12.2004&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Показват Ви се полетата „Осигурителен стаж&quot; и „Извънреден труд преди 31.12.2004г.&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">В „Осигурителен стаж&quot; има колона „Длъжност&quot;, „от дата&quot;, „до дата&quot;, „Г&quot;(години), „М&quot;(месеци), „Д&quot;(дни), „Ч&quot;(часове) </text></li>
       <li styleclass="List"><text styleclass="List" translate="true">За да видите резултата и да Ви се даде възможност за отпечатване, натиснете бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">„Покажи&quot;</text><text styleclass="List" translate="true"> &#160;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Създадени са бутони за нов ред, нагоре, надолу и премахване на нов ред</text></li>
@@ -22,7 +22,7 @@
     <para styleclass="List"><table styleclass="Default" rowcount="1" colcount="1" style="cell-padding:5px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:#ffff99;">
       <tr style="vertical-align:top">
         <td>
-          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">ЗАБЕЛЕЖКА!</text><text styleclass="Normal" translate="true"> Заради изискването справките УП-3 и УП-2 да съдържат еднаква информация за години, месеци и дни, когато лицето е на 8 часа, програмата в такъв случай генерира справката в календарни дни както в УП-2. Това е общо приета практика, която не отговаря на формуляра, но се приема с удоволствие от служителите на НОИ. Същото става и когато има периоди и на 8 часа и на по-малко.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">ЗАБЕЛЕЖКА!</text><text styleclass="Normal" translate="true"> Заради изискването справките УП-3 и УП-2 да съдържат еднаква информация за години, месеци и дни, когато лицето е на 8 часа, програмата генерира справката в календарни дни както в УП-2. Това е общоприета практика, която не отговаря на формуляра, но се приема добре от служителите на НОИ. Същото става и когато има периоди и на 8 часа и на по-малко.</text></para>
         </td>
       </tr>
     </table></para>
