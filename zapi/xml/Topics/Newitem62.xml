@@ -7,8 +7,8 @@
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Прехвърляне на данни между месеци</text></para>
     </header>
     <para styleclass="Normal"></para>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Програмата предоствя възможност за автоматично прехвърляне на данни от един въведен вече месец в невъвеждан месец или период. Ако с дясна стрелка смените текущия месец с нов месец, в който не е въвеждано нищо до момента, данните за служителите автоматично се прехвърлят в новия месец. </text></para>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Ако желаете да прехвълите данните повторно в случай, че сте прехвърлили предварително по погрешка можете да го направите чрез тази функция. Тя позволява и прехвърлянето на само едно лице с определено ЕГН.</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Програмата предоставя възможност за автоматично прехвърляне на данни от един въведен вече месец в невъвеждан месец или период. Ако с дясна стрелка смените текущия месец с нов месец, в който не е въвеждано нищо до момента, данните за служителите автоматично се прехвърлят в новия месец. </text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Ако желаете да прехвълите данните повторно в случай, че сте прехвърлили предварително по погрешка можете да го направите чрез тази функция. Тя позволява и прехвърлянето само на едно лице с определено ЕГН.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ИЗВЪРШИМ ПРЕХВЪРЛЯНЕТО?</text></para>
     <para styleclass="Normal"></para>
