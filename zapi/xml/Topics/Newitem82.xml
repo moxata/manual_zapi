@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Как да излезем от програмата?</title>
   <body>
     <header>
@@ -13,7 +13,7 @@
     <para styleclass="Normal"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ПРИ ПРИКЛЮЧВАНЕ НА РАБОТА</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">1. Щракнете върху бутон </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Изход&quot;</text><tab /></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">1. Щракнете върху бутон </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Изход&quot;</text><tab/></para>
     <para styleclass="Normal" style="text-align:justify;"><text styleclass="Normal" translate="true">2. На въпроса</text><text styleclass="Normal" style="font-weight:bold;" translate="true"> &quot;Желаете ли да архивирате данните?&quot;</text><text styleclass="Normal" translate="true"> отговорете с </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Да&quot;</text><text styleclass="Normal" translate="true">. Понякога дори и да отговорите с </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Не&quot;</text><text styleclass="Normal" translate="true"> програмата започва автоматично архивиране. Това е предпазна мярка, когато нямате архив за дадената фирма през този ден. </text></para>
     <para styleclass="Normal" style="text-align:justify;"><text styleclass="Normal" translate="true">3. Ако устройството за архивиране не е подготвено или няма достатъчно свободно място излиза прозорец, който Ви позволява да посочите друго устройство. Имайте предвид, че </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">програмата няма да Ви позволи да изберете същото устройство като това, на което работите</text><text styleclass="Normal" translate="true">, т.е. трябва Ви Flash памет, дискета или 2-ри хард диск. </text><text styleclass="Normal" style="font-weight:bold;" translate="true">За да се предпазите от загуба на данни, трябва да осигурите такъв външен носител!</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">4. При откриване на външен носител с достатъчно свободно място, програмата създава архив</text></para>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Смяна на данните</title>
   <body>
     <header>
@@ -10,14 +10,14 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ПРОМЕНИМ ДАННИТЕ?</text></para>
     <para styleclass="Normal"></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Сервиз&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Смяна на данните&quot; </text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете фирмата, в която желаете да работите от списъка. Ако той е много дълъг можете да използвате полето за търсене.</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона &quot;Избор&quot;</text></li>
     </list>
     <para styleclass="List"></para>
-    <para styleclass="List" style="margin-left:19px;"><text styleclass="List" translate="true">&#32;</text><text styleclass="List" style="font-weight:bold;" translate="true">ПРОМЯНА НА ДАННИТЕ ОТ СТАРТИРАЩИЯ ЕКРАН</text></para>
+    <para styleclass="List" style="margin-left:19px;"><text styleclass="List" translate="true"> </text><text styleclass="List" style="font-weight:bold;" translate="true">ПРОМЯНА НА ДАННИТЕ ОТ СТАРТИРАЩИЯ ЕКРАН</text></para>
     <para styleclass="List" style="margin-left:19px;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Можете да променяте данните и от таблицата с напомнянията в дясно. Това става чрез двойно кликване върху имено на фирмата.</text></para>
   </body>

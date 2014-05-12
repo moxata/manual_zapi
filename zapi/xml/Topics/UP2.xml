@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">УП2 - удостоверение за осигурителен доход</title>
   <body>
     <header>
@@ -9,7 +9,7 @@
     <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">УП-2 е справка, която се издава при напускане на служител/работник и удостоверява осигурителния доход на лицето. В нея присъстват и подпериодите, през които е работило лицето, както и трудовия стаж. Трудовият стаж се представя в години, месеци и дни и е в календарни дни. За 1 ден трудов стаж се счита всеки ден, в който лицето е отработило поне половината от законоустановеното работно време за длъжността, която изпълнява. Ако лицето работи на по-малко от половината от законоустановеното работно време стажът е в отработени дни и се изчислява като в </text><link displaytype="text" defaultstyle="true" type="topiclink" href="UP3" styleclass="NormalFirstIdent" translate="true">УП-3</link><text styleclass="NormalFirstIdent" translate="true">, но се умножава по коефициент за преизчисляване на работни дни в календарни, който е 30/21.</text></para>
     <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Трудовият стаж най-кратко се изчислява като се изважда началната дата от крайната. Ако дните в крайната дата са по-малко от началната се прибавя 30 към тях и се намалява месеца с 1. Ако месецът стане 0 се намалява годината. След това се извършва изваждането и това e трудовият стаж на лицето.</text></para>
     <para style="text-indent:-24px; margin-left:72px;"></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Изберете месец</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">За да създадете УП-2, избирате менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">„Справки&quot;</text><text styleclass="List" translate="true"> --&gt; </text><text styleclass="List" style="font-weight:bold;" translate="true">„УП-2 (Удостоверение за осигурителен доход)&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Появява се меню, от което се избира желаният човек </text></li>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">ЛИЦА НА ТРУДОВИ ДОГОВОРИ</title>
   <body>
     <header>
@@ -9,7 +9,7 @@
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Изберете </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="NormalFirstIdent" translate="true"> -&gt; </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;... на персонал&quot;</text><text styleclass="NormalFirstIdent" translate="true"> от менюто.</text></para>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Лицата на трудови договори се въвеждат в таблична форма, която наподобява работа с Excel. Можете да използвате мишката, стрелките на клавиатурата или бутона Enter за да навигирате сред полетата. За улеснение над таблицата се показва кратко описание на полето, което е активно в момента. </text></para>
     <para styleclass="NormalFirstIdent"></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="NormalFirstIdent" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="NormalFirstIdent" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Вмъкнете нов запис чрез бутона </text><link displaytype="text" defaultstyle="true" type="topiclink" href="btn_Vedom" styleclass="NormalFirstIdent" translate="true">&quot;Назначаване на служител&quot;</link><text styleclass="NormalFirstIdent" translate="true">.</text></li>
       <li styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Въведете </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">ЕГН</text><text styleclass="NormalFirstIdent" translate="true">-то на служителя, след това </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">трите имена</text></li>
       <li styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В колона 4 изберете </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">вида осигурен</text><text styleclass="NormalFirstIdent" translate="true">. По подразбиране е избран &quot;Служител&quot; - 3-та категория труд</text></li>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Needs Review" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Начален екран</title>
   <body>
     <header>
@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Normal" style="text-align:center;"><image src="main.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal" style="text-align:left;"></para>
-    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">В лявата част има различни плочки: информация за въведените данни, подсещания, официални празници, напомняния за актуализация както и информация дали има непотвърдени декларации.</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">В дясната част има таблица съдържаща всички фирми, които обработвате. Повече информация за съдържанието на таблицата можете да получите като натиснете малката питанка горе в ляво над таблицата. Можете да променяте текущата фирма, в която работите чрез двойно кликване върху фирма от списъка.</text></li>
     </list>
