@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Смяна на устройството за архивиране и запис на декларации</title>
   <body>
     <header>
@@ -9,8 +9,8 @@
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Изберете менюто &quot;Сервиз&quot; и след това кликнете с мишката върху „Смяна на устройството за архивиране и запис на декларации&quot;.</text></para>
     <para style="text-indent:-12px; margin-left:48px;"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Кликнете върху най-горния бутон „...&quot;, за да изберете устройството за архивиране. Това устройство трябва задължително да е на външен носител, т.е. 2-ри хард диск, външен хард диск или флашка.</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Кликнете върху най-долния бутон „...&quot;, за да изберете устройството за запис на декларации. Това най-често е флашка, дискета или работният плот на компютъра.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Кликнете върху най-горния бутон „...&quot;, за да изберете устройството за архивиране. Това устройство трябва задължително да е на външен носител, т.е. външен твърд диск или флаш памет.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Кликнете върху най-долния бутон „...&quot;, за да изберете устройството за запис на декларации. Това най-често е флаш памет, дискета или работният плот на компютъра.</text></li>
     </list>
     <para styleclass="List"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Архивиране чрез DropBox.com:</text></para>

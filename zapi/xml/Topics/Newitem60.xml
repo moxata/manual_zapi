@@ -1,21 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Архивиране</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Архивиране</text></para>
     </header>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Въведената информация в базата данни, трябва да бъде защитена от повреждане в следствие на токови удари, вирусни атаки или хардуерни проблеми. За тази цел е предвиден автоматичен метод за архивиране на базата. Всеки път след въвеждане на нова информация, системата предлага сама архивиране на данните, на което трябва да се отговори с &quot;Да&quot;. Това предпазва от безвъзвратна загуба на информация. </text></para>
-    <para styleclass="Heading1"></para>
-    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА АРХИВИРАМЕ?</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Въведената информация в базата данни, трябва да бъде защитена от повреждане в следствие на токови удари, системни сривове, вирусни атаки или хардуерни проблеми. За тази цел са предвидени автоматични методи за архивиране на базата данни. Темата е сериозна - това е вашият труд!</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" style="text-decoration:underline;" translate="true">КАК ДА АРХИВИРАМЕ?</text></para>
     <para style="margin-left:19px;"></para>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">По принцип програмният продукт прави автоматично архивиране веднъж на ден при опит за излизане от системата, но освен при излизане от програмата архивирането става и по следния начин:</text></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ТЕКУЩО АРХИВИРАНЕ</text></para>
+    <para style="margin-left:19px;"></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Програмният продукт прави автоматично архивиране веднъж на ден при опит за излизане от системата, но освен при излизане от програмата архивирането става и по следния начин:</text></para>
+    <list id="142" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Сервиз&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Архивиране&quot;</text></li>
-      <li styleclass="List" style="text-align:justify;"><text styleclass="List" translate="true">На въпроса &quot;Желаете ли да архивирате данните?&quot; отговорете с &quot;Да&quot;. </text><text styleclass="Normal" translate="true">Ако устройството за архивиране не е подготвено или няма достатъчно свободно място излиза прозорец, който Ви позволява да посочите друго устройство. Имайте предвид, че </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">програмата няма да Ви позволи да изберете същото устройство като това, на което работите</text><text styleclass="Normal" translate="true">, т.е. трябва Ви Flash памет, дискета или 2-ри хард диск. За да предпазите данните си от загубване трябва да осигурите такъв външен носител!</text></li>
+      <li styleclass="List" style="text-align:justify;"><text styleclass="List" translate="true">На въпроса &quot;Желаете ли да архивирате данните?&quot; отговорете с &quot;Да&quot;. </text><text styleclass="Normal" translate="true">Ако устройството за архивиране не е подготвено или няма достатъчно свободно място излиза прозорец, който Ви позволява да посочите друго устройство. Имайте предвид, че </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">програмата няма да Ви позволи да изберете същото устройство като това, на което работите</text><text styleclass="Normal" translate="true">, т.е. трябва Ви Flash памет или 2-ри хард диск. За да предпазите данните си от загубване трябва да осигурите такъв външен носител!</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">При откриване на външен носител и достатъчно свободно място, програмата създава архив</text></li>
     </list>
+    <para styleclass="List"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">АРХИВИРАНЕ В ИНТЕРНЕТ ЧРЕЗ &quot;DROPBOX&quot;</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Тази опция осигурява най-високо ниво на защита, защото DropBox пази всички версии на файловете 30 дни назад. За да се възползвате от този вариант за архивиране, трябва да се регистрирате в </text><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank" styleclass="Normal" translate="true">http://dropbox.com</link><text styleclass="Normal" translate="true">, да свалите програмата и да я инсталирате. На компютъра ви се създава специална папка, която качва автоматично всичко, което запишете в нея в Интернет. Трябва да посочите тази папка в &quot;Сервиз&quot; -&gt; &quot;Смяна на устройство за архивиране и запис на декларации&quot; -&gt; &quot;Папка за архивиране в Интернет&quot;.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ПЪЛНО АРХИВИРАНЕ</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Веднъж на 7 дни програмата ви приканва да направите пълен архив. Процедурата е елементарна и отнема няколко минути. Само трябва да се посочи буквата на флаш паметта или външния твърд диск. Пълният архив улеснява възстановяването да данните при евентуална авария. Препоръчително е да се прави на устройство различно, от това което се използва за текущи архиви. Причината е, че устройството, което се използва за текущи архиви най-често се държи включено в компютъра постоянно за удобство. При евентуална атака от крипто-вирус е възможно архивите ви да се кодират безвъзвратно.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ЗАЩИТА ОТ КРИПТО-ВИРУСИ</text></para>
+    <para styleclass="Heading1"><text styleclass="Normal" translate="true">Програмата слага разширение .ZIZI на архивите. Това ги предпазва от повечето крипто-вируси, защото разширението е непознато за тях. Иначе това са обикновени ZIP архиви и могат да се отварят с всички архиватори.</text></para>
+    <para styleclass="Heading1"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">АЛТЕРНАТИВНИ МЕТОДИ ЗА АРХИВИРАНЕ</text></para>
+    <para styleclass="Heading1"><text styleclass="Normal" translate="true">Въпреки нашите усилия да запазим данните ви по множество начини е желателно да организирате и алтернативни методи за архивиране. Необходимо е периодично да се проверява дали има достатъчно скорошни архиви и дали могат да се възстановяват успешно.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
   </body>
 </topic>

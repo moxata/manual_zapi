@@ -104,7 +104,7 @@
       <config-value name="charset" translate="true">RUSSIAN_CHARSET</config-value>
       <config-value name="deffont">font-family:Tahoma; font-size:11pt; color:#000000;</config-value>
       <config-value name="topicprefix"></config-value>
-      <config-value name="autohelpstart">890</config-value>
+      <config-value name="autohelpstart">900</config-value>
       <config-value name="autohelpincrement">10</config-value>
       <config-value name="autohelpanchor">0</config-value>
       <config-value name="searchpath">..\</config-value>
@@ -125,6 +125,7 @@
       <config-value name="make4status">*</config-value>
       <config-value name="make3include">HTML</config-value>
       <config-value name="make3status">*</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="hlp">
       <config-value name="citation" translate="true"></config-value>
@@ -478,6 +479,7 @@ document.write('</frameset>');
       <helpcontext-number href="udrujShab" value="870"/>
       <helpcontext-number href="UP2" value="440"/>
       <helpcontext-number href="UP3" value="450"/>
+      <helpcontext-number href="userRights" value="900"/>
       <helpcontext-number href="Изполваннепалтенгодишенотпу" value="420"/>
       <helpcontext-number href="Какдавъведемнеплатенотпуск" value="430"/>
     </helpcontext-numbers>

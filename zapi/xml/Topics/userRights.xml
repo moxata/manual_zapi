@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Задаване на права и потребители</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Задаване на права и потребители</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чрез тази функция можете да създадете потребители с пароли и различни нива на достъп. Основните роли са:</text></para>
+    <list id="0" level="1" type="ul" listtype="bullet" formatstring="&#111;" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:&apos;Courier New&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Системен администратор</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Отговорник ТРЗ</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">ТРЗ</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Личен състав</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Граждански договори</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">След като въведете потребителите, трябва да активирате отметката &quot;Активиране на права и потребители&quot;. Тази система за права припокрива паролата за вход в програмата без потребителско име. </text></para>
+  </body>
+</topic>

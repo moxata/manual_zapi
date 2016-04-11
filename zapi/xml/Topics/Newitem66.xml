@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Изпращане на данни за проверка през интернет</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Изпращане на данни за проверка през интернет</text></para>
     </header>
     <para style="margin-left:19px;"></para>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><tab /><text styleclass="NormalFirstIdent" translate="true">Ако разполагате с Интернет на работното си място и имате някакъв проблем или въпрос свързан с програмата, можете да изпратите текущите данни заедно с текстово описание на проблема на фирмата производител </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;КомБайт&quot; ЕООД</text><text styleclass="NormalFirstIdent" translate="true">. Желателно е след като изпратите данните да изчакате 10-15 минути и да се обадите в офиса на фирмата.</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><tab /><text styleclass="NormalFirstIdent" translate="true">Ако разполагате с Интернет на работното си място и имате някакъв проблем или въпрос свързан с програмата, можете да изпратите текущите данни заедно с текстово описание на проблема на фирмата производител </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;КомБайт&quot;</text><text styleclass="NormalFirstIdent" translate="true">. Желателно е след като изпратите данните да изчакате 30-40 минути и да се обадите в офиса на фирмата.</text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true"> За да стартирате тази функция, изберете менюто &quot;Сервиз&quot; -&gt; &quot;Изпращане на данни за проверка през Интернет&quot;. Записва се телефонът, имейлът и съответното описание. Натиска се &quot;Изпращане&quot;.</text></para>
     <para styleclass="NormalFirstIdent"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> За да се възползвате от тази допълнителна услига, трябва да имате заплатен абонамент за актуализация през Интернет.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> За да се възползвате от тази допълнителна услуга, трябва да имате активен абонамент за актуализация през Интернет.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Защита на личните данни:</text><text styleclass="Comment" translate="true"> Данните ви се съхраняват на сървър с изключително ниво на сигурност и се самоунищожават след 3 месеца.</text></para>
   </body>
 </topic>
