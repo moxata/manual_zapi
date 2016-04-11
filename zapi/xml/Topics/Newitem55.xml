@@ -1,18 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Годишна ведомост</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Годишна ведомост</text></para>
     </header>
-    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА НАПРАВИМ СПРАВКА - ГОДИШНА ВЕДОМОСТ?</text></para>
-    <para styleclass="Normal"><tab /></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Годишна ведомост&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете желаната година и вид на справката.</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете желаната година и вид на справката</text></li>
     </list>
   </body>
 </topic>

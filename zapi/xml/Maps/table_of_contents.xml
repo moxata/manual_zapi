@@ -38,6 +38,9 @@
     <topicref type="topic" id="411036795649090" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem70">
       <caption translate="true">Удръжки</caption>
     </topicref>
+    <topicref type="topic" id="424716117787359" build="ALL" modified="2016-04-11T17:28:18.321Z" icon="0" href="udrujShab">
+      <caption translate="true">Шаблони за периодични удръжки</caption>
+    </topicref>
     <topicref type="topic" id="411038205226081" build="ALL" modified="2012-07-13T16:56:41.078Z" icon="0" href="Newitem71">
       <caption translate="true">Майчинство</caption>
     </topicref>
@@ -176,6 +179,9 @@
     <topicref type="topic" id="411039132202815" build="ALL" modified="2016-04-11T15:38:56.410Z" icon="0" href="Newitem43">
       <caption translate="true">Самоосигуряващи се</caption>
     </topicref>
+    <topicref type="topic" id="424719257619296" build="ALL" modified="2016-04-11T17:32:24.153Z" icon="0" href="samoosigLi4enTrud">
+      <caption translate="true">Самоосигуряващи се полагащи личен труд</caption>
+    </topicref>
     <topicref type="topic" id="411035049108622" build="ALL" modified="2012-07-17T19:19:19.612Z" icon="0" href="PrisForm">
       <caption translate="true">Присъствени форми</caption>
     </topicref>
@@ -257,8 +263,14 @@
     <topicref type="topic" id="411039068523046" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem57">
       <caption translate="true">Суми по видове плащане</caption>
     </topicref>
+    <topicref type="topic" id="424717051244831" build="ALL" modified="2016-04-11T17:26:06.115Z" icon="0" href="Recap">
+      <caption translate="true">Рекапитулация</caption>
+    </topicref>
     <topicref type="topic" id="411037873365125" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem88">
       <caption translate="true">Удостоверение за осигурителен доход</caption>
+    </topicref>
+    <topicref type="topic" id="424715558130603" build="ALL" modified="2016-04-11T17:26:48.205Z" icon="0" href="platOtpProviz">
+      <caption translate="true">Платени отпуски и провизиране</caption>
     </topicref>
     <topicref type="topic" id="411039013448468" build="ALL" modified="2012-07-17T14:57:19.340Z" icon="0" href="Newitem89">
       <caption translate="true">Използвани платени отпуски</caption>
@@ -284,17 +296,20 @@
     <topicref type="topic" id="411036117862095" build="ALL" modified="2012-07-13T16:56:41.076Z" icon="0" href="Newitem52">
       <caption translate="true">Служебна бележка на изпълнител по ГД</caption>
     </topicref>
-    <topicref type="topic" id="411038692688212" build="ALL" modified="2012-07-17T15:38:40.841Z" icon="0" href="UP2">
-      <caption translate="true">УП2 - удостоверение за осигурителен доход</caption>
+    <topicref type="topic" id="411038692688212" build="ALL" modified="2016-04-11T17:43:26.003Z" icon="0" href="UP2">
+      <caption translate="true">УП-2 - удостоверение за осигурителен доход</caption>
     </topicref>
-    <topicref type="topic" id="411035056155876" build="ALL" modified="2012-07-17T15:38:35.522Z" icon="0" href="UP3">
-      <caption translate="true">УП3 - удостоверение за осигурителен/трудов стаж</caption>
+    <topicref type="topic" id="411035056155876" build="ALL" modified="2016-04-11T17:43:21.038Z" icon="0" href="UP3">
+      <caption translate="true">УП-3 - удостоверение за осигурителен/трудов стаж</caption>
     </topicref>
     <topicref type="topic" id="411038922905842" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem90">
       <caption translate="true">Годишна Декларация 6 за самоосигуряващи се</caption>
     </topicref>
     <topicref type="topic" id="411086181609704" build="ALL" modified="2012-07-18T11:47:10.371Z" icon="0" href="___._73__">
       <caption translate="true">Справка/декларация по чл. 73 от ЗДДФЛ</caption>
+    </topicref>
+    <topicref type="topic" id="424719423604536" build="ALL" modified="2016-04-11T17:52:57.547Z" icon="0" href="bolnListDnev">
+      <caption translate="true">Дневник на приетите болнични листове</caption>
     </topicref>
     <topicref type="topic" id="411036223933332" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem58">
       <caption translate="true">Платежни</caption>

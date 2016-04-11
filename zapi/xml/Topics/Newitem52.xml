@@ -1,19 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Служебна бележка на изпълнител по ГД</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Служебна бележка на изпълнител по ГД</text></para>
     </header>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ЗА ДА ИЗДАДЕТЕ СЛУЖЕБНА БЕЛЕЖКА НА ИЗПЪЛНИТЕЛ ПО ГД:</text></para>
-    <para styleclass="Normal"><tab/></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true"> </text></li>
+    <para styleclass="Normal"><tab /></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Служебна бележка на изпълнител по ГД&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете име на служителя, за когото ще е справката</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Избор&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете изпълнител</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Програмата автоматично попълва изплатения доход според &quot;Код доход&quot; и удържаните осигуровки на база на въведените граждански договори и договори за наем. Имате възможност да коригирате сумите</text></li>
     </list>
-    <para styleclass="Normal"></para>
   </body>
 </topic>

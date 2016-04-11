@@ -1,22 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">УП3 - удостоверение за осигурителен/трудов стаж</title>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">УП-3 - удостоверение за осигурителен/трудов стаж</title>
   <body>
     <header>
-      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">УП3 - удостоверение за осигурителен/трудов стаж</text></para>
+      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">УП-3 - удостоверение за осигурителен/трудов стаж</text></para>
     </header>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">УП-3 е справка за осигурителния/трудовия стаж на лице, което работи на по-малко от 8 часа във фирмата. Издава се при напускане на лицето.</text></para>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">В нея се съдържат подпериоди, заедно с длъжности и най-важното - осигурителният стаж на лицето. Осигурителният стаж се представя в години, месеци, дни и часове. Изчислява се на база реално отработени дни, като за един месец се счита месец, в който е работено всички работни дни. Тази справка се вади само за лица, които са на по-малко от законоустановеното работно време за длъжността, т.е. в повечето случаи по-малко от 8 часа. {описание на начина на изчисляване}</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">УП-3 е справка за осигурителния/трудовия стаж на лице, което работи на по-малко от 8 часа във фирмата. &#160;</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">В нея се съдържат подпериоди, заедно с длъжности и най-важното - осигурителният стаж на лицето. Осигурителният стаж се представя в години, месеци, дни и часове. Изчислява се на база реално отработени дни, като за един месец се счита месец, в който е работено всички работни дни. </text></para>
     <para styleclass="List"></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">За да създадете уверение УП-3, трябва да сте в желания месец</text></li>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; font-weight:bold; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Избирате </text><text styleclass="List" style="font-weight:bold;" translate="true">„Справки&quot;</text><text styleclass="List" translate="true"> --&gt; </text><text styleclass="List" style="font-weight:bold;" translate="true">„УП-3 (Удостоверение за осигурителен/трудов стаж)&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Показва се прозорец, от който можете да изберете човек</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Показват Ви се полетата „Осигурителен стаж&quot; и „Извънреден труд преди 31.12.2004г.&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Избирате служител/работник</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Показват се секциите &quot;Осигурителен стаж&quot; и &quot;Извънреден труд след 31.12.2004г.&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">В „Осигурителен стаж&quot; има колона „Длъжност&quot;, „от дата&quot;, „до дата&quot;, „Г&quot;(години), „М&quot;(месеци), „Д&quot;(дни), „Ч&quot;(часове) </text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">За да видите резултата и да Ви се даде възможност за отпечатване, натиснете бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">„Покажи&quot;</text><text styleclass="List" translate="true">  </text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Създадени са бутони за нов ред, нагоре, надолу и премахване на нов ред</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За да видите финалния резултат натиснете бутон </text><text styleclass="List" style="font-family:Tahoma; font-size:11pt; font-weight:bold; color:#000000;" translate="true">„Покажи&quot;</text></li>
     </list>
     <para styleclass="List"></para>
     <para styleclass="List"><table styleclass="Default" rowcount="1" colcount="1" style="cell-padding:5px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:#ffff99;">

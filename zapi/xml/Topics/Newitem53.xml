@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Ведомост за трудови договори</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Ведомост за трудови договори</text></para>
     </header>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В справка </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Ведомост за трудови договори&quot;</text><text styleclass="NormalFirstIdent" translate="true"> можете да видите как точно се формира крайната сума за получаване на отделните служители, както и сбор за цялата фирма и по отдели. Тази справка може да бъде в три варианта: </text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В справка </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Ведомост за трудови договори&quot;</text><text styleclass="NormalFirstIdent" translate="true"> можете да видите как точно се формира крайната сума за получаване на отделните служители, както и сбор за цялата фирма и по отдели. Тази справка може да бъде в три варианта:</text></para>
     <para styleclass="Normal"></para>
     <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">Пълен</text><text styleclass="List" translate="true"> - извежда всички удръжки, надбавки, данъци, осигуровки и др. &#160;</text></li>
@@ -21,7 +21,7 @@
       <li styleclass="List"><text styleclass="List" translate="true">Да включва ведомост за самоосигуряващите се - да излиза ведомост и за самоосигуряващите се лица. В тази ведомост излизат само самоосигуряващите се, за които е отбелязана отметка &quot;Да се включва във ведомостта&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Без ЕГН-та - да не излиза колона с ЕГН-та</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">По-голямо междуредие - в случай, че няма достатъчно място за подписите</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Сумиране по отдели - да излизат подсуми по отдели</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Сумиране по отдели - да излизат суми по отдели</text></li>
     </list>
     <para style="margin-left:48px;"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА НАПРАВИМ СПРАВКА ВЕДОМОСТ?</text></para>
@@ -29,8 +29,7 @@
     <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Изберете меню </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" translate="true"> -&gt; </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Ведомост за трудови договори&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете желания месец и година</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете вариaнта, в който желаете да е справката</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете варианта, в който желаете да е справката</text></li>
     </list>
     <para styleclass="Normal"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА НАПРАВИМ СПРАВКА ВЕДОМОСТ ПО ОТДЕЛИ?</text></para>
@@ -38,9 +37,8 @@
     <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Изберете меню </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" translate="true"> -&gt; </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Ведомост за трудови договори&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете желания месец и година</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете вариaнта, в който желаете да е справката</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете варианта, в който желаете да е справката</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">На реда </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;За отдел&quot;</text><text styleclass="List" translate="true">: изберете съответния отдел, за който искате да се изготви ведомост</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
     </list>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><tab /></para>

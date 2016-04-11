@@ -104,7 +104,7 @@
       <config-value name="charset" translate="true">RUSSIAN_CHARSET</config-value>
       <config-value name="deffont">font-family:Tahoma; font-size:11pt; color:#000000;</config-value>
       <config-value name="topicprefix"></config-value>
-      <config-value name="autohelpstart">840</config-value>
+      <config-value name="autohelpstart">890</config-value>
       <config-value name="autohelpincrement">10</config-value>
       <config-value name="autohelpanchor">0</config-value>
       <config-value name="searchpath">..\</config-value>
@@ -450,6 +450,7 @@ document.write('</frameset>');
       <helpcontext-number href="__6" value="610"/>
       <helpcontext-number href="_1__6_-___" value="710"/>
       <helpcontext-number href="addPeriodicDeductions" value="830"/>
+      <helpcontext-number href="bolnListDnev" value="890"/>
       <helpcontext-number href="btn_Disk" value="490"/>
       <helpcontext-number href="btn_Vedom" value="520"/>
       <helpcontext-number href="ch222(1)" value="810"/>
@@ -466,11 +467,15 @@ document.write('</frameset>');
       <helpcontext-number href="Newitem90" value="380"/>
       <helpcontext-number href="Newitem91" value="390"/>
       <helpcontext-number href="payments" value="820"/>
+      <helpcontext-number href="platOtpProviz" value="860"/>
       <helpcontext-number href="PrisForm" value="410"/>
+      <helpcontext-number href="Recap" value="850"/>
+      <helpcontext-number href="samoosigLi4enTrud" value="880"/>
       <helpcontext-number href="smeni" value="630"/>
       <helpcontext-number href="start_screen" value="760"/>
       <helpcontext-number href="topic" value="560"/>
       <helpcontext-number href="topic3" value="640"/>
+      <helpcontext-number href="udrujShab" value="870"/>
       <helpcontext-number href="UP2" value="440"/>
       <helpcontext-number href="UP3" value="450"/>
       <helpcontext-number href="Изполваннепалтенгодишенотпу" value="420"/>
