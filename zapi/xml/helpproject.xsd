@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by Alexander Halser (EC Software GmbH) -->
-<!-- (C) Copyright EC Software GmbH, 2006-2008 -->
+<?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XInclude" xmlns:xml="http://www.w3.org/XML/1998/namespace" elementFormDefault="unqualified" attributeFormDefault="unqualified">
 	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/XML/1998/namespace"/>
 	<xs:element name="helpproject">
@@ -45,6 +43,7 @@
 														</xs:attribute>
 														<xs:attribute name="translate" type="xs:boolean"/>
 														<xs:attribute name="lang" type="xs:language"/>
+														<xs:attribute name="category" type="xs:string"/>
 													</xs:extension>
 												</xs:simpleContent>
 											</xs:complexType>
@@ -130,7 +129,9 @@
 												</xs:sequence>
 												<xs:attribute name="name" type="xs:string" use="required"/>
 												<xs:attribute name="parentclass" type="xs:string"/>
+												<xs:attribute name="nextclass" type="xs:string"/>
 												<xs:attribute name="shortcut" type="xs:integer"/>
+												<xs:attribute name="mode" type="xs:integer"/>
 											</xs:complexType>
 										</xs:element>
 										<xs:element name="tablestyleclass" minOccurs="0" maxOccurs="unbounded">
@@ -156,6 +157,7 @@
 												</xs:sequence>
 												<xs:attribute name="name" type="xs:string" use="required"/>
 												<xs:attribute name="parentclass" type="xs:string"/>
+												<xs:attribute name="mode" type="xs:integer"/>
 											</xs:complexType>
 										</xs:element>
 									</xs:sequence>
@@ -172,6 +174,62 @@
 														<xs:attribute name="href" type="xs:string" use="required"/>
 													</xs:extension>
 												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="repository" type="repository.class" minOccurs="0"/>
+							<xs:element name="export-task-groups" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence minOccurs="0" maxOccurs="unbounded">
+										<xs:element name="export-task-group" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence minOccurs="0" maxOccurs="unbounded">
+													<xs:element name="export-tasks" minOccurs="0">
+														<xs:complexType>
+															<xs:sequence minOccurs="0" maxOccurs="unbounded">
+																<xs:element name="export-task" minOccurs="0">
+																	<xs:complexType>
+																		<xs:sequence minOccurs="0" maxOccurs="unbounded">
+																			<xs:element name="task-config-group" minOccurs="0">
+																				<xs:complexType>
+																					<xs:sequence minOccurs="0" maxOccurs="unbounded">
+																						<xs:element name="task-config-value" minOccurs="0">
+																							<xs:complexType>
+																								<xs:simpleContent>
+																									<xs:extension base="xs:string">
+																										<xs:attribute name="name" type="xs:string" use="required"/>
+																									</xs:extension>
+																								</xs:simpleContent>
+																							</xs:complexType>
+																						</xs:element>
+																					</xs:sequence>
+																					<xs:attribute name="name" type="xs:string" use="required"/>
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																		<xs:attribute name="name" type="xs:string"/>
+																		<xs:attribute name="format" use="required">
+																			<xs:simpleType>
+																				<xs:restriction base="xs:string">
+																					<xs:enumeration value="CHM"/>
+																					<xs:enumeration value="HTM"/>
+																					<xs:enumeration value="PDF"/>
+																					<xs:enumeration value="HXS"/>
+																					<xs:enumeration value="RTF"/>
+																					<xs:enumeration value="EXE"/>
+																					<xs:enumeration value="EPUB"/>
+																				</xs:restriction>
+																			</xs:simpleType>
+																		</xs:attribute>
+																	</xs:complexType>
+																</xs:element>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="name" type="xs:string" use="required"/>
 											</xs:complexType>
 										</xs:element>
 									</xs:sequence>
@@ -200,6 +258,7 @@
 				</xs:element>
 			</xs:sequence>
 			<xs:attribute name="isskin" type="xs:boolean"/>
+			<xs:attribute name="isrepository" type="xs:boolean"/>
 			<xs:attribute name="version" type="xs:string"/>
 		</xs:complexType>
 	</xs:element>
@@ -272,6 +331,24 @@
 				<xs:attribute name="coords" type="coords.type" use="required"/>
 			</xs:extension>
 		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="barcode.class" mixed="true">
+		<xs:annotation>
+			<xs:documentation>Barcode image</xs:documentation>
+		</xs:annotation>
+		<xs:attribute name="type" type="xs:string" use="required"/>
+		<xs:attribute name="width" type="xs:integer"/>
+		<xs:attribute name="spacing" type="xs:integer"/>
+		<xs:attribute name="color" type="color.type"/>
+		<xs:attribute name="align">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="left"/>
+					<xs:enumeration value="right"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="translate" type="xs:boolean"/>
 	</xs:complexType>
 	<xs:complexType name="body.class" mixed="true">
 		<xs:annotation>
@@ -372,6 +449,7 @@
 				<xs:attribute name="width" type="pixel.type"/>
 				<xs:attribute name="height" type="pixel.type"/>
 				<xs:attribute name="spacing" type="pixel.type"/>
+				<xs:attribute name="style" type="xs:string"/>
 				<xs:attribute name="type" type="xs:string" use="required" fixed="xsd:base64Binary"/>
 				<xs:attribute name="objectclass" type="xs:string" use="required"/>
 			</xs:extension>
@@ -451,7 +529,7 @@
 		</xs:attribute>
 		<xs:attribute name="width" type="xs:integer"/>
 		<xs:attribute name="height" type="xs:integer"/>
-		<xs:attribute name="padding" type="xs:integer"/>
+		<xs:attribute name="padding" type="xs:string"/>
 		<xs:attribute name="styleclass" type="xs:string"/>
 		<xs:attribute name="style" type="xs:string"/>
 		<xs:attribute name="id" type="xs:string"/>
@@ -461,6 +539,7 @@
 			<xs:documentation>Topic inclusion reference, "embedded topic"</xs:documentation>
 		</xs:annotation>
 		<xs:attribute name="src" type="xs:string" use="required"/>
+		<xs:attribute name="inline" type="xs:boolean" default="false"/>
 	</xs:complexType>
 	<xs:complexType name="keyword.class" mixed="true">
 		<xs:annotation>
@@ -631,6 +710,7 @@
 			<xs:element name="video" type="video.class" minOccurs="0" maxOccurs="unbounded"/>
 			<xs:element name="snippet" type="snippet.class" minOccurs="0" maxOccurs="unbounded"/>
 			<xs:element name="toggle" type="toggle.class" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="barcode" type="barcode.class" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:choice>
 		<xs:attribute name="styleclass" type="xs:string"/>
 		<xs:attribute name="style" type="xs:string"/>
@@ -750,6 +830,7 @@
 		<xs:attribute name="print-expanded" type="xs:boolean"/>
 		<xs:attribute name="src-collapsed" type="xs:string"/>
 		<xs:attribute name="src-expanded" type="xs:string"/>
+		<xs:attribute name="src-print" type="xs:string"/>
 		<xs:attribute name="scale" type="percent.type"/>
 		<xs:attribute name="align">
 			<xs:simpleType>
@@ -802,6 +883,12 @@
 			<xs:documentation>Help topic</xs:documentation>
 		</xs:annotation>
 		<xs:choice maxOccurs="unbounded">
+			<xs:element name="meta" minOccurs="0">
+				<xs:complexType>
+					<xs:attribute name="name" type="xs:string" use="required"/>
+					<xs:attribute name="value" type="xs:string" use="required"/>
+				</xs:complexType>
+			</xs:element>
 			<xs:element name="title" type="caption.class" minOccurs="0"/>
 			<xs:element name="keywords" type="keywords.class" minOccurs="0"/>
 			<xs:element name="a-keywords" minOccurs="0">
@@ -855,16 +942,41 @@
 			</xs:extension>
 		</xs:simpleContent>
 	</xs:complexType>
+	<xs:complexType name="repository.class" mixed="false">
+		<xs:annotation>
+			<xs:documentation>Repository binding in project</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="name" type="xs:string"/>
+				<xs:attribute name="href" type="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
 	<xs:complexType name="video.class" mixed="true">
 		<xs:annotation>
 			<xs:documentation>Video in topic</xs:documentation>
 		</xs:annotation>
-		<xs:choice minOccurs="0" maxOccurs="2">
+		<xs:sequence minOccurs="0" maxOccurs="2">
+			<xs:element name="caption" type="caption.class" minOccurs="0"/>
+			<xs:element name="title" type="caption.class" minOccurs="0"/>
 			<xs:element name="html-code" type="html-code.class" minOccurs="0"/>
-		</xs:choice>
+		</xs:sequence>
 		<xs:attribute name="src" type="xs:string" use="required"/>
 		<xs:attribute name="width" type="pixel.type" use="required"/>
 		<xs:attribute name="height" type="pixel.type" use="required"/>
+		<xs:attribute name="scale" type="percent.type"/>
+		<xs:attribute name="align">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="left"/>
+					<xs:enumeration value="right"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="padding" type="xs:string"/>
+		<xs:attribute name="styleclass" type="xs:string"/>
+		<xs:attribute name="style" type="xs:string"/>
 		<xs:attribute name="previewimage" type="xs:string"/>
 		<xs:attribute name="autostart" type="xs:boolean"/>
 		<xs:attribute name="loop" type="xs:boolean"/>
