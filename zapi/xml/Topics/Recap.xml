@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Under Construction" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>Рекапитулация</title>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Рекапитулация</title>
   <body>
-    <header><para styleclass="Heading1">Рекапитулация</para></header>
-    <para styleclass="Normal">Enter topic text here.</para>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Рекапитулация</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Справката показва всички начисления и удръжки от служителите/работниците по пера. Може да се показва за определен отдел и/или разходен център.</text></para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Щракнете върху &quot;Справки&quot;</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">&quot;Рекапитулация&quot;</text></li>
+    </list>
   </body>
 </topic>

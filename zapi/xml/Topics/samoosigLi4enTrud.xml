@@ -1,11 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Under Construction" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Самоосигуряващи се полагащи личен труд</title>
   <body>
     <header>
       <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Самоосигуряващи се полагащи личен труд</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Самоосигуряващите се полагащи личен труд дължат авансов данък върху възнаграждението, което са получили. За разлика от техните осигуровки, които се плащат по ЕГН, данъкът трябва да се плати през работодателя. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">АКТИВИРАНЕ НА ЛИЧЕН ТРУД</text></para>
+    <list id="32" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">&quot;Опции за месеца&quot; -&gt; &quot;Самоосигуряващи се&quot;</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Избира се отметката &quot;Полага личен труд&quot;</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Появява се полето &quot;Възнаграждение за личен труд&quot;. Това поле се попълва, ако лицето получава възнаграждение за личен труд различно от осигурителния доход. Лицето може да се избере възнаграждение по-малко или по-голямо от осиг. доход</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">СЛУЖЕБНА БЕЛЕЖКА</text></para>
+    <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" translate="true">Можете да разпечатите служебна бележка за самоосигуряващ се полагащ личен труд от &quot;Справки&quot; -&gt; &quot;Служебна бележка&quot;. Трябва да сложите отметка &quot;Съкратена бележка&quot;.</text></para>
   </body>
 </topic>
