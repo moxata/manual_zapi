@@ -10,31 +10,17 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ВЪВЕДЕМ ИНФОРМАЦИЯТА ЗА САМООСИГУРЯВАЩИТЕ СЕ ЛИЦА?</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Можете да направите това по два начина:</text></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">І.От меню </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Опции за месеца&quot;</text><text styleclass="Normal" translate="true">:</text></para>
-    <para styleclass="Normal"></para>
     <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Изберете менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции за месеца&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">От него изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Собственици...&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Въведете необходимите данни. За да въведете област, щракнете върху бутона отдясно на съответното поле</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">За да потвърдите промените, щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Съхраняване&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">От него изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Самоосигуряващи се&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете трите имена и ЕГН/ЛНЧ</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете минимален осигурителен доход според таблицата в ЗБДОО и приходите за предходна година</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете осигурителен доход. Лицето може да избере да се осигурява над минимума</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Ако лицето се осигурява на друго основание, може да се наложи да въведете доход на друго основание, защото е възможно лицето да достигне максималния осиг. доход</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Вид собственик&quot; и &quot;Вид дейност (НОИ)&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете вид самоосигуряващ се - дали желае да се осигурява за общо заболяване и дали е земеделски производител</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Страница адрес: полетата с удебелен шрифт за задължителни. Ако лицето е от различен град, от този в който е регистрирана фирмата, трябва да изберете &quot;Офис НАП&quot;. Това ще се вземе предвид при генериране на платежните</text></li>
     </list>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Сега името на собственика се е появило в празното поле. Ако фирмата е с повече от един собственик, щракнете върху бутона &quot;Нов&quot; и продължете аналогично да въвеждате.</text></para>
-    <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">ІІ. Чрез десния бутон на мишката:</text></para>
-    <para styleclass="Normal"></para>
-    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете служител от таблицата</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Натиснете десен бутон на мишката</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">От менюто, което се появява, изберете</text><text styleclass="List" style="font-weight:bold;" translate="true"> &quot;Опции за собствениците&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Въведете необходимите данни. За да въведете област, трябва да щракнете върху бутона, който се намира отдясно на съответното поле за въвеждане на област. Всяка област има номер и ако го зна</text><text styleclass="List" style="font-weight:bold;" translate="true">е</text><text styleclass="List" translate="true">те е по-лесно да въведете номера; пр. 15 е област Пловдив.</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">За да потвърдите промените, щракнете върху бутона</text><text styleclass="List" style="font-weight:bold;" translate="true"> &quot;Съхраняване&quot;</text></li>
-    </list>
-    <para styleclass="List"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Името на собственика вече се е появило в празното поле. Ако фирмата е с повече от един собственик, щракнете върху бутона &quot;Нов&quot; и продължете аналогично да въвеждате при наличие на повече от един собственик.</text></para>
-    <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Присъствени форми</title>
   <body>
     <header>
@@ -8,33 +8,33 @@
     </header>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Попълването на</text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true"> &quot;Присъствени форми&quot;</text><text styleclass="NormalFirstIdent" translate="true"> става полуавтоматично. За служители, които са работили или са били примерно в болнични целия месец то е автоматично, за останалите е нужна лека намеса от страна на потребителя. Най-бърза ориентация за това дали всичко е наред е голямото кръгче отляво на Печат. Ако то е зелено значи всичко е наред. Все пак трябва да се има предвид, че по подразбиране програмата отбелязва официалните почивни дни. В случай, че се работи по график е нужно да се разместят почивните и работните дни.</text></para>
     <para styleclass="NormalFirstIdent"></para>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Пред всеки служител също има малко кръгче. Ако е червено това значи, &#160;че има дни за доуточняване. За да ги уточните, избирате реда на съответния служител.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Пред всеки служител също има малко кръгче. Ако е червено това значи, &#160;че има дни за уточняване. За да ги уточните, избирате реда на съответния служител.</text></para>
     <para styleclass="NormalFirstIdent"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте избраното от Вас лице и в дясно ще се изпишат неразпределените дни. Това са дни, за които има нужда да се уточнят кога са</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Кликване с ляво копче на мишката върху даден ден отбелязва:</text></li>
-      <list id="1" level="1" type="ol" listtype="upper-roman" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-        <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;М&quot; - Майчинство/болнични за раждане</text></li>
-        <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Н&quot; - Неплатен отпуск</text></li>
-        <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;О&quot; - Платен отпуск</text></li>
-        <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Б&quot; - Болнични за сметка на НОИ (светлочервено)</text></li>
-        <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Б&quot; - Болнични за сметка на работодател (тъмночервено)</text></li>
-        <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;С&quot; - Самоотлъчка</text></li>
-      </list>
+      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте избраното от вас лице и в дясно ще се изпишат не разпределените дни. Това са дни, за които има нужда да се уточнят кога са</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете с ляво копче на мишката върху даден ден отбелязва:</text></li>
     </list>
-    <para styleclass="List"><text styleclass="List" translate="true"> &#160; &#160; в зависимост от реда, който е избран от таблицата с неразпределените дни.</text></para>
+    <list id="2" level="1" type="ul" listtype="bullet" formatstring="&#111;" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:&apos;Courier New&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;М&quot; - Майчинство/болнични за раждане</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Н&quot; - Неплатен отпуск</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;О&quot; - Платен отпуск</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Б&quot; - Болнични за сметка на НОИ (светлочервено)</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Б&quot; - Болнични за сметка на работодател (тъмночервено)</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;С&quot; - Самоотлъчка</text></li>
+    </list>
+    <para styleclass="List"><text styleclass="List" translate="true"> &#160; &#160;в зависимост от реда, който е избран от таблицата с не разпределените дни.</text></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">При два или повече последователни дни кликнете двойно и полетата ще се запълнят автоматично от първия ден, в който е кликнато</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">При изчерпване на неразпределените дни, останалите непопълнени полета (дни), в които работникът е присъствал на работа, се попълват автоматично</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">С дясно копче на мишката върху избран от Вас ден се зачиства избраното буквено означение. Ако сте объркали напълно попълването на формата можете да прегенерирате информацията за дадено лице и да започнете отначало. Това става чрез избор на лицето, бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции&quot;</text><text styleclass="List" translate="true"> и </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Прегенериране на избрания&quot; </text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Може да изтривате и почивни дни (по подразбиране са отбелязани събота и неделя) пак с кликване върху десен бутон на мишката. Ако искате да отбележите почивен ден в празно поле натискате бутона &quot;П&quot;(латинска клавиатура: &quot;M&quot;) от клавиатурата</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">При два или повече последователни дни щракнете двойно и полетата ще се запълнят автоматично от първия ден, в който е щракнато</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">При изчерпване на не разпределените дни, останалите непопълнени полета (дни), в които работникът е присъствал на работа, се попълват автоматично</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">С дясно копче на мишката върху избран от вас ден се изчиства избраното буквено означение. Ако сте объркали напълно попълването на формата можете да прегенерирате информацията за дадено лице и да започнете отначало. Това става чрез избор на лицето, бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции&quot;</text><text styleclass="List" translate="true"> и </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Прегенериране на избрания&quot; </text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Може да изтривате и почивни дни (по подразбиране са отбелязани събота и неделя) пак с щракване върху десен бутон на мишката. Ако искате да отбележите почивен ден в празно поле натискате бутона &quot;П&quot;(латинска клавиатура: &quot;M&quot;) от клавиатурата</text></li>
     </list>
     <para styleclass="List"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Внимание:</text><text styleclass="Comment" translate="true"> Само буквените означения могат да се изтриват с кликване върху десен бутон. При промяна на цифрови означения: кликвате с ляв бутон, маркирате и правите желаната промяна.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Внимание:</text><text styleclass="Comment" translate="true"> Само буквените означения могат да се изтриват чрез щракване с десен бутон. При промяна на цифрови означения: щраквате с ляв бутон, за да маркирате и правите желаната промяна.</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">*</text><text styleclass="Comment" translate="true"> Чрез избор от списъка &quot;За отдел&quot; може да получите форми само за даден отдел</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">*</text><text styleclass="Comment" translate="true"> Чрез избор от списъка &quot;За отдел&quot; може да получите присъствена форма само за определен отдел</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">*</text><text styleclass="Comment" translate="true"> При печат присъствените форми излизат подредени по азбучен ред.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">*</text><text styleclass="Comment" translate="true"> При печат присъствените форми излизат подредени по азбучен ред</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">При сумирано отчитане на труда:</text></para>
     <para styleclass="Normal"></para>
