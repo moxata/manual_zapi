@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Легенда</title>
   <body>
     <header>
@@ -13,7 +13,7 @@
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА АКТИВИРАМЕ ЛЕГЕНДА?</text></para>
     <para styleclass="Heading1"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Легенда&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Легенда&quot;.</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Повторно избиране на същия бутон ще деактивира легендата</text></li>
     </list>
   </body>

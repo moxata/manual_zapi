@@ -1,20 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Опции за собствениците</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Опции за собствениците</text></para>
     </header>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Освен стандартния начин за промяна на данните за собственика от менюто </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Опции за месеца&quot;</text><text styleclass="NormalFirstIdent" translate="true"> или от бутона </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Собственици...&quot;</text><text styleclass="NormalFirstIdent" translate="true"> от стандартната лента, тази информация може да се зададе и по следния начин:</text></para>
-    <para styleclass="Normal"></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Позиционирайте курсора на мишката върху желаното лице в таблицата на служителите</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Натиснете десен бутон на мишката</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">От появилото се меню изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции за собствениците&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Въведете необходимите данни</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Ако собственикът е чужденец изберете &quot;Чужденец&quot; и въведете дата на раждане и пол</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">За да въведете област, щракнете върху бутона отдясно на съответното поле. Всяка област има номер и ако го знаете е по-лесно да въведете номера; пр. 15 е област Пловдив</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За да въведете област, щракнете върху бутона отдясно на съответното поле. Всяка област има номер и ако го знаете е по-лесно да въведете номера; пр. 21 е област София-град</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">За да потвърдите промените, щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Съхраняване&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Името на собственика се е появило в празното поле. Ако фирмата е с повече от един собственик, щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Нов&quot;</text><text styleclass="List" translate="true"> и продължете аналогично да въвеждате</text></li>
     </list>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Преизчисляване на служители</title>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Преизчисляване</title>
   <body>
     <header>
-      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Преизчисляване на служители</text></para>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Преизчисляване</text></para>
     </header>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Ако са направени някакви промени по информацията, която влиза във ведомостта за даден човек, необходимо е промените да бъдат актуализирани с текущата информация, т.е. да се извърши преизчисляване за служителя. </text></para>
     <para styleclass="NormalFirstIdent"></para>

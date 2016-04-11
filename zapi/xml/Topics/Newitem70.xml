@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Удръжки</title>
   <body>
     <header>
@@ -32,8 +32,8 @@
       <li styleclass="List"><text styleclass="List" translate="true">Маркирайте служителя, чиято удръжка ще редактирате</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Удръжки&quot;</text></li>
       <li styleclass="List"><text styleclass="List" style="font-weight:normal;" translate="true">Изберете удръжката от списъка</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете жълтооцветения бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Редактиране&quot; </text><text styleclass="List" style="font-weight:normal;" translate="true">(оцветен в жълто)</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Нанесете новата сума и щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете жълто оцветения бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Редактиране&quot; </text><text styleclass="List" style="font-weight:normal;" translate="true">(оцветен в жълто)</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Нанесете новата сума</text></li>
     </list>
     <para styleclass="Normal"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА ИЗТРИЕМ УДРЪЖКА?</text></para>
@@ -43,7 +43,6 @@
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Удръжки&quot;</text></li>
       <li styleclass="List"><text styleclass="List" style="font-weight:normal;" translate="true">Изберете удръжката от списъка</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Изтриване&quot; </text><text styleclass="List" translate="true">(оцветен в жълто)</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Потвърдете операцията</text></li>
     </list>
   </body>
 </topic>

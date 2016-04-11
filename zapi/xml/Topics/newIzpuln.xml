@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Как да въведем данни за изпълнител?</title>
+  <body>
+    <header>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Как да въведем данни за изпълнител?</text></para>
+    </header>
+    <list id="322" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; font-weight:bold; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">От менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="List" translate="true"> изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;... на Граждански договор&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Въведете период и в появилия се прозорец щракнете &quot;Нов договор&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете &quot;Избор&quot; срещу полето &quot;Изпълнител №&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете бутона &quot;Нов&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В прозореца, който се отваря трябва да въведете данните за лицето</text></li>
+    </list>
+    <para styleclass="List"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Тук е мястото, където можете да отбележите, че лицето желае да му се удържа данък за 4-то тримесечие. Данък се удържа и за чуждестранни физически лица </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Авансов данък се дължи във всички случаи. До този извод се стига от този текст от &quot;ЗДДФЛ&quot;:</text><br/><br/><text styleclass="Comment" style="font-family:&apos;Courier New&apos;;" translate="true">чл. 18 (2) Месечната данъчна основа по чл. 42, ал. 2 за доходи от трудови правоотношения на лица с 50 и с над 50 на сто намалена работоспособност се намалява с 660 лв., включително за месеца на настъпване на неработоспособността и за месеца на изтичане срока на валидност на решението.</text><br/><br/><text styleclass="Comment" translate="true">Тази интерпретация на закона не се приема от всички, затова е дадена възможност да се пропусне внасянето на авансов данък като се запише 0.00 в колона &quot;Обл. част&quot;.</text></para>
+  </body>
+</topic>

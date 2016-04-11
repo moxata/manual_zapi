@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="user" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Декларации 1 и 6 - за граждански договори</title>
   <body>
     <header>
@@ -30,13 +30,13 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:middle;">
-          <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
+          <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
             <li styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Трудово договор</text></li>
           </list>
-          <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
+          <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
             <li styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Договор за управление</text></li>
           </list>
-          <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
+          <list id="6" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
             <li styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Самоосигуряващо се лице, което е избрало да подава декларация 1 всеки месец</text></li>
           </list>
         </td>
@@ -55,7 +55,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:middle;">
-          <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
+          <list id="7" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; font-family:Symbol; font-size:11pt; color:#000000;">
             <li styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Граждански договор</text></li>
           </list>
         </td>
@@ -74,7 +74,7 @@
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">пр. Ако възнаграждението за месец 11/2013 е изплатено в месец 2/2014, то вие трябва да подадете декларация 1 и 6 за осигуровките до 25.3.2014г.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">пр. Ако възнаграждението за месец 11/2016 е изплатено в месец 2/2017, то вие трябва да подадете декларация 1 и 6 за осигуровките до 25.3.2017г.</text></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>

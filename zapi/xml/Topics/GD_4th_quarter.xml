@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Внасяне на данък в 4-то тримесечие</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Внасяне на данък в 4-то тримесечие</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">От 2015г. е дадена възможност изпълнител да избере да внася авансов данък за 4-то тримесечие. Това в програмата се посочва от информацията за изпълнител. Там има отметка &quot;Удържане на данък за 4-то тримесечие&quot;.</text></para>
+  </body>
+</topic>

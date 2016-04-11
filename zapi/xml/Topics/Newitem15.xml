@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Договор за управление и контрол</title>
   <body>
     <header>
@@ -10,7 +10,7 @@
     <para styleclass="Normal"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Въведете личните данни на лицето в таблицата, където се въвежда персонала на трудов договор.</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">В колона 4 (Вид) от списъка, който се отваря след щракане на стрелката, изберете Управител. Това е категория, която стандартно е зададена в програмата за лица с Договор за управление и контрол. Вие може да създадете друга такава категория, която да наименовате по желан от Вас начин. Това става от менюто Настройки -&gt; Категории служители. </text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В колона 5 (Вид) щракнете два пъти и ще излезе списък. Изберете &quot;Управител&quot;. Това е категория, която стандартно е зададена в програмата за лица с договор за управление и контрол. Вие може да създадете друга такава категория, която да наименувате по желан от вас начин. Това става от менюто Настройки -&gt; Категории служители. </text></li>
     </list>
     <para styleclass="List"></para>
     <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка: </text><text styleclass="Comment" translate="true">Договорите за управление и контрол от 2008 година са изцяло приравнени към трудовите договори</text></para>

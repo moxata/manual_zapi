@@ -1,32 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Извеждане на справка фиш на екран</title>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Фиш</title>
   <body>
     <header>
-      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Извеждане на справка фиш на екран</text></para>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Фиш</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">За да изведете справка фиш за даден служител направете следното:</text></para>
-    <para style="text-indent:-24px; margin-left:120px; tabstops:120px left ;"></para>
-    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Позиционирайте маркера на мишката върху желания служител</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Натиснете десния бутон на мишката</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Появява се меню</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изребете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Фиш&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">На екрана се появява справка фиш за избрания служител</text></li>
-    </list>
-    <para style="margin-left:18px;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true"> Друг начин е от меню справки:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Този начин за извеждане на фиш е удобен за бърза справка, защото показва и информация за осигуровките дължими от работодателя.</text></para>
     <para styleclass="Normal"></para>
-    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Фиш&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете желания месец и година. По подразбиране е текущият месец</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Програмата предоставя възможност да направите справка за всички служители или за един конкретен. Изберете желания вариант</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Покажи&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">За да разпечате, изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Печат&quot;</text><tab /></li>
-    </list>
-    <para style="margin-left:18px;"></para>
     <para style="margin-left:19px;"></para>
     <para styleclass="Normal"></para>
   </body>

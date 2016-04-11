@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Назначаване, освобождаване, уведомления</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Назначаване, освобождаване, уведомления</text></para>
     </header>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">От този екран можете да промените първия или последния работен ден на дадено лице. Това се налага, ако първият и последният ден е различен съответно от (датата на назначаване в уведомлението+1 ден) или (датата на освобожданате в уведомлението-1 ден).</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">От този екран можете да промените първия или последния работен ден на дадено лице. </text></para>
     <para style="margin-left:19px;"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете с десния бутон на мишката върху името на служителя, който искате да назначите или освободите, след това изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Назначаване, освобождаване, уведомления&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>

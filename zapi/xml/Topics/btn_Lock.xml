@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Заключване на месеца</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Заключване на месеца</text></para>
     </header>
     <para><image src="unlocked.jpg" scale="100.00%" styleclass="Normal"></image><image src="locked.jpg" scale="100.00%" styleclass="Normal"></image></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чрез бутона </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Позволяване/Забраняване на промени в месеца&quot;</text><text styleclass="Normal" translate="true"> не се допускат или се допускат нови промени в текущия месец. След създаване на Декларация 1, с цел да се избегнат инцидентни промени в данните, месецът се заключва автоматично. </text></para>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За да промените данните във ведомостта си, е необходимо бутонът да е отключен. Това става като натиснете бутона със заключения катинар.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чрез бутона </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Позволяване/Забраняване на промени в месеца&quot;</text><text styleclass="Normal" translate="true"> не се допускат или се допускат нови промени в текущия месец. След създаване на Декларация 1, с цел да се избегнат инцидентни промени в данните, месецът се заключва автоматично.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За да промените данните във ведомостта, е необходимо бутонът да е отключен. Това става като натиснете бутона със заключения катинар. Възможно е да нямате права за отключване на месеца и тогава трябва да се обърнете към главния счетоводител.</text></para>
   </body>
 </topic>

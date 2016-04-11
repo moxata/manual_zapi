@@ -1,23 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Какви менюта се извеждат на екран с десен бутон?</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Какви менюта се извеждат на екран с десен бутон?</text></para>
     </header>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Когато щракнете с десния бутон на мишката върху името на някой от вашите служители в таблицата, в която въвеждате, на екрана се появява меню, съдържащо няколко основни компонента:</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Когато щракнете с десния бутон на мишката върху името на някой от вашите служители в таблицата, в която въвеждате, се появява меню:</text></para>
     <para styleclass="NormalFirstIdent"></para>
-    <list id="1" level="2" type="ul" listtype="bullet" formatstring="§" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Wingdings; font-size:11pt; color:#000000;">
-      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_fish" styleclass="Normal" style="font-weight:normal;" translate="true">Справка фиш за маркирания служител</link></li>
+    <list id="1" level="2" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Wingdings; font-size:11pt; color:#000000;">
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_fish" styleclass="Normal" style="font-weight:normal;" translate="true">Фиш</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_nazna4" styleclass="Normal" style="font-weight:normal;" translate="true">Назначаване, освобождаване, уведомления</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_prenazna4" styleclass="Normal" style="font-weight:normal;" translate="true">Преназначаване</link></li>
-      <li styleclass="Normal"><text styleclass="Normal" style="font-weight:normal;" translate="true">Клониране - създава идентичен на избрания запис. Най-често се използва за лесно създаване на запис за чл. 222(1).</text></li>
-      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_klas" styleclass="Normal" style="font-weight:normal;" translate="true">Трудов стаж, процент за клас, клас </link></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-weight:normal;" translate="true">Клониране - създава идентичен на избрания запис</text></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="ch222(1)" styleclass="Normal" style="font-weight:normal;" translate="true">Обезщетение при уволнение на други основание - чл. 222(1) КТ</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_klas" styleclass="Normal" style="font-weight:normal;" translate="true">Професионален опит и процент за клас</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_dobr" styleclass="Normal" style="font-weight:normal;" translate="true">Вноски за доброволно осигуряване или застраховане</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_dopl" styleclass="Normal" style="font-weight:normal;" translate="true">Доплащания по КТ</link></li>
       <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_recalc" styleclass="Normal" style="font-weight:normal;" translate="true">Преизчисляване</link></li>
-      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_sobst" styleclass="Normal" style="font-weight:normal;" translate="true">Опции за собственика</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="desen_sobst" styleclass="Normal" style="font-weight:normal;" translate="true">Опции за собствениците</link></li>
     </list>
     <para style="margin-left:19px;"></para>
     <para styleclass="Normal"></para>

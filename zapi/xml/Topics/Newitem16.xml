@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Учителски пенсионен фонд</title>
   <body>
     <header>
@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">За да въведем служител, който ще внася в &quot;Учителски пенсионен фонд&quot; е необходимо:</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Да изберем в поле номер &quot;4&quot;: &quot;Учител&quot; и да запаметим промените, ако не съществува такава категория служители, ще трябва да я създадете. </text></para>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Единствената особеност е, че за категорията е активна отметката с текст &quot;Учителски пенсионен фонд&quot;. Можете да въведете такава категория от </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="NormalFirstIdent" translate="true"> -&gt; </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Категории служители&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Да изберем в колона номер 5 - &quot;Учител&quot; и да запаметим промените, ако не съществува такава категория служители, ще трябва да я създадете. </text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Единствената особеност е, че за категорията е трябва да е активна отметката с текст &quot;Учителски пенсионен фонд&quot;. Можете да въведете такава категория от </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="NormalFirstIdent" translate="true"> -&gt; </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Категории служители&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
   </body>
 </topic>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Плащания</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Плащания</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Показва се помощна форма, която показва начислен и дължим данък по месеци. Тя ви позволява да зададете месец на изплащане на възнагражденията. Автоматично се засича декларираният чрез Декларация 6 данък, и дължимият според програмата. </text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="payments.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

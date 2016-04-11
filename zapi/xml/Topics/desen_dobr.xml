@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Вноски за доброволно осигуряване или застраховка</title>
   <body>
     <header>
@@ -13,8 +13,8 @@
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете с десния бутон на мишката върху желания служител в таблицата</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Появява се меню, от което изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Вноска за доброволно осигуряване или застраховка&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Чрез щракане изберете вида вноска, която е необходима (например &quot;Доброволно пенсионно осигуряване&quot;)</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">В по-долната част на прозореца се въвежда процентът на вноската от съответния облагаем доход по чл. 42(2) ЗДДФЛ</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Ако съответната осигуровка няма да се облага с Данък общ доход, въведете процента в поле &quot;С данъчно облекчение&quot;, а ако ще се облага с данък, попълнете процента в поле &quot;Без данъчно облекчение&quot;. </text><text styleclass="List" style="font-weight:bold;" translate="true">Към 2012г. имате право на 10% данъчно облекчение!</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В по-долната част на прозореца се въвежда процентът на вноската от съответния облагаем доход по ЗДДФЛ</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Ако съответната осигуровка няма да се облага с Данък общ доход, въведете процента в поле &quot;С данъчно облекчение&quot;, а ако ще се облага с данък, попълнете процента в поле &quot;Без данъчно облекчение&quot;. </text><text styleclass="List" style="font-weight:bold;" translate="true">Към 2016г. имате право на 10% данъчно облекчение!</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Вноската ще се изчисли автоматично и е равна на въведения процент от облагаемия доход</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху &quot;Добре&quot;</text></li>
     </list>

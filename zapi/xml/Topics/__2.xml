@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="user" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Навигация между месеците</title>
   <body>
     <header>
       <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Навигация между месеците</text></para>
     </header>
     <para styleclass="Normal"><image src="nav_month.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чрез тази част от лентата с интрументи можете да прескочите в произволен месец и/или година. Това става или чрез въвеждане в полетата или чрез двата бутона отстрани със стрелкички. </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">Лявата стрелка води до миналия месец, а дясната до следващия</text><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чрез тази част от лентата с интрументи можете да прескочите в произволен месец и/или година. Това става или чрез въвеждане в полетата или чрез двата бутона отстрани със стрелкички. </text><text styleclass="Normal" style="text-decoration:underline;" translate="true">Лявата стрелка води до миналия месец, а дясната до следващия.</text></para>
   </body>
 </topic>

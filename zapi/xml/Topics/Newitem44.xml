@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Годишно изравняване</title>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Out Of Date">
+  <title translate="true">Начисляване на годишно изравняване</title>
   <body>
     <header>
-      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Годишно изравняване</text></para>
+      <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Начисляване на годишно изравняване</text></para>
     </header>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">За да изберете опцията &quot; Годишно изравняване &quot;, трябва да сте в режим на въвеждане, т.е. да виждате на екран таблицата със служителите/работниците.</text></para>
     <para style="margin-left:19px;"></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете от менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Годишно изравняване&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете от менюто </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Годишно изравняване&quot;</text><text styleclass="List" translate="true"> </text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете желания период (в рамките на 12 месеца)</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Прегледайте таблицата с облагаемия доход и авансовия данък по месеци. Ако желаете можете да нанесете промени.</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Ако лицето е работило и по друго правоотношение можете за улеснение да прибавите целия доход и данък примерно в 12-ти месец на годината. Този доход можете да видите от представена служебна бележка от лицето.</text></li>
