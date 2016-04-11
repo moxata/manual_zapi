@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">БУТОНИ</title>
   <body>
     <header>
@@ -9,6 +9,6 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><image src="toolbar.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В тази глава се обяснава накратко приложението на основните бутони в изгледа за въвеждане на трудови договори. До него се достига чрез меню </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="Normal" translate="true"> -&gt; </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;... на персонал&quot;</text><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В тази глава се обяснява накратко приложението на основните бутони в изгледа за въвеждане на трудови договори. До него се достига чрез меню </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Въвеждане&quot;</text><text styleclass="Normal" translate="true"> -&gt; </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;... на персонал&quot;.</text></para>
   </body>
 </topic>
