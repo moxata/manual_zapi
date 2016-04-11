@@ -1,9 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Under Construction" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>Коригиране на Удостоверения 9, 10 и 11</title>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Коригиране/допълнителни обстоятелства на Удостоверения 9, 10 и 11</title>
   <body>
-    <header><para styleclass="Heading1">Коригиране на Удостоверения 9, 10 и 11</para></header>
-    <para styleclass="Normal">Enter topic text here.</para>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Коригиране/промени в обстоятелствата на Удостоверения 9, 10 и 11</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Макар и програмата да позволява да коригирате вече въведени удостоверение, е желателно не ги променяте по този начин, за да се запази някаква следа какво е подавано в НОИ. Корекцията и декларирането на промени в обстоятелства стават по аналогичен начин. </text></para>
+    <para styleclass="Normal"></para>
+    <list id="41" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Ново &quot;еПарично обезщетение&quot;</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Избирате &quot;Вид удостоверение&quot;, което искате да редактирате</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Ако се вижда полето &quot;Вид обезщетение&quot;, избирате и вида обезщетение, което ще коригирате</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Натискате бутона &quot;Създаване на коригиращ запис&quot;. Показва се списък с редовни записи. Избирате записа, който ще коригирате</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Програмата автоматично променя &quot;Код на операцията&quot; на корекция. Ако не става дума за корекция, а за промени в обстоятелства, променяте кода на представяне и избирате &quot;Флаг за удостоверени/променени обстоятелства&quot; - попълнен раздел II</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Натискате бутона &quot;Попълване на удостоверения&quot;. Показва се удостоверението на екрана. Тук трябва да извършите необходимите промени.</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">След като сте готови, натискате &quot;Запис&quot;</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Промени в обстоятелствата и корекция на промени в обстоятелствата...</text><text styleclass="Comment" translate="true"> В системата на НОИ има на практика два вида корекции. Корекции на основни обстоятелства и деклариране на промени в обстоятелствата. Това е объркващо. Но логиката не е толкова сложна. Основните обстоятелства (Секция I) са условия, които задължително трябва да са изпълнени, за да се задейства изплащането на дадено обезщетение. Промените в обстоятелствата (Секция II) се състои от комбинация от редки случаи и събития, които са се случили след като обезщетението вече се изплаща. Условията в Секция II се избират според случая и е възможно да се случват по различно време. Затова и Секция II е с натрупване. Ако при първата декларация за промени в обстоятелствата, сте декларирали, че лицето ползва платен годишен отпуск, вторият път може да декларирате, че настойничеството е прекратено от кмета на общината. И двете обстоятелства се декларират с код на операцията &quot;Представяне&quot;. Двете обстоятелства се натрупват. При Секция I може само веднъж да се декларира с код представяне и в това има логика, защото всички условия за изплащане на обезщетението трябва да са валидни по начало. Корекцията на Секция II заменя всички обстоятелства в секцията. Това се използва ако част от информацията е грешна. Заличаването може да е на секция I и/или II. Разбира се, ако е декларирана секция I и II, няма смисъл да се заличава само I. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Грешна банкова сметка:</text><text styleclass="Comment" translate="true"> Ако сте сгрешили банковата сметка още при първоначалното деклариране на обезщетение, трябва да се пусне корекция на Секция I. Ако банковата сметка е променена след изплащането поне на част от обезщетението, трябва да пуснете редовна Секция II.</text></para>
   </body>
 </topic>

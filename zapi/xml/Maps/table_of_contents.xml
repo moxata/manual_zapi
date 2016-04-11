@@ -70,8 +70,8 @@
       <topicref type="topic" id="411038099347305" build="ALL" modified="2014-05-07T16:52:15.796Z" icon="0" href="Newitem79">
         <caption translate="true">Декларация 6 - за ДОД</caption>
       </topicref>
-      <topicref type="topic" id="411079052160347" build="ALL" modified="2012-07-17T18:27:33.067Z" icon="0" href="______">
-        <caption translate="true">Декларации за НОИ (болнични листове и заявления)</caption>
+      <topicref type="topic" id="411079052160347" build="ALL" modified="2016-04-11T22:54:59.082Z" icon="0" href="______">
+        <caption translate="true">Декларации за НОИ (Удостоверения 9, 10 и 11)</caption>
       </topicref>
     </topicref>
   </topicref>
@@ -95,8 +95,8 @@
     <topicref type="topic" id="411037769445652" build="ALL" modified="2016-04-11T15:13:27.249Z" icon="0" href="NewBoln">
       <caption translate="true">Създаване на Удостоверения 9, 10 и 11</caption>
     </topicref>
-    <topicref type="topic" id="424718090250367" build="ALL" modified="2016-04-11T14:45:21.721Z" icon="0" href="eObez_corr">
-      <caption translate="true">Коригиране на Удостоверения 9, 10 и 11</caption>
+    <topicref type="topic" id="424718090250367" build="ALL" modified="2016-04-11T21:49:23.231Z" icon="0" href="eObez_corr">
+      <caption translate="true">Коригиране/допълнителни обстоятелства на Удостоверения 9, 10 и 11</caption>
     </topicref>
     <topicref type="topic" id="411037692330496" build="ALL" modified="2012-07-13T16:56:41.073Z" icon="0" href="Newitem15">
       <caption translate="true">Договор за управление и контрол</caption>
@@ -146,8 +146,8 @@
     <topicref type="topic" id="411038298110845" build="ALL" modified="2012-07-17T11:05:17.230Z" icon="0" href="desen_prenazna4">
       <caption translate="true">Преназначаване</caption>
     </topicref>
-    <topicref type="topic" id="424715400533571" build="ALL" modified="2016-04-11T15:14:32.001Z" icon="0" href="ch222(1)">
-      <caption translate="true">Обезщетение при уволнение на други основание - чл. 222(1) КТ</caption>
+    <topicref type="topic" id="424715400533571" build="ALL" modified="2016-04-11T22:30:15.587Z" icon="0" href="ch222(1)">
+      <caption translate="true">Обезщетение при уволнение на други основания - чл. 222(1) КТ</caption>
     </topicref>
     <topicref type="topic" id="411037261365907" build="ALL" modified="2016-04-11T15:13:12.488Z" icon="0" href="desen_klas">
       <caption translate="true">Професионален опит и процент за клас</caption>
@@ -307,9 +307,6 @@
     </topicref>
     <topicref type="topic" id="411086181609704" build="ALL" modified="2012-07-18T11:47:10.371Z" icon="0" href="___._73__">
       <caption translate="true">Справка/декларация по чл. 73 от ЗДДФЛ</caption>
-    </topicref>
-    <topicref type="topic" id="424719423604536" build="ALL" modified="2016-04-11T17:52:57.547Z" icon="0" href="bolnListDnev">
-      <caption translate="true">Дневник на приетите болнични листове</caption>
     </topicref>
     <topicref type="topic" id="411036223933332" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem58">
       <caption translate="true">Платежни</caption>

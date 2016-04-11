@@ -1,11 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Under Construction">
-  <title translate="true">Обезщетение при уволнение на други основание - чл. 222(1) КТ</title>
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Обезщетение при уволнение на други основания - чл. 222(1) КТ</title>
   <body>
     <header>
-      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Обезщетение при уволнение на други основание - чл. 222(1) КТ</text></para>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Обезщетение при уволнение на други основания - чл. 222(1) КТ</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Този вид обезщетение е различен с това, че за него се пуска отделна Декларация 1 с код за вид осигурен 27. Процесът е улеснен максимално като програмата сама изчислява сумата на обезщетението и периода, за който трябва да се изплати.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:24px;"><image src="ch222.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:24px;"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Избира се ред от ведомостта, който трябва да е жълт</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Щраква се дясно копче на мишката и се избира &quot;Обезщетение при уволнение и на други основания - чл. 222(1) КТ&quot;</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">Програмата задава начална и крайна дата, както и среднодневно брутно възнаграждение. Ако желаете можете да ги коригирате</text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" translate="true">След &quot;Запис&quot; във ведомостта се появява лилав ред с обезщетението. Ако периода обхваща 2 месеца, такъв ред ще се появи и в следващия месец</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:24px;"></para>
+    <para styleclass="Normal" style="text-align:left; margin-left:24px;"></para>
   </body>
 </topic>

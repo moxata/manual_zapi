@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Under Construction">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Добавяне на периодични удръжки</title>
   <body>
     <header>
       <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Добавяне на периодични удръжки</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Тази функция автоматично прибавя удръжки на база на въведените шаблони за удръжки. За повече информация вижте темата </text><link displaytype="text" defaultstyle="true" type="topiclink" href="udrujShab" styleclass="Normal" translate="true">&quot;Шаблони за периодични удръжки&quot;</link><text styleclass="Normal" translate="true">.</text></para>
   </body>
 </topic>
