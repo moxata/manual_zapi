@@ -93,8 +93,8 @@
       </tablestyleclass>
     </styleclasses>
     <config-group name="project">
-      <config-value name="title" translate="true">КомБайт ЗАПИ</config-value>
-      <config-value name="copyright" translate="true">© 2016 КомБайт ЕООД</config-value>
+      <config-value name="title" translate="true">ТРЗ ЗАПИ</config-value>
+      <config-value name="copyright" translate="true">© 2016 КомБайт</config-value>
       <config-value name="comment">8.8</config-value>
       <config-value name="versionmajor">4</config-value>
       <config-value name="versionminor">0</config-value>
