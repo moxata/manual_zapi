@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Настройка на фирмата</title>
   <body>
     <header>
@@ -15,7 +15,7 @@
       <li styleclass="List"><text styleclass="List" translate="true">Въведете необходимите данни</text></li>
     </list>
     <para styleclass="Normal"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Важно е правилното попълване на НКИД и Пор.№ дейност. Това става на страницата &quot;Дейност&quot;. Ако няма промени в дейността на фирмата, няма нужда да се попълва информация за повече от една година. Ако не сте сигурни какъв е кода по НКИД, може да проверите в сайта на &quot;Търговски регистър&quot; (</text><link displaytype="text" defaultstyle="true" type="weblink" href="http://www.brra.bg/" target="_blank" styleclass="Comment" translate="true">http://www.brra.bg/</link><text styleclass="Comment" translate="true">) или да видите кой е преобладаващия НКИД сред служителите/работниците. За НКИД се въвежда задължително 4-цифрен код. Програмата се опитва да подразбере поредния номер икон. дейност, но понякога няма еднозначно съответствие и полето трябва да се попълни от потребителя. &#160;Това става или като въведете 4-ри цифрен код в полето или изберете дейност от списъка, който се отваря след щракане върху жълтия бутон вдясно от това поле. Важно е да зададете тези кодове, защото според тях се определя процентът на вноска за фонд &quot;Трудова злополука и професионална болест&quot; (ТЗПБ) както и праговете на служителите.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Важно е правилното попълване на НКИД и Пор.№ дейност. Това става на страницата &quot;Дейност&quot;. Ако няма промени в дейността на фирмата, няма нужда да се попълва информация за повече от една година. Ако не сте сигурни какъв е кода по НКИД, може да проверите в сайта на &quot;Търговски регистър&quot; (</text><link displaytype="text" defaultstyle="true" type="weblink" href="http://www.brra.bg/" target="_blank" styleclass="Comment" translate="true">http://www.brra.bg/</link><text styleclass="Comment" translate="true">) или да видите кой е преобладаващият НКИД сред служителите/работниците. За НКИД се въвежда задължително 4-цифрен код. Програмата се опитва да подразбере поредния номер икон. дейност, но понякога няма еднозначно съответствие и полето трябва да се попълни от потребителя. &#160;Това става или като въведете 4-ри цифрен код в полето или изберете дейност от списъка, който се отваря след щракане върху жълтият бутон вдясно от това поле. Важно е да зададете тези кодове, защото според тях се определя процентът на вноска за фонд &quot;Трудова злополука и професионална болест&quot; (ТЗПБ) както и праговете на служителите.</text></para>
     <para style="margin-left:19px;"></para>
   </body>
 </topic>

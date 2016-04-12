@@ -125,7 +125,6 @@
       <config-value name="make4status">*</config-value>
       <config-value name="make3include">HTML</config-value>
       <config-value name="make3status">*</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="hlp">
       <config-value name="citation" translate="true"></config-value>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Шаблони за периодични удръжки</title>
   <body>
     <header>
@@ -9,9 +9,9 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">От тук можете да зададете периодични удръжки, които се повтарят всеки месец докато не се достигне дадена обща сума или определен месец. Може да се използват за вноски по заеми или взаимно-спомагателна каса. Периодичните удръжки винаги трябва да са с вид &quot;Лична удръжка&quot;.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ВЪВЕЖДАНЕ</text></para>
-    <list id="125" type="ol" listtype="decimal" formatstring="%0:s." format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Удръжки&quot; от лентата с бутони</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">От дясно на таблицата с удръжките за текущия месец се намира таблицата с шаблоните за удръжки. Натиснете бутона със зелен плюс.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">От дясно на таблицата с удръжките за текущия месец се намира таблицата с шаблоните за удръжки. Натиснете бутона със зелен плюс</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете вид удръжка. Трябва да сте въвели съответния вид удръжка предварително и той трябва да е от вид &quot;Лична удръжка&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Можете да въведете &quot;Последен месец&quot; и/или &quot;Обща сума&quot;. По този начин програмата ще знае кога да спре да удържа суми автоматично</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Задайте месечна сума</text></li>
