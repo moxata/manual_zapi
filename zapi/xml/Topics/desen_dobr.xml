@@ -6,6 +6,13 @@
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Вноски за доброволно осигуряване или застраховка</text></para>
     </header>
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Доброволно пенсионно осигуряване</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Доброволно здравно осигуряване</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Доброволно осигуряване за безработица</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Застраховка живот</text></li>
+    </list>
+    <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">За да зададете вноска за едно от гореизброените доброволни осигуровки:</text></para>
     <para styleclass="Normal"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
@@ -16,7 +23,6 @@
       <li styleclass="List"><text styleclass="List" translate="true">В по-долната част на прозореца се въвежда процентът на вноската от съответния облагаем доход по ЗДДФЛ</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Ако съответната осигуровка няма да се облага с Данък общ доход, въведете процента в поле &quot;С данъчно облекчение&quot;, а ако ще се облага с данък, попълнете процента в поле &quot;Без данъчно облекчение&quot;. </text><text styleclass="List" style="font-weight:bold;" translate="true">Към 2016г. имате право на 10% данъчно облекчение!</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Вноската ще се изчисли автоматично и е равна на въведения процент от облагаемия доход</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху &quot;Добре&quot;</text></li>
     </list>
     <para styleclass="Normal"></para>
   </body>

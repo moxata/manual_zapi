@@ -18,7 +18,7 @@
     <para styleclass="List"></para>
     <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Ако желаете да промените ръчно първия или последния работен ден на текущия служител можете да щракнете с десен бутон върху неговия ред в таблицата и да изберете &quot;Назначаване, освобождаване, уведомления&quot;. В показалия се прозорец изберете отметката &quot;Ръчно задаване на първи и/или последен работен ден&quot; и след това отбележете съответния ден в горните полета</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Важно е да обърнете внимание на съдържанието на поле 2 - &quot;Договор №&quot;. При допълнително споразумение номерът на договора не трябва да се променя, защото на практика няма нов договор. Този номер за използва за връзка на записите между месеците примерно при изчисляване на платен отпуск, стаж, УП-та и т.н.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Важно е да обърнете внимание на съдържанието на поле 2 - &quot;Договор №&quot;. При допълнително споразумение номерът на договора не трябва да се променя, защото на практика няма нов договор. Този номер се използва за връзка на записите между месеците примерно при изчисляване на платен отпуск, стаж, УП-та и т.н.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
   </body>

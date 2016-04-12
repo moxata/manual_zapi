@@ -17,8 +17,8 @@
       <li styleclass="List"><text styleclass="List" translate="true">По подразбиране процентът на нормативните признати разходи е 25. Ако желаете да го промените, щракнете върху стрелкичката вдясно от това поле и от падащото меню изберете желания процент</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">За месеците, за които гражданският договор е в сила, въведете сумите по него </text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Ако изпълнителят има и други правоотношения, това трябва да се отбележи в колона &quot;Др.правоотн?&quot;. В такъв случай се въвежда и &quot;Друг.ос.доход&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">&#32;</text><text styleclass="List" style="font-weight:bold;" translate="true">Най-важната колона е &quot;Дата на пл.&quot;</text><text styleclass="List" translate="true"> - ако не въведете дата тук, сумата за този месец няма да се начисли. </text><text styleclass="List" style="text-decoration:underline;" translate="true">При граждански договори сумите се начисляват в месеца, в който са изплатени!</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху страница &quot;Предмет и условия&quot;, за да въведете предмет на договора и задължения на Възложителят и на Изпълнителят</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">&#32;</text><text styleclass="List" style="font-weight:bold;" translate="true">Най-важната колона е &quot;Дата на плащане&quot;</text><text styleclass="List" translate="true"> - ако не въведете дата тук, сумата за този месец няма да се начисли. </text><text styleclass="List" style="text-decoration:underline;" translate="true">При граждански договори сумите се начисляват в месеца, в който са изплатени!</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху страница &quot;Предмет и условия&quot;, за да въведете предмет на договора и задължения на Възложителя и на Изпълнителя</text></li>
     </list>
   </body>
 </topic>
