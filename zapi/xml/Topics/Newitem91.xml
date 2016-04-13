@@ -6,7 +6,7 @@
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Файл за масови плащания</text></para>
     </header>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">За да генерирате файл за масови плащания, преди всичко трябва да въведете месеца, за който ще правите плащания. Датата на съставяне по подразбиране е днешна, а BIC и IBAN на наредителя са съответно тези, които сте въвели при платежните.</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">За да генерирате файл за масови плащания, преди всичко трябва да въведете месеца, за който ще правите плащания. Датата на съставяне по подразбиране е днешна, а BIC и IBAN на наредителя са съответно тези, които сте въвели при платежните. Можете да документирате плащането на хартия чрез бутона &quot;Печат&quot;.</text></para>
     <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">Запишете файла, като изберете бутона &quot;Запис на дискета&quot;.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка</text><text styleclass="Comment" translate="true">: Ако не искате да изплащате суми по карта на някое лице просто не му въвеждайте банкова сметка или въведете сума за плащане 0.00 лв.</text></para>
