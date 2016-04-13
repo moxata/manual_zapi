@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Фиш</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Фиш</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Този начин за извеждане на фиш е удобен за бърза справка, защото показва и информация за осигуровките дължими от работодателя.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Този начин за извеждане на фиш е удобен за бърза справка, защото показва информация за осигуровките дължими от работодателят.</text></para>
     <para styleclass="Normal"></para>
     <para style="margin-left:19px;"></para>
     <para styleclass="Normal"></para>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Как да въведем неплатен отпуск?</title>
   <body>
     <header>
       <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Как да въведем неплатен отпуск?</text></para>
     </header>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Неплатеният отпуск, зачитащ се за трудов стаж, не се въвежда ръчно. Намалете дните в колона 8 (отработени дни) и кликнете върху &quot;Запис (V)&quot;. Програмата следи кога дните ще станат повече от 30 и след това започва да ги записва в колона &quot;Брой дни в неплатен отпуск без трудов стаж&quot;. След като станат повече от 30 дни, трябва да намалите броя дни, зачетени за трудов стаж в колона 10.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Неплатеният отпуск, зачитащ се за трудов стаж, не се въвежда ръчно. Намалете дните в колона 8 (отработени дни) и кликнете върху &quot;</text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">Запис (V)</text><text styleclass="NormalFirstIdent" translate="true">&quot;. Програмата следи кога дните ще станат повече от 30 и след това започва да ги записва в колона &quot;Брой дни в неплатен отпуск без трудов стаж&quot;. След като станат повече от 30 дни, трябва да намалите броя дни, зачетени за трудов стаж в колона 10.</text></para>
   </body>
 </topic>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Преназначаване</title>
   <body>
     <header>
@@ -12,7 +12,7 @@
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете с десния бутон на мишката върху името на служителя, който искате да преназначите</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете &quot;Преназначаване&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Попълнете уведомлението за преназначаването</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Автоматично програмата създава нов идентичен ред за този служител във ведомостта. Първият ред става жълт и за него последен работен ден е денят преди датата на назначаване в уведомлението. Вторият ред е зелен и в него е отбелязан първи работен ден денят на назначаване в уведомлението</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Автоматично програмата създава нов идентичен ред за този служител във ведомостта. Първият ред става жълт и за него последен работен ден е денят преди датата на назначаване в уведомлението. Вторият ред е зелен и в него е отбелязан първият работен ден от назначаване в уведомлението</text></li>
     </list>
   </body>
 </topic>

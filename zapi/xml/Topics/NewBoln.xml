@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Създаване на Удостоверения 9, 10 и 11</title>
   <body>
     <header>
@@ -31,6 +31,6 @@
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> След като се експортира записа за удостоверението, се активира отметката &quot;</text><text styleclass="Comment" style="font-weight:bold;" translate="true">Предадено в НОИ</text><text styleclass="Comment" translate="true">&quot;. Ако не сте успели да предадете удостоверението успешно, можете да го редактирате и да премахнете тази отметка.</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Tahoma; font-size:11pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Друго полезна възможност е разпечатването автоматично попълнени Удостоверение и съответстващото Приложение на НОИ. Препоръчително е до пазите хартиен архив на тези документи, както и да изискате подпис от служителя в Приложението.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Tahoma; font-size:11pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Друга полезна възможност е разпечатването автоматично попълнени Удостоверение и съответстващото Приложение на НОИ. Препоръчително е до пазите хартиен архив на тези документи, както и да изискате подпис от служителя в Приложението.</text></para>
   </body>
 </topic>

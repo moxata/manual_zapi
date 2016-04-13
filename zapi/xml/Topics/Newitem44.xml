@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Начисляване на годишно изравняване</title>
   <body>
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Начисляване на годишно изравняване</text></para>
     </header>
-    <para styleclass="NormalFirstIdent"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Годишното изравняване се извършва в месец Декември за фирми, в които възнаграждението се изплаща в следващия месец и в месец Януари на следващата година, когато възнаграждението се изплаща в текущ месец.</text></para>
+    <para styleclass="NormalFirstIdent"><text style="font-family:Arial; font-size:11pt; color:#000000;" translate="true">Годишното изравняване се извършва в месец Декември за фирми, в които възнаграждението се изплаща в следващия месец и в месец Януари на следващата година, когато възнаграждението се изплаща в текущ месец.</text></para>
     <para styleclass="NormalFirstIdent"></para>
-    <para styleclass="NormalFirstIdent"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Сумата, която трябва да се изравни се въвежда в колона 48 - &quot;Изравняване на ДОД&quot;. Тя най-често е по 20 лева на непълнолетно дете. Тези суми се приспадат от дължимия авансов данък от фирмата за месеца. В редки случаи е възможно дължимият данък да е по-малък от сумата за приспадане. Затова съществува и функцията &quot;Начисляване на годишно изравняване&quot;. Активирането на тази функция записва сумата, която не може да се приспадне в текущия месец за следващ месец.</text></para>
+    <para styleclass="NormalFirstIdent"><text style="font-family:Arial; font-size:11pt; color:#000000;" translate="true">Сумата, която трябва да се изравни се въвежда в колона 48 - &quot;Изравняване на ДОД&quot;. Тя най-често е по 20 лева на непълнолетно дете. Тези суми се приспадат от дължимия авансов данък от фирмата за месеца. В редки случаи е възможно дължимият данък да е по-малък от сумата за приспадане. Затова съществува и функцията &quot;Начисляване на годишно изравняване&quot;. Активирането на тази функция записва сумата, която не може да се приспадне в текущия месец за следващ месец.</text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="Comment"><text styleclass="Comment" translate="true">Независимо дали приспадането може да се извърши в текущия месец, не пречи, след като се нанесат сумите в &quot;Изравняване за ДОД&quot;, за всеки случай, да се пусне &quot;Начисляване на годишно изравняване&quot;.</text></para>
   </body>

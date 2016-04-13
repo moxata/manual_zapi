@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Как да зададем дата на назначаване или освобождаване?</title>
   <body>
     <header>
@@ -16,9 +16,9 @@
       <li styleclass="List"><text styleclass="List" translate="true">Пред Вас ще се отвори прозорец &quot;Уведомление по чл.62 ал.5 от КТ&quot;. Попълнете необходимите клетки, за да преназначите или да освободите даден служител.</text></li>
     </list>
     <para styleclass="List"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Ако желаете да промените ръчно първия или последния работен ден на текущия служител можете да щракнете с десен бутон върху неговия ред в таблицата и да изберете &quot;Назначаване, освобождаване, уведомления&quot;. В показалия се прозорец изберете отметката &quot;Ръчно задаване на първи и/или последен работен ден&quot; и след това отбележете съответния ден в горните полета</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Ако желаете да промените ръчно първия или последния работен ден на текущия служител можете да щракнете с десен бутон върху неговия ред в таблицата и да изберете &quot;Назначаване, освобождаване, уведомления&quot;. В показалият се прозорец изберете отметката &quot;Ръчно задаване на първи и/или последен работен ден&quot; и след това отбележете съответният ден в горните полета</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Важно е да обърнете внимание на съдържанието на поле 2 - &quot;Договор №&quot;. При допълнително споразумение номерът на договора не трябва да се променя, защото на практика няма нов договор. Този номер се използва за връзка на записите между месеците примерно при изчисляване на платен отпуск, стаж, УП-та и т.н.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Важно е да обърнете внимание на съдържанието на поле 2 - &quot;Договор №&quot;. При допълнително споразумение номерът на договора не трябва да се променя, защото на практика няма нов договор. Този номер се използва за връзка на записите между месеците. Примерно при изчисляване на платен отпуск, стаж, УП-та и т.н.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
   </body>
