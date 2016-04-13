@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Помощник за настройване</title>
   <body>
     <header>
       <para style="margin-left:19px;"><tab /><tab /></para>
       <para style="text-align:center; margin-left:19px;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">ПОМОЩНИК ЗА НАСТРОЙВАНЕ</text></para>
     </header>
-    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">При първоначално започване на работа със </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">ЗАПИ ТРЗ</text><text styleclass="NormalFirstIdent" translate="true"> е необходимо да въведете информация за фирмата като БУЛСТАТ, НКИД, адрес, МОЛ и други. Тази информация ще се използва в последствие при изготвяне на справки и декларации.</text></para>
+    <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">При първоначално започване на работа със </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">ЗАПИ ТРЗ</text><text styleclass="NormalFirstIdent" translate="true"> е необходимо да въведете информация за фирмата като БУЛСТАТ, НКИД, пореден номер дейност, адрес, МОЛ и други. Тази информация ще се използва в последствие при изготвяне на справки и декларации.</text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">При стартиране на програмата с нови данни се отваря прозорец, който с подробни указания показва на потребителя как да настрои програмата. Този прозорец е идентичен с този, който се отваря от менюто </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="NormalFirstIdent" translate="true"> -&gt; </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Помощник за първоначално настройване&quot;</text><text styleclass="NormalFirstIdent" translate="true">.</text></para>
     <para style="margin-left:19px;"></para>
