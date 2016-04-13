@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Как да премахнем ред за служител?</title>
   <body>
     <header>
@@ -9,8 +9,8 @@
     <para styleclass="List"><image src="del.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Маркирайте реда, който желаете да премахнете</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона, изобразяващ човек със знак &quot;-&quot; от лентата с инструменти.</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">На въпроса &quot;Желаете ли да изтриете записа?&quot; отговорете с &quot;Да&quot;.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона, изобразяващ човек със знак &quot;-&quot; от лентата с инструменти</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">На въпроса &quot;Желаете ли да изтриете записа?&quot; отговорете с &quot;Да&quot;</text></li>
     </list>
     <para styleclass="Normal"></para>
   </body>

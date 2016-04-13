@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Назначаване, освобождаване, уведомления</title>
   <body>
     <header>
@@ -11,10 +11,10 @@
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете с десния бутон на мишката върху името на служителя, който искате да назначите или освободите, след това изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Назначаване, освобождаване, уведомления&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" style="font-weight:normal;" translate="true">Маркирайте &quot;Ръчно задаване на първи и/или последен работен ден&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">В отворилия се прозорец въведете датата на назначаване или датата на освобождаване, в зависимост от желаната опция.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В отворилия се прозорец въведете датата на назначаване или датата на освобождаване, в зависимост от желаната опция</text></li>
     </list>
     <para style="margin-left:19px;"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка</text><text styleclass="Comment" translate="true">: &#160;Датата на назначаване по уведомление и датата на назначаване по ведомост от бутона &quot;Назначаване, освобождаване...&quot; се разминава с един ден. Важна е датата на назначаване по ведомост, защото именно тя влиза в Декларация 1. Тази дата е задължително работен ден! Информацията от уведомлението, което се подава е НАП не влиза в Декларация 1.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка</text><text styleclass="Comment" translate="true">: &#160;Датата на назначаване по уведомление и датата на назначаване по ведомост от бутона &quot;Назначаване, освобождаване...&quot; се разминава с един ден. Важна е датата на назначаване по ведомост, защото именно тя влиза в Декларация 1. Тази дата е задължително работен ден! Информацията от уведомлението, което се подава в НАП, не влиза в Декларация 1.</text></para>
     <para style="margin-left:19px;"></para>
   </body>
 </topic>

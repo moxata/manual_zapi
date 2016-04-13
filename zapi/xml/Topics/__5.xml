@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Настройка на програмата за сумирано отчитане</title>
   <body>
     <header>
@@ -15,12 +15,12 @@
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Редовете на лицата, които са на сумирано отчитане стават в светлосин цвят.</text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Особености</text></para>
-    <list id="88" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Декларация 1 се попълва с код за вид осигурен 16. Попълва се т. 13 - Код за сумирано изчисляване на работната време. Възможно е отр. дни получени от отр. часове да са повече или по-малко от работните дни в месеца.</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Болничните са в часове, а не в дни. Часовете болнични се определят от работния график, т.е. е желателно той да е попълнен поне за лицата, които са в болнични.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Болничните са в часове, а не в дни. Часовете болнични се определят от работния график, т.е. желателно е той да е попълнен поне за лицата, които са в болнични.</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Присъствената форма и графика се попълват в часове. Нощните часове се преизчисляват в дневни по коефициент 8/7 = ~1.14</text></li>
     </list>
     <para styleclass="List"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Сумираното отчитане усложнява работата на счетоводителя многократно. Да не говорим, че нормативната уредба остава неясноти по отношение на различни ситуации. ТРЗ ЗАПИ се стреми да опростява материята, но е факт, че тя е неприятна и за счетоводители и за проверяващи. Ако може да се избягва! </text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Сумираното отчитане усложнява работата на счетоводителят многократно. Да не говорим, че нормативната уредба остава неясноти по отношение на различни ситуации. ТРЗ ЗАПИ се стреми да опростява материята, но е факт, че тя е неприятна и за счетоводители и за проверяващи. Ако може да се избягва! </text></para>
   </body>
 </topic>
