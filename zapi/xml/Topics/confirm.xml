@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">ПОТВЪРЖДАВАНЕ НА ДЕКЛАРАЦИИ</title>
   <body>
     <header>
@@ -10,7 +10,7 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">&#32;</text><image src="main_confirm.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal" style="text-align:center;"></para>
-    <para styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Това е причината при стартиране ная някоя функция понякога да ви се появи прозорец, който ви приканва да потвърдите дали дадена декларация е приета. Програмата ще вземе предвид вашия отговор и ще генерира данни, съобразени с него. Например при стартиране на функцията за декларация 1 и 6 и наличие на непотвърдени декларации за същия месец, ще се появи прозорецът за потвърждаване.</text></para>
+    <para styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Това е причината при стартиране на някоя функция понякога да ви се появи прозорец, който ви приканва да потвърдите дали дадена декларация е приета. Програмата ще вземе предвид вашия отговор и ще генерира данни, съобразени с него. Например при стартиране на функцията за декларация 1 и 6 и наличие на непотвърдени декларации за същия месец, ще се появи прозорецът за потвърждаване.</text></para>
     <para styleclass="Normal" style="text-align:left;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="confirm1.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption" translate="true">Потвърждаване на приети декларации (1 - декларация 1; 2 - декларация 6)</text></para>

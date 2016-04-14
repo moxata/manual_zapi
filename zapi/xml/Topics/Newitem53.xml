@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Ведомост за трудови договори</title>
   <body>
     <header>
@@ -9,7 +9,7 @@
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В справка </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Ведомост за трудови договори&quot;</text><text styleclass="NormalFirstIdent" translate="true"> можете да видите как точно се формира крайната сума за получаване на отделните служители, както и сбор за цялата фирма и по отдели. Тази справка може да бъде в три варианта:</text></para>
     <para styleclass="Normal"></para>
     <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">Пълен</text><text styleclass="List" translate="true"> - извежда всички удръжки, надбавки, данъци, осигуровки и др. &#160;</text></li>
+      <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">Пълен</text><text styleclass="List" translate="true"> - извежда всички удръжки, надбавки, данъци, осигуровки и др. </text></li>
       <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">За подписи</text><text styleclass="List" translate="true"> - съдържа брутната заплата, удръжките и чистата сума за получаване</text></li>
       <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">За аванси</text><text styleclass="List" translate="true"> - съдържа само данните на служителя и размера на аванса</text></li>
     </list>

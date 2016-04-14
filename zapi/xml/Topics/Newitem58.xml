@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Платежни</title>
   <body>
     <header>
@@ -24,7 +24,7 @@
     </list>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Ако желаете да настроите и други параграфи, повторете това, което направихте</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Появява се прозорец, в който можете да разгледате, и редактирате ако има нужда, платежните нареждания. Разглеждането става с бутоните със стрелките отгоре. Можете също да попълните и напълно ново платежно чрез бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;+&quot;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Появява се прозорец, в който можете да разгледате и редактирате платежните нареждания, ако има нужда. Разглеждането става с бутоните със стрелките отгоре. Можете също да попълните и напълно ново платежно чрез бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;+&quot;</text></li>
     </list>
     <para styleclass="List"><text styleclass="List" translate="true">&#32;</text></para>
     <para styleclass="Comment" style="text-align:justify;"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка: </text><text styleclass="Comment" translate="true">Ръчно въведените платежни автоматично се прехвърлят в следващия месец, като от вас се иска само да промените сумите по тях ако има нужда.</text></para>
