@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Смяна на устройството за архивиране и запис на декларации</title>
   <body>
     <header>
@@ -15,7 +15,7 @@
     <para styleclass="List"></para>
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Архивиране чрез DropBox.com:</text></para>
     <para styleclass="Normal"><tab /></para>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">DropBox е програма, която Ви позволява да съхранявате своите файлове в Интернет по изключително лесен начин. Освен това е безплатна до определен лимит, което я прави идеална за съхраняване на архиви от нашата програма. Нужна ви е регистрация в </text><link displaytype="text" defaultstyle="true" type="weblink" href="http://dropbox.com" target="_blank" styleclass="NormalFirstIdent" translate="true">dropbox.com</link><text styleclass="NormalFirstIdent" translate="true">. Също трябва да изтеглите тяхната програма за Windows и да я инсталирате. След като сте го направили на компютъра Ви се появява папка &quot;My Documents\DropBox&quot;, която е специална папка, която автоматично се синхронизира с Интернет. Точно тази папка трябва да посочите в нашата програма във второто поле, за да се възползвате от Интернет архивирането.</text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">DropBox е програма, която Ви позволява да съхранявате своите файлове в Интернет по изключително лесен начин. Освен това е безплатна до определен лимит, което я прави идеална за съхраняване на архиви от нашата програма. Нужна ви е регистрация в </text><link displaytype="text" defaultstyle="true" type="weblink" href="http://dropbox.com" target="_blank" styleclass="NormalFirstIdent" translate="true">dropbox.com</link><text styleclass="NormalFirstIdent" translate="true">. Също трябва да изтеглите тяхната програма за Windows и да я инсталирате. След като сте го направили на компютъра Ви се появява папка &quot;My Documents\DropBox&quot;, която е специална папка, която автоматично се синхронизира с Интернет. Точно тази папка трябва да посочите в нашата програма във второто поле, за да се възползвате от интернет архивирането.</text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="Comment" style="text-align:justify;"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Не забравяйте да си запишете името и паролата за DropBox на сигурно място в случай, че ви се наложи да търсите архивите си от Интернет.</text></para>
   </body>
