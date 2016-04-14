@@ -12,7 +12,7 @@
     <para styleclass="Normal"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Кликнете с десен бутон на мишката върху определения работник и изберете &quot;Доплащания по КТ&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">В първа колона изберете вида на доплащането - извънреден труд, нощен труд и т.н. Ако желаното доплащане липсва в програмата можете да изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;000 | Нестандартен&quot;</text><text styleclass="List" translate="true"> и да въведете текстът, който ще излезе на фиша както и процент или часова ставка</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">В първа колона изберете вида на доплащането - извънреден труд, нощен труд и т.н. Ако желаното доплащане липсва в програмата можете да изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;000 | Нестандартен&quot;</text><text styleclass="List" translate="true"> и да въведете текста, който ще излезе на фиша, както и процент или часова ставка</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Въведете броя часове на полагания труд. Ако доплащането не е свързано с часове, а само със сума, можете да не въвеждате часове, а направо сума </text></li>
     </list>
   </body>

@@ -6,7 +6,7 @@
     <header>
       <para style="text-align:center;"><text style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;" translate="true">Преномериране</text></para>
     </header>
-    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">В случай, че в процеса на работа сте изтрили някой служител от списъка със служителите, логично е да се появи несъответствие в последователността на номерация на служителите. Програмата предоставя възможност за лесно автоматично преномериране на всички служители. Освен че номерата стават последователни, при преномериране, служителите се подреждат по азбучен ред. </text></para>
+    <para styleclass="NormalFirstIdent" style="text-align:justify;"><text styleclass="NormalFirstIdent" translate="true">В случай, че в процеса на работа сте изтрили някой служител от списъка със служителите, логично е да се появи несъответствие в последователността на номерация на служителите. Програмата предоставя възможност за лесно автоматично преномериране на всички служители. Освен че номерата стават последователни, при преномериране служителите се подреждат по азбучен ред. </text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ИЗВЪРШИМ ПРЕНОМЕРИРАНЕТО?</text></para>
     <para styleclass="Normal"></para>

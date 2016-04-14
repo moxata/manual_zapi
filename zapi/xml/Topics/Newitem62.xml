@@ -12,7 +12,7 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">КАК ДА ИЗВЪРШИМ ПРЕХВЪРЛЯНЕТО?</text></para>
     <para styleclass="Normal"></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+    <list id="23" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">От менюто &quot;Сервиз&quot; изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Прехвърляне на данни между месеците&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">В горната част на отворилия се прозорец в частта &quot;От&quot; задайте месец и година, от които ще вземате данните</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">В частта &quot;До&quot;, в поле </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Начало&quot;</text><text styleclass="List" translate="true"> задайте начало на периода, в който ще прехвърляте данните</text></li>

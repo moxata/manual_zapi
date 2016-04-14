@@ -9,7 +9,7 @@
     <para styleclass="Normal"><image src="nav_sluj.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Описание на бутоните от ляво на дясно:</text></para>
-    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="30" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Въвеждане на нов служител. Налична е възможност за едновременно въвеждане и на уведомление за назначаване.</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изтриване на запис. Това не е освобождаване, а просто махане на записа от ведомостта</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Потвърждаване на направените промени. Ако програмата открие неточности, тя извежда съобщение за грешка и няма да Ви позволи да запишете преди да сте отстранили проблема</text></li>

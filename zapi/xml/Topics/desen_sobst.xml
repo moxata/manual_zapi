@@ -12,7 +12,7 @@
       <li styleclass="List"><text styleclass="List" translate="true">От появилото се меню изберете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Опции за собствениците&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Въведете необходимите данни</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Ако собственикът е чужденец изберете &quot;Чужденец&quot; и въведете дата на раждане и пол</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">За да въведете област, щракнете върху бутона отдясно на съответното поле. Всяка област има номер и ако го знаете е по-лесно да въведете номера; пр. 21 е област София-град</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">За да въведете област, щракнете върху бутона отдясно на съответното поле. Всяка област има номер и ако го знаете, е по-лесно да въведете номера; пр. 21 е област София-град</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">За да потвърдите промените, щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Съхраняване&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Името на собственика се е появило в празното поле. Ако фирмата е с повече от един собственик, щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Нов&quot;</text><text styleclass="List" translate="true"> и продължете аналогично да въвеждате</text></li>
     </list>

@@ -39,7 +39,7 @@
     <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА ИЗТРИЕМ УДРЪЖКА?</text></para>
     <para styleclass="Heading1"></para>
     <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
-      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте служителят, чиято удръжка ще изтривате</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Маркирайте служителя, чиято удръжка ще изтривате</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутон </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Удръжки&quot;</text></li>
       <li styleclass="List"><text styleclass="List" style="font-weight:normal;" translate="true">Изберете удръжката от списъка</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Изтриване&quot; </text><text styleclass="List" translate="true">(оцветен в жълто)</text></li>
