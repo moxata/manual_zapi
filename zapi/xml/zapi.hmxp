@@ -8,7 +8,7 @@
           <export-task name="Publish as CHM" format="CHM">
             <task-config-group name="settings">
               <task-config-value name="outputfile">zapi.chm</task-config-value>
-              <task-config-value name="skin">D:\Program Files (x86)\EC Software\HelpAndManual6\Templates\HTML Skins\Twoframe_Classic_Skin_Blue.hmskin</task-config-value>
+              <task-config-value name="skin">..\..\..\..\Program Files (x86)\EC Software\HelpAndManual6\Templates\HTML Skins\HM6-OnlineHelp-Webhelp+CHM.hmskin</task-config-value>
               <task-config-value name="deletetemp">1</task-config-value>
               <task-config-value name="make0include">CHM</task-config-value>
               <task-config-value name="make0status">*</task-config-value>
@@ -145,7 +145,7 @@
       <config-value name="usesecondarywindows">1</config-value>
       <config-value name="outputfile">zapi.chm</config-value>
       <config-value name="deletetemp">1</config-value>
-      <config-value name="skin">D:\Program Files (x86)\EC Software\HelpAndManual6\Templates\HTML Skins\Twoframe_Classic_Skin_Blue.hmskin</config-value>
+      <config-value name="skin">..\..\..\..\Program Files (x86)\EC Software\HelpAndManual6\Templates\HTML Skins\HM6-OnlineHelp-Webhelp+CHM.hmskin</config-value>
     </config-group>
     <config-group name="hxs">
       <config-value name="namespace"></config-value>
@@ -417,7 +417,7 @@ document.write('</frameset>');
       <config-value name="project.lastexport">4</config-value>
       <config-group name="moxata">
         <config-group name="project">
-          <config-value name="lastexport">4</config-value>
+          <config-value name="lastexport">0</config-value>
         </config-group>
       </config-group>
     </config-group>
