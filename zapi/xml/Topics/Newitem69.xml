@@ -19,7 +19,7 @@
         <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Нов вид&quot;</text></li>
         <li styleclass="List"><text styleclass="List" translate="true">Изпишете името на обезщетението в полето &quot;Наименование&quot; и изберете модела на обезщетението от списъка &quot;Модел&quot;. В повечето случаи трябва да изберете &quot;Нестандартно обезщетение&quot;, което значи, че програмата не го изчислява автоматично, а вие въвеждате сумата</text></li>
         <li styleclass="List"><text styleclass="List" translate="true">Задайте с какво се облага обезщетението и щракнете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Запис&quot;</text></li>
-        <li styleclass="List"><text styleclass="List" translate="true">След като сте записали новия вид обезщетението, то вече съществува в списъка с видове обезщетения</text></li>
+        <li styleclass="List"><text styleclass="List" translate="true">След като сте записали новия вид обезщетение, то вече съществува в списъка с видове обезщетения</text></li>
       </list>
     </list>
     <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
