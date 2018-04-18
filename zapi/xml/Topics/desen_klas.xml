@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Професионален опит и процент за клас</title>
   <body>
     <header>
@@ -14,7 +14,7 @@
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете с десния бутон на мишката върху името на желан работник или служител от таблицата</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">От появилото се меню изберете</text><text styleclass="List" style="font-weight:bold;" translate="true"> &quot;</text><text styleclass="Font Style" style="font-family:Arial; font-size:12pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Професионален опит и процент за клас</text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Въведете дата, към която е известен стажа</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Вдясно от датата се въвежда професионален опит към датата, която сте въвели. Желателно е да въведете стажа към датата на постъпване на лицето на работа</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Вдясно от датата се въвежда професионален опит към датата, която сте въвели. Желателно е да въведете стажа към датата на постъпване на работа</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Дефинирайте начин на пресмятане на процент за клас. Ако изберете опцията &quot;Ръчно въведен процент&quot;, процентът ще бъде числото, което трябва да зададете в полето най-долу на този прозорец, без да се влияе от стажа. Другата предоставена възможност е процентът да се получава чрез умножаването на годишния коефициент по годините трудов стаж. По подразбиране коефициентът е 0.6%, но можете да го промените в зависимост от условията в трудовия договор</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">В случай, че сте избрали опцията за автоматично изчисляване и сте задали дата на назначаване и професионален опит, щракнете бутона </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Преизчисляване&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щом щракнете </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Добре&quot;</text><text styleclass="List" translate="true">, стойността от полето </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Процент за клас&quot;</text><text styleclass="List" translate="true"> ще се копира в &quot;колона 17&quot; от таблицата, в реда на съответния служител.</text></li>
