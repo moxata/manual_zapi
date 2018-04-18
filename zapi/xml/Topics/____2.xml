@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Работни графици и присъствена форма</title>
   <body>
     <header>
       <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Работни графици и присъствена форма</text></para>
     </header>
-    <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" translate="true">За лицата на сумирано отчитане на работното време въвеждането в тези две форми се различава от останалите. Разликата е, че при този вариант не се пишат директно брой часове в съответен ден, а точно конкретно кои часове е работено. Тези часове трябва да се попълнят поотделно за всеки ден, в който е работено.</text></para>
+    <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" translate="true">За лицата на сумирано отчитане на работното време въвеждането в тези две форми се различава от останалите. Разликата е, че при този вариант не се пишат директно брой часове в съответен ден, а конкретно часовете, които е работено. Тези часове трябва да се попълнят поотделно за всеки ден, в който е работено.</text></para>
     <para styleclass="Normal" style="margin-left:0px;"></para>
     <para styleclass="Normal" style="text-align:center; margin-left:0px;"><image src="sumW.jpg" scale="56.94%" width="635" height="41" styleclass="Image Caption"></image></para>
     <para styleclass="Normal" style="margin-left:0px;"></para>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">С ляв бутон на мишката включвате или изключвате даден час. С десен бутон се извежда меню, чрез което можете да маркирате предварително създадена смяна. Можете да промените шаблоните на смените от </text><link displaytype="text" defaultstyle="true" type="topiclink" href="smeni" styleclass="NormalFirstIdent" translate="true">тук</link><text styleclass="NormalFirstIdent" translate="true">.</text></para>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">След като сте въвели графика/присъствената форма на лицето, можете да проверите дали този график е съобразен с изискванията на КТ чрез бутона </text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">&quot;Законно ли е?&quot;</text><text styleclass="NormalFirstIdent" translate="true">. Ако има нарушения, те се извеждат на екран.</text></para>
     <para styleclass="NormalFirstIdent"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка</text><text styleclass="Comment" translate="true">: Работният график служи за база при генерирането по присъствената форма, т.е. при правилно съставен график, в присъствената форма, ще трябва да нанесете само дребни корекции.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка</text><text styleclass="Comment" translate="true">: Работният график служи за база при генерирането на присъствената форма, т.е. при правилно съставен график, в присъствената форма, ще трябва да нанесете само дребни корекции.</text></para>
   </body>
 </topic>
