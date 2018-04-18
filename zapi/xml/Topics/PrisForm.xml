@@ -12,7 +12,7 @@
     <para styleclass="NormalFirstIdent"></para>
     <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Маркирайте избраното от вас лице и в дясно ще се изпишат не разпределените дни. Това са дни, за които има нужда да се уточнят кога са</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете с ляво копче на мишката върху даден ден отбелязва:</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракане с ляво копче на мишката върху даден ден отбелязва:</text></li>
     </list>
     <list id="3" level="1" type="ul" listtype="bullet" formatstring="&#111;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:&apos;Courier New&apos;; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" style="font-weight:bold;" translate="true">&quot;М&quot; - Майчинство/болнични за раждане</text></li>
