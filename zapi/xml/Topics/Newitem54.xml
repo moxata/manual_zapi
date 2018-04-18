@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Ведомост за граждански договори</title>
   <body>
     <header>
@@ -9,7 +9,16 @@
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" style="font-weight:normal;" translate="true">&#32;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Ведомост за граждански договори&quot;</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Изберете желания месец</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете желания месец или тримесечие</text></li>
     </list>
+    <para styleclass="List"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК ДА НАПРАВИМ СПРАВКА ВЕДОМОСТ ПО ОТДЕЛИ?</text></para>
+    <para styleclass="Heading1"></para>
+    <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете меню </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Справки&quot;</text><text styleclass="List" translate="true"> -&gt; </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;Ведомост за граждански договори&quot;</text><text styleclass="List" translate="true">&#32;</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Изберете желания месец и година или тримесечие</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">На реда </text><text styleclass="List" style="font-weight:bold;" translate="true">&quot;За отдел&quot;</text><text styleclass="List" translate="true">: изберете съответния отдел, за който искате да се изготви ведомост</text></li>
+    </list>
+    <para styleclass="Normal"></para>
   </body>
 </topic>
