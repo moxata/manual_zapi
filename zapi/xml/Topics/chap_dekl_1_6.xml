@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">ЕДНОВРЕМЕННИ ДЕКЛАРАЦИИ 1 и 6</title>
   <body>
     <header>
       <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">ЕДНОВРЕМЕННИ ДЕКЛАРАЦИИ 1 и 6</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Програмата предоставя изключително лесен и удобен начин за едновременно създаване на дискета с Декларация 1 и 6 за НАП. Можете да извикате функцията от &quot;Копиране&quot; -&gt; &quot;Декларация 1 и 6...&quot;.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Програмата предоставя изключително лесен и удобен начин за едновременно създаване на файлове Декларация обр. 1 и 6 за НАП. Можете да извикате функцията от &quot;Копиране&quot; -&gt; &quot;Декларация 1 и 6...&quot;.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><image src="d1_legend.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal"></para>
