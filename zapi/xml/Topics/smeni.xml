@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Работни смени</title>
   <body>
     <header>
       <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Работни смени</text></para>
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Работните смени служат за улеснение при отбелязването на работните часове на лицата на сумирано отчитане. Можете да ги редактирате от </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Настройки&quot;</text><text styleclass="Normal" translate="true"> -&gt; </text><text styleclass="Normal" style="font-weight:bold;" translate="true">&quot;Работни смени&quot;.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><tab /><image src="rabotni-smeni.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
   </body>
 </topic>
