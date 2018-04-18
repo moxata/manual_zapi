@@ -104,7 +104,7 @@
       <config-value name="charset" translate="true">RUSSIAN_CHARSET</config-value>
       <config-value name="deffont">font-family:Tahoma; font-size:11pt; color:#000000;</config-value>
       <config-value name="topicprefix"></config-value>
-      <config-value name="autohelpstart">900</config-value>
+      <config-value name="autohelpstart">920</config-value>
       <config-value name="autohelpincrement">10</config-value>
       <config-value name="autohelpanchor">0</config-value>
       <config-value name="searchpath">..\</config-value>
@@ -458,6 +458,7 @@ document.write('</frameset>');
       <helpcontext-number href="dekl_1_6" value="650"/>
       <helpcontext-number href="desen_dopl" value="330"/>
       <helpcontext-number href="desen_prenazna4" value="320"/>
+      <helpcontext-number href="dosie" value="910"/>
       <helpcontext-number href="eObez_corr" value="800"/>
       <helpcontext-number href="GD_4th_quarter" value="840"/>
       <helpcontext-number href="Newitem83" value="310"/>
@@ -465,6 +466,7 @@ document.write('</frameset>');
       <helpcontext-number href="Newitem89" value="370"/>
       <helpcontext-number href="Newitem90" value="380"/>
       <helpcontext-number href="Newitem91" value="390"/>
+      <helpcontext-number href="oschet" value="920"/>
       <helpcontext-number href="payments" value="820"/>
       <helpcontext-number href="platOtpProviz" value="860"/>
       <helpcontext-number href="PrisForm" value="410"/>
