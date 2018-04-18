@@ -8,12 +8,12 @@
     </header>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">Програмата предоставя възможност за автоматично въвеждане на минимален осигурителен праг за всеки служител. Необходимо е само да се въведе Код на икономическа дейност и Номер квалификационна група. </text></para>
     <para styleclass="NormalFirstIdent"></para>
-    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК СЕ ВЪВЕЖДА МИНИМАЛЕН ПРАГ?</text></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">КАК СЕ ВЪВЕЖДА ПРАГ?</text></para>
     <para styleclass="Heading1"></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="font-family:Tahoma; font-size:11pt; color:#000000;">
       <li styleclass="List"><text styleclass="List" translate="true">Въвеждаме в колона 13 - Код на икономическа дейност (НКИД)</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">След това въвеждаме в колона 14 - Номер квалификационна група </text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Програмата автоматично ще попълни колона 16 с минималния осигурителен праг. За някои професии трябва да се посочи и колона 15 - Пореден номер икон. дейност. </text><text styleclass="List" style="font-style:italic;" translate="true">Това се случва най-вече при докторите където на един и същи НКИД отговарят два поредни номера в таблицата на осигурителните прагове.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Програмата автоматично ще попълни колона 16 с осигурителен праг. За някои професии трябва да се посочи и колона 15 - Пореден номер икон. дейност. </text><text styleclass="List" style="font-style:italic;" translate="true">Това се случва най-вече при докторите където на един и същи НКИД отговарят два поредни номера в таблицата на осигурителните прагове.</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Запазваме промените с бутон &quot;V&quot; от лентата с инструменти</text></li>
     </list>
     <para styleclass="List"></para>
