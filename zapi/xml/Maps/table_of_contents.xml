@@ -164,6 +164,9 @@
     <topicref type="topic" id="411036680238934" build="ALL" modified="2012-07-17T11:33:32.510Z" icon="0" href="desen_sobst">
       <caption translate="true">Опции за собствениците</caption>
     </topicref>
+    <topicref type="topic" id="432073569391925" build="ALL" modified="2018-04-17T13:22:32.601Z" icon="0" href="dosie">
+      <caption translate="true">Досие</caption>
+    </topicref>
   </topicref>
   <topicref type="topic" id="411038975974996" build="ALL" modified="2012-07-13T16:56:41.075Z" icon="0">
     <caption translate="true">ОПЦИИ ЗА МЕСЕЦА</caption>
@@ -337,6 +340,9 @@
       <topicref type="topic" id="424719206403093" build="ALL" modified="2016-04-11T20:59:35.126Z" icon="0" href="userRights">
         <caption translate="true">Задаване на права и потребители</caption>
       </topicref>
+    </topicref>
+    <topicref type="topic" id="432084250305108" build="ALL" modified="2018-04-18T12:38:57.893Z" icon="0" href="oschet">
+      <caption translate="true">Осчетоводяване в Прециз-СХ</caption>
     </topicref>
     <topicref type="topic" id="411035857652929" build="ALL" modified="2012-07-13T16:56:41.077Z" icon="0" href="Newitem66">
       <caption translate="true">Изпращане на данни за проверка през интернет</caption>
