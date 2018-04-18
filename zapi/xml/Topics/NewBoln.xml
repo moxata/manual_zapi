@@ -14,11 +14,11 @@
     <para styleclass="NormalFirstIdent"></para>
     <para style="text-align:center; margin-left:19px;"><image src="new_boln.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
     <para style="margin-left:19px;"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Когато болничния лист е за бременност и раждане трябва задължително да сложите отметката </text><text styleclass="Comment" style="font-weight:bold;" translate="true">&quot;Ръчно задаване на дните във ведомостта&quot;</text><text styleclass="Comment" translate="true">. Ако не го направите, дните ще се дублират с тези генерирани от функцията &quot;</text><text styleclass="Comment" style="font-weight:bold;" translate="true">Майчинство</text><text styleclass="Comment" translate="true">&quot;.</text></para>
-    <para styleclass="NormalFirstIdent"></para>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">След като сте попълнили формата натиснете бутона &quot;</text><text styleclass="NormalFirstIdent" style="font-weight:bold;" translate="true">Попълване на удостоверения</text><text styleclass="NormalFirstIdent" translate="true">&quot;. </text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="NormalFirstIdent" style="text-align:center;"><image src="eObez.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="NormalFirstIdent"></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Когато болничния лист е за бременност и раждане трябва задължително да сложите наличие на 12 месеца осиг. стаж към деня на настъпване на събитието</text></para>
     <para styleclass="NormalFirstIdent"><text styleclass="NormalFirstIdent" translate="true">В появилата се форма в повечето случаи остава да се попълнят още няколко полета. Пр. дали лицето има 6 месеца осиг. стаж, дали е на срочен договор и т.н. Ако лицето работи на два трудови договора, във фирмата се генерират две удостоверения и горе в ляво има надпис &quot;Правоотношение 1 от 2&quot;. Трябва да потвърдите удостоверението по всяко правоотношение чрез бутона &quot;Запис&quot;. </text></para>
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="NormalFirstIdent" style="text-align:center;"><image src="eObez_unchecked.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
@@ -31,6 +31,6 @@
     <para styleclass="NormalFirstIdent"></para>
     <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> След като се експортира записа за удостоверението, се активира отметката &quot;</text><text styleclass="Comment" style="font-weight:bold;" translate="true">Предадено в НОИ</text><text styleclass="Comment" translate="true">&quot;. Ако не сте успели да предадете удостоверението успешно, можете да го редактирате и да премахнете тази отметка.</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Tahoma; font-size:11pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Друга полезна възможност е разпечатването автоматично попълнени Удостоверение и съответстващото Приложение на НОИ. Препоръчително е до пазите хартиен архив на тези документи, както и да изискате подпис от служителя в Приложението.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Tahoma; font-size:11pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Друга полезна възможност е разпечатването на автоматично попълнени Удостоверение и съответстващото Приложение на НОИ. Препоръчително е до пазите хартиен архив на тези документи, както и да изискате подпис от служителя в Приложението.</text></para>
   </body>
 </topic>
