@@ -94,8 +94,8 @@
     </styleclasses>
     <config-group name="project">
       <config-value name="title" translate="true">ТРЗ ЗАПИ</config-value>
-      <config-value name="copyright" translate="true">© 2016 КомБайт</config-value>
-      <config-value name="comment">8.8</config-value>
+      <config-value name="copyright" translate="true">© 2018 КомБайт</config-value>
+      <config-value name="comment">9.3</config-value>
       <config-value name="versionmajor">4</config-value>
       <config-value name="versionminor">0</config-value>
       <config-value name="versionbuild">0</config-value>
@@ -417,7 +417,7 @@ document.write('</frameset>');
       <config-value name="project.lastexport">4</config-value>
       <config-group name="moxata">
         <config-group name="project">
-          <config-value name="lastexport">0</config-value>
+          <config-value name="lastexport">4</config-value>
         </config-group>
       </config-group>
     </config-group>
