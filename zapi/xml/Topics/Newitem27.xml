@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Как да създадем Граждански договор?</title>
   <body>
     <header>
@@ -14,11 +14,11 @@
       <li styleclass="List"><text styleclass="List" translate="true">Щракнете бутона &quot;Избор&quot; срещу полето &quot;Изпълнител №&quot;, за да изберете изпълнител от прозореца, който се отваря. Ако желаното лице не фигурира в този списък, трябва да </text><link displaytype="text" defaultstyle="true" type="topiclink" href="newIzpuln" styleclass="List" translate="true">въведете съответните данни за него</link></li>
       <li styleclass="List"><text styleclass="List" translate="true">Изберете дата на начало и дата на край на договора</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Задайте код за вид доход</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">По подразбиране процентът на нормативните признати разходи е 25. Ако желаете да го промените, щракнете върху стрелкичката вдясно от това поле и от падащото меню изберете желания процент. Също така може да се задава процент, който потребителят да вписва директно.</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">По подразбиране процентът на нормативните признати разходи е 25. Ако желаете да го промените, щракнете върху стрелкичката вдясно от това поле и от падащото меню изберете желания процент</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">За месеците, за които гражданският договор е в сила, въведете сумите по него </text></li>
       <li styleclass="List"><text styleclass="List" translate="true">Ако изпълнителят има и други правоотношения, това трябва да се отбележи в колона &quot;Др.правоотн?&quot;. В такъв случай се въвежда и &quot;Друг.ос.доход&quot;</text></li>
       <li styleclass="List"><text styleclass="List" translate="true">&#32;</text><text styleclass="List" style="font-weight:bold;" translate="true">Най-важната колона е &quot;Дата на плащане&quot;</text><text styleclass="List" translate="true"> - ако не въведете дата тук, сумата за този месец няма да се начисли. </text><text styleclass="List" style="text-decoration:underline;" translate="true">При граждански договори сумите се начисляват в месеца, в който са изплатени!</text></li>
-      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху страница &quot;Предмет и условия&quot;, за да въведете предмет на договора и задължения на Възложителят и на Изпълнителят</text></li>
+      <li styleclass="List"><text styleclass="List" translate="true">Щракнете върху страница &quot;Предмет и условия&quot;, за да въведете предмет на договора и задължения на Възложителя и на Изпълнителя</text></li>
     </list>
   </body>
 </topic>
