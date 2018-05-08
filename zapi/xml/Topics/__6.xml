@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Осигуряване според закона</title>
   <body>
     <header>
@@ -25,7 +25,9 @@
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Общ случай</text></para>
         </td>
         <td>
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">ДОО, ако има други правоотношения, ЗОВ (мин. осиг. доход / 2) * 8% = 20.40 лв., които се внасят по ЕГН, ако не работи другаде</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ДОО, ако има други правоотношения, ЗОВ (мин. осиг. доход / 2) * 8% = 20.40 лв. към 2018г.</text></para>
+          <para styleclass="Normal"></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Внасят по ЕГН, ако не работи другаде.</text></para>
         </td>
         <td>
           <para styleclass="Normal"><text styleclass="Normal" translate="true">ЗОВ, ДОО</text></para>
@@ -47,7 +49,9 @@
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Пенсионер, които е решил да внася ДОО</text></para>
         </td>
         <td>
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">ДОО, ако има други правоотношения, ЗОВ (мин. осиг. доход / 2) * 8% = 20.40 лв., които се внасят по ЕГН, ако не работи другаде</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ДОО, ако има други правоотношения, ЗОВ (мин. осиг. доход / 2) * 8% = 20.40 лв. към 2018г.</text></para>
+          <para styleclass="Normal"></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Внасят по ЕГН, ако не работи другаде</text></para>
         </td>
         <td>
           <para styleclass="Normal"><text styleclass="Normal" translate="true">ЗОВ, ДОО</text></para>
@@ -66,6 +70,6 @@
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">* </text><text styleclass="Normal" style="font-style:italic;" translate="true">Данните са актуални към 2016г.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">* </text><text styleclass="Normal" style="font-style:italic;" translate="true">Данните са актуални към 2018г.</text></para>
   </body>
 </topic>
