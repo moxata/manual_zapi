@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Удръжки по видове</title>
   <body>
     <header>
@@ -8,6 +8,6 @@
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Тази справка показва месечен сбор по видове удръжки за цялата фирма. Полезна е при осчетоводяването на данните от ТРЗ.</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка: </text><text styleclass="Comment" style="font-weight:normal;" translate="true">При наличие на счетоводна програма Прециз-СХ, осчетоводяването е автоматизирано през сервиз</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка: </text><text styleclass="Comment" style="font-weight:normal;" translate="true">При наличие на счетоводна програма Прециз-СХ, осчетоводяването е автоматизирано чрез &quot;Сервиз&quot; -&gt; &quot;Осчетоводяване в Прециз-СХ&quot;.</text></para>
   </body>
 </topic>
