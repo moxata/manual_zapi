@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Осчетоводяване в Прециз-СХ</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text styleclass="Heading1" translate="true">Осчетоводяване в Прециз-СХ</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">При наличие на счетоводна програма Прециз-СХ на същото работно място или на друго с мрежов достъп, ТРЗ Запи предлага автоматично осчетоводяване на осигуровките.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Как се осчетоводява в Прециз-СХ?</text></para>
+    <list id="14" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:11pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-weight:normal;" translate="true"> Трябва да се зададе път към базата данни на същата фирма в Прециз-СХ. Най-лесно е да се копира от самата счетоводна програма</text></li>
+    </list>
+    <para styleclass="Normal"><image src="oschet-preciz.jpg" scale="81.71%" width="773" height="262" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">2. Копираният адрес (път) се поставя в даденото поле</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">3. Избира се месецът, който ще бъде осчетоводен</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">4. Трябва да светне в зелено лампичката горе в дясно на прозорецът и даваме бутона &quot;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:bold;" translate="true">Изчисляване на сумите</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">&quot;</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">5. Долу срещу съответният вид плащане се въвеждат контировките Дебит и Кредит като може да се избира и от бутона на всяка клетка. Според сметката при различните бази има различен брой нива на аналитичност. Те се оцветяват в светло зелено.</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">6. След като сме готови с попълването на контировките трябва да изберем приключвателни операции, ако трябва да се зададат такива. Натискаме първо &quot;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:bold;" translate="true">Изчисляване на салдата</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">&quot;</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">7. Отдолу задаваме дата на счетоводният документ, папка и архивен номер</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">8. Избираме вариант между двата налични. Единият е директно въвеждане на документ в Прециз-СХ чрез &quot;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:bold;" translate="true">Осчетоводяване в </text><text styleclass="Image Caption" style="font-size:11pt; font-weight:bold;" translate="true">Прециз-СХ</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">&quot;, а другият е създаване на файл за импорт в Прециз-СХ чрез &quot;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:bold;" translate="true">Генериране на файл за импорт в Прециз-СХ</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;" translate="true">&quot;</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="oschet.jpg" scale="89.71%" width="902" height="628" styleclass="Image Caption"></image></para>
+  </body>
+</topic>
