@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="Georgi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" lasteditedby="moxata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Как да зададем дата на назначаване или освобождаване?</title>
   <body>
     <header>
@@ -20,7 +20,7 @@
     <para styleclass="Normal"></para>
     <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Важно е да обърнете внимание на съдържанието на поле 2 - &quot;Договор №&quot;. При допълнително споразумение номерът на договора не трябва да се променя, защото на практика няма нов договор. Този номер се използва за връзка на записите между месеците. Примерно при изчисляване на платен отпуск, стаж, УП-та и т.н.</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Полетата за първи и последен работен ден са изнесени за удобство и при общ изглед от бутона изглед над катинарчето. Първото поле се отнася за първи работен ден и се попълва при необходимост два знака пр. 21. Второто поле служи за последен работен ден. Попълването е аналогично с първото.</text><br/><text styleclass="Comment" translate="true">Може да бъде попълнен както само първи, така и само последен работен ден.</text></para>
+    <para styleclass="Comment"><text styleclass="Comment" style="font-weight:bold;" translate="true">Забележка:</text><text styleclass="Comment" translate="true"> Полетата за първи и последен работен ден са изнесени за удобство и в изглед &quot;Обща информация&quot; (от бутона &quot;Изглед&quot; над катинарчето). Първото поле се отнася за първи работен ден и се попълва при необходимост в два знака пр. 21. Второто поле служи за последен работен ден. И първия и последния ден са работни.</text></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>
