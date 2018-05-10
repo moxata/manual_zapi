@@ -1,3 +1,4 @@
 /zapi/xml/zapi2014.pdf
 *.pdf
 *.chm
+/zapi/xml/HTML/*
