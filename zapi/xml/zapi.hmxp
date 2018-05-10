@@ -25,7 +25,7 @@
           <export-task name="Publish as HTM" format="HTM">
             <task-config-group name="settings">
               <task-config-value name="outputfile">.\HTML\index.html</task-config-value>
-              <task-config-value name="skin">..\..\..\..\..\Program Files\EC Software\HelpAndManual6\Templates\HTML Skins\Twoframe_Classic_Skin_Silver.hmskin</task-config-value>
+              <task-config-value name="skin">..\..\..\..\..\Integrated IFrames with Header - Blue.hmskin</task-config-value>
               <task-config-value name="make3include">HTML</task-config-value>
               <task-config-value name="make3status">*</task-config-value>
             </task-config-group>
@@ -221,9 +221,6 @@ document.write('</frameset>');
       <config-value name="contentautocollapse">0</config-value>
       <config-value name="contentexpand">0</config-value>
       <config-value name="defaulticons">1</config-value>
-      <config-value name="iconopenbook"></config-value>
-      <config-value name="iconclosedbook"></config-value>
-      <config-value name="icontopic"></config-value>
       <config-value name="toceditor">0</config-value>
       <config-value name="tocsimpletext1" translate="true"><![CDATA[<font face="Arial,Helvetica" size="4"><b><%TITLE%></b></font><br>
 <font face="Arial,Helvetica" size="2">
@@ -317,7 +314,13 @@ document.write('</frameset>');
       <config-value name="iframebordercolor">#FFFFFF</config-value>
       <config-value name="iframeheaderheight">60</config-value>
       <config-value name="iframeheaderhtml" translate="true"><![CDATA[<p><%TITLE%></p>]]></config-value>
-      <config-value name="skin">..\..\..\..\..\..\Program Files\EC Software\HelpAndManual6\Templates\HTML Skins\Twoframe_Classic_Skin_Silver.hmskin</config-value>
+      <config-value name="skin">..\..\..\..\..\Integrated IFrames with Header - Blue.hmskin</config-value>
+      <config-value name="contentnumberstyle">1.1.1.1.1.1</config-value>
+      <config-value name="forcetocsync">1</config-value>
+      <config-value name="iconclosedbook">..\..\..\..\..\tree_closed.png</config-value>
+      <config-value name="iconopenbook">..\..\..\..\..\tree_open.png</config-value>
+      <config-value name="icontopic">..\..\..\..\..\tree_file.png</config-value>
+      <config-value name="sitemap">http://combyte-bg.com/docs/zapi</config-value>
     </config-group>
     <config-group name="pdf">
       <config-value name="template">zapi.mnl</config-value>
@@ -417,7 +420,7 @@ document.write('</frameset>');
       <config-value name="project.lastexport">4</config-value>
       <config-group name="moxata">
         <config-group name="project">
-          <config-value name="lastexport">0</config-value>
+          <config-value name="lastexport">3</config-value>
         </config-group>
       </config-group>
     </config-group>
