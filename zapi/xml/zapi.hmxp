@@ -25,7 +25,7 @@
           <export-task name="Publish as HTM" format="HTM">
             <task-config-group name="settings">
               <task-config-value name="outputfile">.\HTML\index.html</task-config-value>
-              <task-config-value name="skin">..\..\..\..\..\Integrated IFrames with Header - Blue.hmskin</task-config-value>
+              <task-config-value name="skin">..\..\skin\combyte.hmskin</task-config-value>
               <task-config-value name="make3include">HTML</task-config-value>
               <task-config-value name="make3status">*</task-config-value>
             </task-config-group>
@@ -314,7 +314,7 @@ document.write('</frameset>');
       <config-value name="iframebordercolor">#FFFFFF</config-value>
       <config-value name="iframeheaderheight">60</config-value>
       <config-value name="iframeheaderhtml" translate="true"><![CDATA[<p><%TITLE%></p>]]></config-value>
-      <config-value name="skin">..\..\..\..\..\Integrated IFrames with Header - Blue.hmskin</config-value>
+      <config-value name="skin">..\..\skin\combyte.hmskin</config-value>
       <config-value name="contentnumberstyle">1.1.1.1.1.1</config-value>
       <config-value name="forcetocsync">1</config-value>
       <config-value name="iconclosedbook">..\..\..\..\..\tree_closed.png</config-value>
